@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1综合 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="",CCTV-2财经 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",CCTV-3综艺 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="General",CCTV-4中文国际 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV-5+体育赛事 
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sports",CCTV-5体育 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies",CCTV-6电影 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="",CCTV-7国防军事 
+http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="",CCTV-8电视剧 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary",CCTV-9纪录 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV-10科教 
+http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="",CCTV-11戏曲 
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="",CCTV-12社会与法制 
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV-13新闻 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-14_Logo.png" group-title="News",CCTV-14少儿
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Music",CCTV-15音乐 
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV-17农业农村 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="CCTVNuXingShiShang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV-女性时尚 
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-id="CCTVLaoGuShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV-老故事 
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-id="CGTNJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CGTN纪录 
+http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 tvg-id="CNCZhongWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CNC中文  
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="",东方卫视 
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="ShangHaiDongFangYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",上海东方影视 
+http://112.25.48.68/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="ShangHaiWuXingTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",上海五星体育 
+http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="DongNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东南卫视 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="AnHuiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="YunNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",云南卫视 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 
+http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
+#EXTINF:-1 tvg-id="BeiJingDongAoJiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",北京冬奥纪实 
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=158&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="BeiJingQiaKuShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",北京卡酷少儿 
+http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
+#EXTINF:-1 tvg-id="BeiJingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="",北京卫视  
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="ShaMenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="",厦门卫视 
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 tvg-id="JiLinWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="",吉林卫视 
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=25&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="JiLinYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8
+#EXTINF:-1 tvg-id="TianJinWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/TJWS.png" group-title="",天津卫视 
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="ShanDongWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png" group-title="",山东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-id="ShanXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",山西卫视 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="GuangXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广西卫视 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="YanBianWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="",延边卫视 
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="JiangXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png" group-title="",江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-id="SiChuanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png" group-title="",四川卫视
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=3&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="HeBeiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河北卫视
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=45&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="HeNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" group-title="",河南卫视
+http://117.169.124.37:6610/ysten-businessmobile/live/henanstv/yst.m3u8
+#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",浙江卫视
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-id="ZheJiangYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/ZJYS.png" group-title="",浙江影视
+http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+#EXTINF:-1 tvg-id="HaiNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",海南卫视
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=114&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="ShenZhenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="HuBeiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" group-title="",湖北卫视
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1 tvg-id="HuNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="",湖南卫视
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-id="HuNanJinYingQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南金鹰卡通
+http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1 tvg-id="GanSuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",甘肃卫视
+http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
+#EXTINF:-1 tvg-id="HeiLongJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png" group-title="",黑龙江卫视 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-id="XinJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",新疆卫视
+http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+#EXTINF:-1 tvg-id="ChongQingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" group-title="",重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-id="FengHuangZhongWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤凰中文 
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 tvg-id="FengHuangZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤凰资讯 
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1280px-Phoenix_HK.svg.png" group-title="General",凤凰香港
+https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+#EXTINF:-1 tvg-id="FengTaiWenHuaShengHuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤台文化生活  
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+#EXTINF:-1 tvg-id="FengTaiZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤台综合  
+http://60.175.115.119:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="xinghe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",TVB星河  
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBFeiCuiTai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",TVB翡翠台 
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=188&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="NewTVDongHuaWangGuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV动画王国 
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="NewTVGuZhuangJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV古装剧场 
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 tvg-id="NewTVWanMeiYouXi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV完美遊戲 
+http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 tvg-id="NewTVJiaTingJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV家庭剧场 
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 tvg-id="NewTVMingXingDaPian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV明星大片 
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="NewTVZhongGuoGongFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV中国功夫
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-id="NewTVWuBoShiJie.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV武搏世界 
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 tvg-id="NewTVAiQingXiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV爱情喜剧 
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 tvg-id="NewTVJingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品体育 
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 tvg-id="NewTVJingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品大剧 
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-id="NewTVJingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品纪录 
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 tvg-id="NewTVJingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品電影 
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="NewTVChaoJiTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级体育 
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="NewTVChaoJiDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电影 
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="NewTVChaoJiDianShiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电视剧 
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="NewTVChaoJiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级综艺 
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="NewTVJinPaiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV金牌综艺 
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 tvg-id="SiTVQiCaiXiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV七彩戏剧 
+http://112.25.48.68/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVDongFangCaiJing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV东方财经 
+http://112.25.48.68/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVQuanJiShiTai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV全纪实台 
+http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVDongManXiuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV动漫秀场 
+http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVJingBaoTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV劲爆体育 
+http://112.25.48.68/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVHuanXiaoJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV欢笑剧场 
+http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVYouXiFengYun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV游戏风云 
+http://112.25.48.68/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVDuShiJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV都市剧场 
+http://112.25.48.68/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SiTVMeiLiZuQiu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",SiTV魅力足球 
+http://112.25.48.68/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="JunLuJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",军旅剧场 
+http://117.169.124.37:6610/ysten-businessmobile/live/junlvjc/yst.m3u8
+#EXTINF:-1 tvg-id="JingShiJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",京视剧场 
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="GuZhuangJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",古装剧场 
+http://117.169.124.37:6610/ysten-businessmobile/live/guzhuangjc/yst.m3u8
+#EXTINF:-1 tvg-id="JiaTingJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",家庭剧场 
+http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8
+#EXTINF:-1 tvg-id="JiaTingYingYuan.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",家庭影院 
+http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="JingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品体育 
+http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
+#EXTINF:-1 tvg-id="JingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品大剧 
+http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8
+#EXTINF:-1 tvg-id="JingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品电影 
+http://117.169.124.37:6610/ysten-businessmobile/live/jdianying/yst.m3u8
+#EXTINF:-1 tvg-id="JingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品记录 
+http://117.169.124.37:6610/ysten-businessmobile/live/jingpinjl/yst.m3u8
+#EXTINF:-1 tvg-id="HuaShu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",华数  
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1 tvg-id="DouYuDianYing2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",斗鱼电影
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
+#EXTINF:-1 tvg-id="HongNiuREDBULLTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",红牛TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="GaoQingDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",高清电影 
+http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="DongZuoDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",动作电影 
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="jinbaotiyu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",劲爆体育NBA  
+http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="meijupindao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",美剧频道 
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id="MiGuShiPin.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",咪咕视频 
+http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="LanQiuZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",篮球资讯
+http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8
+#EXTINF:-1 tvg-id="YouManQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",优漫卡通 
+http://117.169.124.37:6610/ysten-businessmobile/live/youmankaton/yst.m3u8
+#EXTINF:-1 tvg-id="JiaJiaQiaTongGuangDong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",嘉佳卡通
+http://112.25.48.68/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="JiXuJiaoYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",继续教育
+http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
+#EXTINF:-1 tvg-id="JiShiRenWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",纪实人文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
