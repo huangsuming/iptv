@@ -64,13 +64,13 @@ http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/i
 #EXTINF:-1 tvg-id="" tvg-name="CCTV央视文化精品" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-央视文化精品.png" group-title="总台",CCTV央视文化精品
 http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV1.png" group-title="总台",CETV1-综合教育频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV2.png" group-title="总台",CETV2-教育教学频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育3台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV3.png" group-title="总台",CETV3-北京地面频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV4.png" group-title="总台",CETV4-职业教育频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN.png" group-title="总台",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN-纪录.png" group-title="总台",CGTN纪录
