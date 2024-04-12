@@ -1,0 +1,93 @@
+name: Update
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0 5 * * 5
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Manual trigger'
+        required: false
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+      
+    - name: Update
+      run: |
+        # 央视源
+        wget https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u -O CCTV.m3u
+        sed -i -n '/央视IPV6/,+1p' CCTV.m3u
+        sed -i 's/央视IPV6/央视/g' CCTV.m3u
+        sed -i '1i #EXTM3U' CCTV.m3u
+        sed -i '/^\s*$/d' CCTV.m3u
+
+        # 卫视源
+        wget https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u -O CNTV.m3u 
+        sed -i -n '/卫视IPV6/,+1p' CNTV.m3u
+        sed -i 's/卫视IPV6/卫视/g' CNTV.m3u
+        sed -i '/凤凰/{N;d;}' CNTV.m3u
+        sed -i '1i #EXTM3U' CNTV.m3u
+        sed -i '/^\s*$/d' CNTV.m3u
+
+        # 香港源
+        wget https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u -O HKTV.m3u 
+        sed -i -n '/凤凰/,+1p' HKTV.m3u
+        sed -i 's/卫视IPV6/香港/g' HKTV.m3u
+        sed -i '1i #EXTM3U' HKTV.m3u
+        sed -i '/^\s*$/d' HKTV.m3u
+
+        # 国际源
+        wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O GJTV.m3u 
+        sed -i -n '/国际/,+1p' GJTV.m3u
+        sed -i '/凤凰/{N;d;}' GJTV.m3u
+        sed -i '1i #EXTM3U' GJTV.m3u
+        sed -i '/^\s*$/d' GJTV.m3u
+
+        # 整合源
+        > iptv.txt        
+        cat CCTV.m3u >> iptv.txt
+        cat CNTV.m3u >> iptv.txt
+        cat HKTV.m3u >> iptv.txt
+        cat GJTV.m3u >> iptv.txt
+        sed -i '/#EXTM3U/d' iptv.txt
+        sed -i '1i #EXTM3U' iptv.txt
+        sed -i '/^\s*$/d' iptv.txt
+        sed -i 's/tvg-logo="https:\/\/epg.112114.eu.org\/logo/tvg-logo="https:\/\/live.fanmingming.com\/tv/g' iptv.txt
+        sed -i 's/tvg-logo="https:\/\/epg.112114.xyz\/logo/tvg-logo="https:\/\/live.fanmingming.com\/tv/g' iptv.txt
+        sed -i 's/tvg-logo="https:\/\/raw.githubusercontent.com/tvg-logo="https:\/\/ghproxy.com\/https:\/\/raw.githubusercontent.com/g' iptv.txt
+        mv iptv.txt list        
+ 
+        # 节目源
+        > EPG.xml && wget https://epg.imxd.top/download/all-mxdyeah.xml -O EPG.xml
+
+    - name: Clean
+      run: |
+        rm -rf CCTV.m3u CNTV.m3u HKTV.m3u GJTV.m3u
+        git config --local user.email "huangsuming@users.noreply.github.com"
+        git config --local user.name "huangsuming"
+        git checkout --orphan latest_branch
+        git add .
+        git commit -m "${{ steps.date.outputs.date }}"
+        git branch -D main
+        git branch -m main
+        
+    - name: Push
+      run: |
+        git push -f origin main
+
