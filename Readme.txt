@@ -179,6 +179,10 @@ https://sao.fm
 https://www.tvzb.com/
 (6) imxd(论坛)
 https://discuz.mxdyeah.top/
+(7) 好趣网(电视)
+http://tv.haoqu99.com/
+(8) 123iptv
+https://www.123iptv.tv/
 2.5 活跃用户
 https://www.right.com.cn/forum/?449509
 
