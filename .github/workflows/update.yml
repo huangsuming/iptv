@@ -75,7 +75,7 @@ jobs:
  
         # 节目源
         wget https://epg.imxd.top/download/all-mxdyeah.xml -O imxd.xml
-	mv imxd.xml epg
+        mv imxd.xml epg
 
     - name: Clean
       run: |
@@ -91,4 +91,4 @@ jobs:
     - name: Push
       run: |
         git push -f origin main
-
+        
