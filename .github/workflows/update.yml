@@ -53,18 +53,18 @@ jobs:
         sed -i '/^\s*$/d' HKTV.m3u
 
         # 国际源
-        wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O GJTV.m3u 
-        sed -i -n '/国际/,+1p' GJTV.m3u
-        sed -i '/凤凰/{N;d;}' GJTV.m3u
-        sed -i '1i #EXTM3U' GJTV.m3u
-        sed -i '/^\s*$/d' GJTV.m3u
+        wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O GloTV.m3u 
+        sed -i -n '/国际/,+1p' GloTV.m3u
+        sed -i '/凤凰/{N;d;}' GloTV.m3u
+        sed -i '1i #EXTM3U' GloTV.m3u
+        sed -i '/^\s*$/d' GloTV.m3u
 
         # 整合源
         > iptv.txt        
         cat CCTV.m3u >> iptv.txt
         cat CNTV.m3u >> iptv.txt
         cat HKTV.m3u >> iptv.txt
-        cat GJTV.m3u >> iptv.txt
+        cat GloTV.m3u >> iptv.txt
         sed -i '/#EXTM3U/d' iptv.txt
         sed -i '1i #EXTM3U' iptv.txt
         sed -i '/^\s*$/d' iptv.txt
@@ -74,11 +74,12 @@ jobs:
         mv iptv.txt list        
  
         # 节目源
-        > EPG.xml && wget https://epg.imxd.top/download/all-mxdyeah.xml -O EPG.xml
+        wget https://epg.imxd.top/download/all-mxdyeah.xml -O imxd.xml
+	mv imxd.xml epg
 
     - name: Clean
       run: |
-        rm -rf CCTV.m3u CNTV.m3u HKTV.m3u GJTV.m3u
+        rm -rf CCTV.m3u CNTV.m3u HKTV.m3u GloTV.m3u
         git config --local user.email "huangsuming@users.noreply.github.com"
         git config --local user.name "huangsuming"
         git checkout --orphan latest_branch

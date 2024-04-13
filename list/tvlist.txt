@@ -38,37 +38,37 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV17.png" group-title="总台",CCTV17农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-兵器科技.png" group-title="总台",CCTV兵器科技
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV第一剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-第一剧场.png" group-title="总台",CCTV第一剧场
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-电视指南.png" group-title="总台",CCTV电视指南
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-风云剧场.png" group-title="总台",CCTV风云剧场
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-风云音乐.png" group-title="总台",CCTV风云音乐
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云足球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-风云足球.png" group-title="总台",CCTV风云足球
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV高尔夫网球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-高尔夫网球.png" group-title="总台",CCTV高尔夫网球
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-怀旧剧场.png" group-title="总台",CCTV怀旧剧场
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-女性时尚.png" group-title="总台",CCTV女性时尚
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV世界地理" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-世界地理.png" group-title="总台",CCTV世界地理
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV卫生健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-卫生健康.png" group-title="总台",CCTV卫生健康
-http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV央视台球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-央视台球.png" group-title="总台",CCTV央视台球
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV央视文化精品" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-央视文化精品.png" group-title="总台",CCTV央视文化精品
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV1.png" group-title="总台",CETV1-综合教育频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV2.png" group-title="总台",CETV2-教育教学频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育3台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV3.png" group-title="总台",CETV3-北京地面频道
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV4.png" group-title="总台",CETV4-职业教育频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN.png" group-title="总台",CGTN
@@ -174,11 +174,11 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/" group-title="付费",纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-动作电影.png" group-title="付费",CHC动作电影
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-高清电影.png" group-title="付费",CHC高清电影
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-家庭影院.png" group-title="付费",CHC家庭影院
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC梨园频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/Henan-梨园频道.png" group-title="付费",CHC梨园频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="CHC文物宝库" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/Henan-文物宝库.png" group-title="付费",CHC文物宝库
@@ -235,8 +235,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-军事评论" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-军事评论.png" group-title="付费",NewTV-军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV-魅力潇湘" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-魅力潇湘.png" group-title="付费",NewTV-魅力潇湘
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-明星大片" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-明星大片.png" group-title="付费",NewTV-明星大片
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-农业致富" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-农业致富.png" group-title="付费",NewTV-农业致富
@@ -270,7 +268,9 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?ch
 #EXTINF:-1 tvg-id="" tvg-name="SiTV-生活时尚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-生活时尚.png" group-title="付费",SiTV-生活时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="SiTV-游戏风云" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-游戏风云.png" group-title="付费",SiTV-游戏风云
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="华数-测试" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-测试
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="华数-4K影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-4K影视.png" group-title="付费",华数-4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="华数-电子竞技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-电子竞技
@@ -333,6 +333,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discover Film" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English" group-title="外语",Fashion TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Weather" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Fox Weather
