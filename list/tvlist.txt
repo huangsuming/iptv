@@ -87,9 +87,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 http://59.44.192.82:65000/hls/97/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHTV-百姓健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CHTV-百姓健康.png" group-title="总台",CHTV-百姓健康
 https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC-新华全球连线(中文)" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC-中文台.png" group-title="总台",CNC-新华全球连线(中文)
+#EXTINF:-1 tvg-id="" tvg-name="CNC-新华新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC-中文台.png" group-title="总台",CNC-新华新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC-新华全球连线(英文)" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC-英文台.png" group-title="总台",CNC-新华全球连线(英文)
+#EXTINF:-1 tvg-id="" tvg-name="CNC-新华全球连线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC-英文台.png" group-title="总台",CNC-新华全球连线
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRI-环球奇观" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CRI-环球奇观.png" group-title="总台",CRI-环球奇观
 http://59.44.192.82:65000/hls/35/index.m3u8
