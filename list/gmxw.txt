@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 ,¹ã¶«ÌåÓı
+#EXTINF:-1 ,å¹¿ä¸œä½“è‚²
 http://gmxw.7766.org:808/hls/2/index.m3u8
-#EXTINF:-1 ,¹ã¶«¾­¼Ã¿Æ½Ì
+#EXTINF:-1 ,å¹¿ä¸œç»æµç§‘æ•™
 http://gmxw.7766.org:808/hls/4/index.m3u8
-#EXTINF:-1 ,¹ã¶«ĞÂÎÅ
+#EXTINF:-1 ,å¹¿ä¸œæ–°é—»
 http://gmxw.7766.org:808/hls/5/index.m3u8
-#EXTINF:-1 ,¹ã¶«Ó°ÊÓ
+#EXTINF:-1 ,å¹¿ä¸œå½±è§†
 http://gmxw.7766.org:808/hls/6/index.m3u8
-#EXTINF:-1 ,±øÍÅÎÀÊÓ
+#EXTINF:-1 ,å…µå›¢å«è§†
 http://gmxw.7766.org:808/hls/7/index.m3u8
-#EXTINF:-1 ,¼Î¼Ñ¿¨Í¨
+#EXTINF:-1 ,å˜‰ä½³å¡é€š
 http://gmxw.7766.org:808/hls/8/index.m3u8
-#EXTINF:-1 ,¹ã¶«4K³¬¸ßÇå
+#EXTINF:-1 ,å¹¿ä¸œ4Kè¶…é«˜æ¸…
 http://gmxw.7766.org:808/hls/9/index.m3u8
-#EXTINF:-1 ,¼ªÁÖÎÀÊÓ
+#EXTINF:-1 ,å‰æ—å«è§†
 http://gmxw.7766.org:808/hls/10/index.m3u8
-#EXTINF:-1 ,CCTVÊÀ½çµØÀí
+#EXTINF:-1 ,CCTVä¸–ç•Œåœ°ç†
 http://gmxw.7766.org:808/hls/11/index.m3u8
-#EXTINF:-1 ,CCTVÅ®ĞÔÊ±ÉĞ
+#EXTINF:-1 ,CCTVå¥³æ€§æ—¶å°š
 http://gmxw.7766.org:808/hls/12/index.m3u8
-#EXTINF:-1 ,CCTVµçÊÓÖ¸ÄÏ
+#EXTINF:-1 ,CCTVç”µè§†æŒ‡å—
 http://gmxw.7766.org:808/hls/13/index.m3u8
-#EXTINF:-1 ,¹ã¶«ÒÆ¶¯µçÊÓ
+#EXTINF:-1 ,å¹¿ä¸œç§»åŠ¨ç”µè§†
 http://gmxw.7766.org:808/hls/14/index.m3u8
-#EXTINF:-1 ,ÑÓ±ßÎÀÊÓ
+#EXTINF:-1 ,å»¶è¾¹å«è§†
 http://gmxw.7766.org:808/hls/15/index.m3u8
-#EXTINF:-1 ,ÁëÄÏÏ·Çú
+#EXTINF:-1 ,å²­å—æˆæ›²
 http://gmxw.7766.org:808/hls/16/index.m3u8
-#EXTINF:-1 ,ÏÃÃÅÎÀÊÓ
+#EXTINF:-1 ,å¦é—¨å«è§†
 http://gmxw.7766.org:808/hls/17/index.m3u8
-#EXTINF:-1 ,¹ã¶«ÃñÉú
+#EXTINF:-1 ,å¹¿ä¸œæ°‘ç”Ÿ
 http://gmxw.7766.org:808/hls/18/index.m3u8
 #EXTINF:-1 ,CCTV1
 http://gmxw.7766.org:808/hls/19/index.m3u8
 #EXTINF:-1 ,CCTV2
 http://gmxw.7766.org:808/hls/20/index.m3u8
-#EXTINF:-1 ,CCTV±øÆ÷¿Æ¼¼
+#EXTINF:-1 ,CCTVå…µå™¨ç§‘æŠ€
 http://gmxw.7766.org:808/hls/21/index.m3u8
 #EXTINF:-1 ,CCTV4
 http://gmxw.7766.org:808/hls/22/index.m3u8
-#EXTINF:-1 ,¹úÑ§ÆµµÀ
+#EXTINF:-1 ,å›½å­¦é¢‘é“
 http://gmxw.7766.org:808/hls/23/index.m3u8
-#EXTINF:-1 ,ÖĞÑëĞÂÓ°.ÖĞÑ§Éú
+#EXTINF:-1 ,ä¸­å¤®æ–°å½±.ä¸­å­¦ç”Ÿ
 http://gmxw.7766.org:808/hls/24/index.m3u8
 #EXTINF:-1 ,CCTV7
 http://gmxw.7766.org:808/hls/25/index.m3u8
-#EXTINF:-1 ,ÖĞÑëĞÂÓ°.ÀÏ¹ÊÊÂ
+#EXTINF:-1 ,ä¸­å¤®æ–°å½±.è€æ•…äº‹
 http://gmxw.7766.org:808/hls/26/index.m3u8
 #EXTINF:-1 ,CCTV9
 http://gmxw.7766.org:808/hls/27/index.m3u8
@@ -59,155 +59,155 @@ http://gmxw.7766.org:808/hls/30/index.m3u8
 http://gmxw.7766.org:808/hls/31/index.m3u8
 #EXTINF:-1 ,CCTV14
 http://gmxw.7766.org:808/hls/32/index.m3u8
-#EXTINF:-1 ,Êé»­ÆµµÀ
+#EXTINF:-1 ,ä¹¦ç”»é¢‘é“
 http://gmxw.7766.org:808/hls/33/index.m3u8
-#EXTINF:-1 ,CCTV13¸ßÇå
+#EXTINF:-1 ,CCTV13é«˜æ¸…
 http://gmxw.7766.org:808/hls/34/index.m3u8
-#EXTINF:-1 ,CCTV17¸ßÇå
+#EXTINF:-1 ,CCTV17é«˜æ¸…
 http://gmxw.7766.org:808/hls/35/index.m3u8
-#EXTINF:-1 ,ºşÄÏÎÀÊÓ
+#EXTINF:-1 ,æ¹–å—å«è§†
 http://gmxw.7766.org:808/hls/36/index.m3u8
-#EXTINF:-1 ,Õã½­ÎÀÊÓ
+#EXTINF:-1 ,æµ™æ±Ÿå«è§†
 http://gmxw.7766.org:808/hls/37/index.m3u8
-#EXTINF:-1 ,½­ËÕÎÀÊÓ
+#EXTINF:-1 ,æ±Ÿè‹å«è§†
 http://gmxw.7766.org:808/hls/38/index.m3u8
-#EXTINF:-1 ,°²»ÕÎÀÊÓ
+#EXTINF:-1 ,å®‰å¾½å«è§†
 http://gmxw.7766.org:808/hls/40/index.m3u8
-#EXTINF:-1 ,±±¾©ÎÀÊÓ
+#EXTINF:-1 ,åŒ—äº¬å«è§†
 http://gmxw.7766.org:808/hls/41/index.m3u8
-#EXTINF:-1 ,Ìì½òÎÀÊÓ
+#EXTINF:-1 ,å¤©æ´¥å«è§†
 http://gmxw.7766.org:808/hls/42/index.m3u8
-#EXTINF:-1 ,É½¶«ÎÀÊÓ
+#EXTINF:-1 ,å±±ä¸œå«è§†
 http://gmxw.7766.org:808/hls/43/index.m3u8
-#EXTINF:-1 ,½­Î÷ÎÀÊÓ
+#EXTINF:-1 ,æ±Ÿè¥¿å«è§†
 http://gmxw.7766.org:808/hls/44/index.m3u8
-#EXTINF:-1 ,ÉîÛÚÎÀÊÓ
+#EXTINF:-1 ,æ·±åœ³å«è§†
 http://gmxw.7766.org:808/hls/45/index.m3u8
-#EXTINF:-1 ,ºş±±ÎÀÊÓ
+#EXTINF:-1 ,æ¹–åŒ—å«è§†
 http://gmxw.7766.org:808/hls/46/index.m3u8
-#EXTINF:-1 ,ÁÉÄşÎÀÊÓ
+#EXTINF:-1 ,è¾½å®å«è§†
 http://gmxw.7766.org:808/hls/47/index.m3u8
-#EXTINF:-1 ,ºÚÁú½­ÎÀÊÓ
+#EXTINF:-1 ,é»‘é¾™æ±Ÿå«è§†
 http://gmxw.7766.org:808/hls/48/index.m3u8
-#EXTINF:-1 ,¹óÖİÎÀÊÓ
+#EXTINF:-1 ,è´µå·å«è§†
 http://gmxw.7766.org:808/hls/49/index.m3u8
-#EXTINF:-1 ,ËÄ´¨ÎÀÊÓ
+#EXTINF:-1 ,å››å·å«è§†
 http://gmxw.7766.org:808/hls/50/index.m3u8
-#EXTINF:-1 ,ºÓÄÏÎÀÊÓ
+#EXTINF:-1 ,æ²³å—å«è§†
 http://gmxw.7766.org:808/hls/51/index.m3u8
-#EXTINF:-1 ,ÔÆÄÏÎÀÊÓ
+#EXTINF:-1 ,äº‘å—å«è§†
 http://gmxw.7766.org:808/hls/52/index.m3u8
-#EXTINF:-1 ,ÖØÇìÎÀÊÓ
+#EXTINF:-1 ,é‡åº†å«è§†
 http://gmxw.7766.org:808/hls/53/index.m3u8
-#EXTINF:-1 ,ºÓ±±ÎÀÊÓ
+#EXTINF:-1 ,æ²³åŒ—å«è§†
 http://gmxw.7766.org:808/hls/54/index.m3u8
-#EXTINF:-1 ,¹ãÎ÷ÎÀÊÓ
+#EXTINF:-1 ,å¹¿è¥¿å«è§†
 http://gmxw.7766.org:808/hls/56/index.m3u8
-#EXTINF:-1 ,ÉÂÎ÷ÎÀÊÓ
+#EXTINF:-1 ,é™•è¥¿å«è§†
 http://gmxw.7766.org:808/hls/58/index.m3u8
-#EXTINF:-1 ,É½Î÷ÎÀÊÓ
+#EXTINF:-1 ,å±±è¥¿å«è§†
 http://gmxw.7766.org:808/hls/59/index.m3u8
-#EXTINF:-1 ,ÄÚÃÉ¹ÅÎÀÊÓ
+#EXTINF:-1 ,å†…è’™å¤å«è§†
 http://gmxw.7766.org:808/hls/60/index.m3u8
-#EXTINF:-1 ,Çàº£ÎÀÊÓ
+#EXTINF:-1 ,é’æµ·å«è§†
 http://gmxw.7766.org:808/hls/61/index.m3u8
-#EXTINF:-1 ,Î÷²ØÎÀÊÓ
+#EXTINF:-1 ,è¥¿è—å«è§†
 http://gmxw.7766.org:808/hls/64/index.m3u8
-#EXTINF:-1 ,ĞÂ½®ÎÀÊÓ
+#EXTINF:-1 ,æ–°ç–†å«è§†
 http://gmxw.7766.org:808/hls/65/index.m3u8
-#EXTINF:-1 ,ÖØÇìÆûÄ¦
+#EXTINF:-1 ,é‡åº†æ±½æ‘©
 http://gmxw.7766.org:808/hls/66/index.m3u8
-#EXTINF:-1 ,CCTV4.Å·ÖŞ
+#EXTINF:-1 ,CCTV4.æ¬§æ´²
 http://gmxw.7766.org:808/hls/67/index.m3u8
-#EXTINF:-1 ,¿¨¿áÉÙ¶ù
+#EXTINF:-1 ,å¡é…·å°‘å„¿
 http://gmxw.7766.org:808/hls/68/index.m3u8
-#EXTINF:-1 ,½ğÓ¥¿¨Í¨
+#EXTINF:-1 ,é‡‘é¹°å¡é€š
 http://gmxw.7766.org:808/hls/69/index.m3u8
-#EXTINF:-1 ,CCTV4.ÃÀÖŞ
+#EXTINF:-1 ,CCTV4.ç¾æ´²
 http://gmxw.7766.org:808/hls/71/index.m3u8
-#EXTINF:-1 ,É½¶«½ÌÓıÎÀÊÓ
+#EXTINF:-1 ,å±±ä¸œæ•™è‚²å«è§†
 http://gmxw.7766.org:808/hls/72/index.m3u8
-#EXTINF:-1 ,CCTVÑëÊÓÌ¨Çò
+#EXTINF:-1 ,CCTVå¤®è§†å°çƒ
 http://gmxw.7766.org:808/hls/73/index.m3u8
-#EXTINF:-1 ,²Æ¸»ÌìÏÂ
+#EXTINF:-1 ,è´¢å¯Œå¤©ä¸‹
 http://gmxw.7766.org:808/hls/75/index.m3u8
-#EXTINF:-1 ,CGTN¼ÍÂ¼
+#EXTINF:-1 ,CGTNçºªå½•
 http://gmxw.7766.org:808/hls/77/index.m3u8
 #EXTINF:-1 ,CETV2
 http://gmxw.7766.org:808/hls/78/index.m3u8
 #EXTINF:-1 ,CETV4
 http://gmxw.7766.org:808/hls/79/index.m3u8
-#EXTINF:-1 ,¹ã¶«ÎÀÊÓ
+#EXTINF:-1 ,å¹¿ä¸œå«è§†
 http://gmxw.7766.org:808/hls/80/index.m3u8
-#EXTINF:-1 ,CGTNÎ÷°àÑÀÓï
+#EXTINF:-1 ,CGTNè¥¿ç­ç‰™è¯­
 http://gmxw.7766.org:808/hls/81/index.m3u8
-#EXTINF:-1 ,CGTN·¨Óï
+#EXTINF:-1 ,CGTNæ³•è¯­
 http://gmxw.7766.org:808/hls/82/index.m3u8
-#EXTINF:-1 ,¹ã¶«Öé½­
+#EXTINF:-1 ,å¹¿ä¸œç æ±Ÿ
 http://gmxw.7766.org:808/hls/83/index.m3u8
-#EXTINF:-1 ,CGTN°¢À­²®Óï
+#EXTINF:-1 ,CGTNé˜¿æ‹‰ä¼¯è¯­
 http://gmxw.7766.org:808/hls/84/index.m3u8
-#EXTINF:-1 ,CGTN¶íÓï
+#EXTINF:-1 ,CGTNä¿„è¯­
 http://gmxw.7766.org:808/hls/85/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://gmxw.7766.org:808/hls/91/index.m3u8
-#EXTINF:-1 ,CCTV»³¾É¾ç³¡
+#EXTINF:-1 ,CCTVæ€€æ—§å‰§åœº
 http://gmxw.7766.org:808/hls/92/index.m3u8
 #EXTINF:-1 ,CCTV5
 http://gmxw.7766.org:808/hls/93/index.m3u8
 #EXTINF:-1 ,CCTV6
 http://gmxw.7766.org:808/hls/94/index.m3u8
-#EXTINF:-1 ,CCTV·çÔÆ¾ç³¡
+#EXTINF:-1 ,CCTVé£äº‘å‰§åœº
 http://gmxw.7766.org:808/hls/95/index.m3u8
 #EXTINF:-1 ,CCTV8
 http://gmxw.7766.org:808/hls/96/index.m3u8
-#EXTINF:-1 ,CCTVÑëÊÓÎÄ»¯¾«Æ·
+#EXTINF:-1 ,CCTVå¤®è§†æ–‡åŒ–ç²¾å“
 http://gmxw.7766.org:808/hls/97/index.m3u8
-#EXTINF:-1 ,CCTVµÚÒ»¾ç³¡
+#EXTINF:-1 ,CCTVç¬¬ä¸€å‰§åœº
 http://gmxw.7766.org:808/hls/98/index.m3u8
-#EXTINF:-1 ,CCTV·çÔÆÒôÀÖ
+#EXTINF:-1 ,CCTVé£äº‘éŸ³ä¹
 http://gmxw.7766.org:808/hls/99/index.m3u8
-#EXTINF:-1 ,CETVÔçÆÚ½ÌÓı
+#EXTINF:-1 ,CETVæ—©æœŸæ•™è‚²
 http://gmxw.7766.org:808/hls/100/index.m3u8
 #EXTINF:-1 ,CCTV15
 http://gmxw.7766.org:808/hls/102/index.m3u8
-#EXTINF:-1 ,ÄşÏÄÎÀÊÓ
+#EXTINF:-1 ,å®å¤å«è§†
 http://gmxw.7766.org:808/hls/106/index.m3u8
-#EXTINF:-1 ,¶«·½ÎÀÊÓ
+#EXTINF:-1 ,ä¸œæ–¹å«è§†
 http://gmxw.7766.org:808/hls/114/index.m3u8
-#EXTINF:-1 ,¸ÊËàÎÀÊÓ
+#EXTINF:-1 ,ç”˜è‚ƒå«è§†
 http://gmxw.7766.org:808/hls/119/index.m3u8
 #EXTINF:-1 ,CETV1
 http://gmxw.7766.org:808/hls/122/index.m3u8
-#EXTINF:-1 ,º£ÄÏÎÀÊÓ
+#EXTINF:-1 ,æµ·å—å«è§†
 http://gmxw.7766.org:808/hls/124/index.m3u8
-#EXTINF:-1 ,´óÍåÇøÎÀÊÓ
+#EXTINF:-1 ,å¤§æ¹¾åŒºå«è§†
 http://gmxw.7766.org:808/hls/132/index.m3u8
-#EXTINF:-1 ,CCTV·çÔÆ×ãÇò
+#EXTINF:-1 ,CCTVé£äº‘è¶³çƒ
 http://gmxw.7766.org:808/hls/133/index.m3u8
-#EXTINF:-1 ,ÉîÛÚ²Æ¾­Éú»î
+#EXTINF:-1 ,æ·±åœ³è´¢ç»ç”Ÿæ´»
 http://gmxw.7766.org:808/hls/151/index.m3u8
-#EXTINF:-1 ,ÉîÛÚµçÊÓ¾çÆµµÀ
+#EXTINF:-1 ,æ·±åœ³ç”µè§†å‰§é¢‘é“
 http://gmxw.7766.org:808/hls/141/index.m3u8
-#EXTINF:-1 ,ÉîÛÚ¶¼ÊĞÆµµÀ
+#EXTINF:-1 ,æ·±åœ³éƒ½å¸‚é¢‘é“
 http://gmxw.7766.org:808/hls/140/index.m3u8
-#EXTINF:-1 ,ÉîÛÚ¹«¹²ÆµµÀ
+#EXTINF:-1 ,æ·±åœ³å…¬å…±é¢‘é“
 http://gmxw.7766.org:808/hls/156/index.m3u8
-#EXTINF:-1 ,ÉîÛÚÉÙ¶ùÆµµÀ
+#EXTINF:-1 ,æ·±åœ³å°‘å„¿é¢‘é“
 http://gmxw.7766.org:808/hls/157/index.m3u8
-#EXTINF:-1 ,ÉîÛÚÌåÓı½¡¿µ
+#EXTINF:-1 ,æ·±åœ³ä½“è‚²å¥åº·
 http://gmxw.7766.org:808/hls/158/index.m3u8
-#EXTINF:-1 ,ÉîÛÚÓéÀÖÆµµÀ
+#EXTINF:-1 ,æ·±åœ³å¨±ä¹é¢‘é“
 http://gmxw.7766.org:808/hls/155/index.m3u8
 #EXTINF:-1 ,CCTV16
 http://gmxw.7766.org:808/hls/169/index.m3u8
-#EXTINF:-1 ,½ğÓ¥¼ÍÊµ
+#EXTINF:-1 ,é‡‘é¹°çºªå®
 http://gmxw.7766.org:808/hls/171/index.m3u8
-#EXTINF:-1 ,ÖĞ¹ú½»Í¨.¹ã¶«
+#EXTINF:-1 ,ä¸­å›½äº¤é€š.å¹¿ä¸œ
 http://gmxw.7766.org:808/hls/172/index.m3u8
-#EXTINF:-1 ,¼ÍÊµÈËÎÄ
+#EXTINF:-1 ,çºªå®äººæ–‡
 http://gmxw.7766.org:808/hls/173/index.m3u8
-#EXTINF:-1 ,CCTV¸ß¶û·ò.ÍøÇò
+#EXTINF:-1 ,CCTVé«˜å°”å¤«.ç½‘çƒ
 http://gmxw.7766.org:808/hls/174/index.m3u8
-#EXTINF:-1 ,¹ã¶«ÉÙ¶ù
+#EXTINF:-1 ,å¹¿ä¸œå°‘å„¿
 http://gmxw.7766.org:808/hls/175/index.m3u8

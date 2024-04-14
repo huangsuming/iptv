@@ -21,85 +21,85 @@ http://183.196.25.171:808/hls/13/index.m3u8
 http://183.196.25.171:808/hls/14/index.m3u8
 #EXTINF:-1 ,CCTV15
 http://183.196.25.171:808/hls/15/index.m3u8
-#EXTINF:-1 ,╨с╠╠нюйс
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е█╚Х╖├
 http://183.196.25.171:808/hls/16/index.m3u8
-#EXTINF:-1 ,╨с╠╠с╟йс╬Г
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е╫╠Х╖├Е┴╖
 http://183.196.25.171:808/hls/19/index.m3u8
-#EXTINF:-1 ,╨с╠╠иы╤Ы©ф╫л
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е╟▒Е└©Г╖▒Ф∙≥
 http://183.196.25.171:808/hls/20/index.m3u8
-#EXTINF:-1 ,╨с╠╠╧╚╧╡
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е┘╛Е┘╠
 http://183.196.25.171:808/hls/21/index.m3u8
-#EXTINF:-1 ,╨с╠╠е╘цЯф╣╣ю
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е├°Ф╟▒И╒▒И│⌠
 http://183.196.25.171:808/hls/22/index.m3u8
-#EXTINF:-1 ,й╞╪рв╞пбневш╨о
+#EXTINF:-1 ,Г÷ЁЕ╝╤Е╨└Ф√╟И≈╩Г╩╪Е░┬
 http://183.196.25.171:808/hls/23/index.m3u8
-#EXTINF:-1 ,╨Чдонюйс
+#EXTINF:-1 ,Ф╧√Е█≈Е█╚Х╖├
 http://183.196.25.171:808/hls/27/index.m3u8
-#EXTINF:-1 ,уЦ╫╜нюйс
+#EXTINF:-1 ,Ф╣≥Ф╠÷Е█╚Х╖├
 http://183.196.25.171:808/hls/28/index.m3u8
-#EXTINF:-1 ,╫╜кунюйс
+#EXTINF:-1 ,Ф╠÷Х▀▐Е█╚Х╖├
 http://183.196.25.171:808/hls/29/index.m3u8
-#EXTINF:-1 ,╟╡╩унюйс
+#EXTINF:-1 ,Е╝┴Е╬╫Е█╚Х╖├
 http://183.196.25.171:808/hls/30/index.m3u8
-#EXTINF:-1 ,╠╠╬╘нюйс
+#EXTINF:-1 ,Е▄≈Д╨╛Е█╚Х╖├
 http://183.196.25.171:808/hls/31/index.m3u8
-#EXTINF:-1 ,лЛ╫Рнюйс
+#EXTINF:-1 ,Е╓╘Ф╢╔Е█╚Х╖├
 http://183.196.25.171:808/hls/32/index.m3u8
-#EXTINF:-1 ,аидЧнюйс
+#EXTINF:-1 ,Х╬╫Е╝│Е█╚Х╖├
 http://183.196.25.171:808/hls/33/index.m3u8
-#EXTINF:-1 ,и╫╤╚нюйс
+#EXTINF:-1 ,Е╠╠Д╦°Е█╚Х╖├
 http://183.196.25.171:808/hls/34/index.m3u8
-#EXTINF:-1 ,тфдонюйс
+#EXTINF:-1 ,Д╨▒Е█≈Е█╚Х╖├
 http://183.196.25.171:808/hls/35/index.m3u8
-#EXTINF:-1 ,╨сдонюйс
+#EXTINF:-1 ,Ф╡ЁЕ█≈Е█╚Х╖├
 http://183.196.25.171:808/hls/36/index.m3u8
-#EXTINF:-1 ,кд╢╗нюйс
+#EXTINF:-1 ,Е⌡⌡Е╥²Е█╚Х╖├
 http://183.196.25.171:808/hls/37/index.m3u8
-#EXTINF:-1 ,╫╜нВнюйс
+#EXTINF:-1 ,Ф╠÷Х╔©Е█╚Х╖├
 http://183.196.25.171:808/hls/38/index.m3u8
-#EXTINF:-1 ,╧Сжщнюйс
+#EXTINF:-1 ,Х╢╣Е╥·Е█╚Х╖├
 http://183.196.25.171:808/hls/39/index.m3u8
-#EXTINF:-1 ,иНшзнюйс
+#EXTINF:-1 ,Ф╥╠Е°ЁЕ█╚Х╖├
 http://183.196.25.171:808/hls/40/index.m3u8
-#EXTINF:-1 ,╨Ч╠╠нюйс
+#EXTINF:-1 ,Ф╧√Е▄≈Е█╚Х╖├
 http://183.196.25.171:808/hls/41/index.m3u8
-#EXTINF:-1 ,╤╚╥╫нюйс
+#EXTINF:-1 ,Д╦°Ф√╧Е█╚Х╖├
 http://183.196.25.171:808/hls/42/index.m3u8
-#EXTINF:-1 ,жьгЛнюйс
+#EXTINF:-1 ,И┤█Е╨├Е█╚Х╖├
 http://183.196.25.171:808/hls/43/index.m3u8
-#EXTINF:-1 ,╤╚донюйс
+#EXTINF:-1 ,Д╦°Е█≈Е█╚Х╖├
 http://183.196.25.171:808/hls/44/index.m3u8
-#EXTINF:-1 ,╧Ц╤╚нюйс
+#EXTINF:-1 ,Е╧©Д╦°Е█╚Х╖├
 http://183.196.25.171:808/hls/45/index.m3u8
-#EXTINF:-1 ,╧ЦнВнюйс
+#EXTINF:-1 ,Е╧©Х╔©Е█╚Х╖├
 http://183.196.25.171:808/hls/46/index.m3u8
-#EXTINF:-1 ,╪╙ажнюйс
+#EXTINF:-1 ,Е░┴Ф·≈Е█╚Х╖├
 http://183.196.25.171:808/hls/47/index.m3u8
-#EXTINF:-1 ,ибнВнюйс
+#EXTINF:-1 ,И≥∙Х╔©Е█╚Х╖├
 http://183.196.25.171:808/hls/48/index.m3u8
-#EXTINF:-1 ,и╫нВнюйс
+#EXTINF:-1 ,Е╠╠Х╔©Е█╚Х╖├
 http://183.196.25.171:808/hls/49/index.m3u8
-#EXTINF:-1 ,дзци╧енюйс
+#EXTINF:-1 ,Е├┘Х▓≥Е▐╓Е█╚Х╖├
 http://183.196.25.171:808/hls/50/index.m3u8
-#EXTINF:-1 ,гЮ╨ёнюйс
+#EXTINF:-1 ,И²▓Ф╣╥Е█╚Х╖├
 http://183.196.25.171:808/hls/51/index.m3u8
-#EXTINF:-1 ,дЧоднюйс
+#EXTINF:-1 ,Е╝│Е╓▐Е█╚Х╖├
 http://183.196.25.171:808/hls/53/index.m3u8
-#EXTINF:-1 ,нВ╡ьнюйс
+#EXTINF:-1 ,Х╔©Х≈▐Е█╚Х╖├
 http://183.196.25.171:808/hls/54/index.m3u8
-#EXTINF:-1 ,пб╫╝нюйс
+#EXTINF:-1 ,Ф√╟Г√├Е█╚Х╖├
 http://183.196.25.171:808/hls/55/index.m3u8
-#EXTINF:-1 ,╦йкЮнюйс
+#EXTINF:-1 ,Г■≤Х┌┐Е█╚Х╖├
 http://183.196.25.171:808/hls/56/index.m3u8
-#EXTINF:-1 ,©╗©Аиы╤Ы
+#EXTINF:-1 ,Е█║И┘╥Е╟▒Е└©
 http://183.196.25.171:808/hls/57/index.m3u8
-#EXTINF:-1 ,╫Пс╔©╗м╗
+#EXTINF:-1 ,И┤▒И╧╟Е█║И─ 
 http://183.196.25.171:808/hls/58/index.m3u8
 #EXTINF:-1 ,CCTV5+
 http://183.196.25.171:808/hls/61/index.m3u8
-#EXTINF:-1 ,╟╡пбвш╨о
+#EXTINF:-1 ,Е╝┴Ф√╟Г╩╪Е░┬
 http://183.196.25.171:808/hls/65/index.m3u8
-#EXTINF:-1 ,╠ё╤╗пбневш╨о
+#EXTINF:-1 ,Д©²Е╝ Ф√╟И≈╩Г╩╪Е░┬
 http://183.196.25.171:808/hls/73/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://183.196.25.171:808/hls/75/index.m3u8
@@ -109,17 +109,17 @@ http://183.196.25.171:808/hls/76/index.m3u8
 http://183.196.25.171:808/hls/77/index.m3u8
 #EXTINF:-1 ,CCTV5
 http://183.196.25.171:808/hls/78/index.m3u8
-#EXTINF:-1 ,╨заЗ╫╜нюйс
+#EXTINF:-1 ,И╩▒И╬≥Ф╠÷Е█╚Х╖├
 http://183.196.25.171:808/hls/79/index.m3u8
 #EXTINF:-1 ,CETV1
 http://183.196.25.171:808/hls/85/index.m3u8
-#EXTINF:-1 ,╠╠╬╘╪мй╣©ф╫л
+#EXTINF:-1 ,Е▄≈Д╨╛Г╨╙Е╝·Г╖▒Ф∙≥
 http://183.196.25.171:808/hls/86/index.m3u8
-#EXTINF:-1 ,╫Пс╔╪мй╣
+#EXTINF:-1 ,И┤▒И╧╟Г╨╙Е╝·
 http://183.196.25.171:808/hls/87/index.m3u8
-#EXTINF:-1 ,CCTV╠ЬфВ©ф╪╪
+#EXTINF:-1 ,CCTVЕ┘╣Е≥╗Г╖▒Ф┼─
 http://183.196.25.171:808/hls/88/index.m3u8
-#EXTINF:-1 ,юФт╟ф╣╣ю
+#EXTINF:-1 ,Ф╒╗Е⌡╜И╒▒И│⌠
 http://183.196.25.171:808/hls/89/index.m3u8
 #EXTINF:-1 ,CETV4
 http://183.196.25.171:808/hls/92/index.m3u8

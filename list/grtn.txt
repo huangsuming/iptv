@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,GRTN-½¡¿µÆµµÀ
+#EXTINF:-1,GRTN-å¥åº·é¢‘é“
 http://glive.grtn.cn/live/health.m3u8
-#EXTINF:-1,GRTN-¼ÍÂ¼Æ¬
+#EXTINF:-1,GRTN-çºªå½•ç‰‡
 http://glive.grtn.cn/live/jilupian.m3u8
-#EXTINF:-1,GRTN-ÀóÖ¦Ì¨
+#EXTINF:-1,GRTN-è”æå°
 http://glive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1,GRTN-Éú»îÆµµÀ
+#EXTINF:-1,GRTN-ç”Ÿæ´»é¢‘é“
 http://glive.grtn.cn/live/life.m3u8
-#EXTINF:-1,GRTN-ÎÄ»¯ÆµµÀ
+#EXTINF:-1,GRTN-æ–‡åŒ–é¢‘é“
 https://glive.grtn.cn/live/wenhua_test0203.m3u8

@@ -31,103 +31,103 @@ http://111.11.98.205:9900/hls/16/index.m3u8
 http://111.11.98.205:9900/hls/17/index.m3u8
 #EXTINF:-1 ,CCTV-5+
 http://111.11.98.205:9900/hls/18/index.m3u8
-#EXTINF:-1 ,╨с╠╠╬╜╪циЗ╩НHD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Г╩▐Ф╣▌Г■÷Ф╢╩HD
 http://111.11.98.205:9900/hls/19/index.m3u8
-#EXTINF:-1 ,╨с╠╠нюйсHD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/20/index.m3u8
-#EXTINF:-1 ,╨с╠╠╤╪йпHD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈И┐╫Е╦┌HD
 http://111.11.98.205:9900/hls/21/index.m3u8
-#EXTINF:-1 ,╨с╠╠с╟йс╬ГHD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е╫╠Х╖├Е┴╖HD
 http://111.11.98.205:9900/hls/22/index.m3u8
-#EXTINF:-1 ,╨с╠╠╧╚╧╡HD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е┘╛Е┘╠HD
 http://111.11.98.205:9900/hls/24/index.m3u8
-#EXTINF:-1 ,╨с╠╠иы╤Ы©ф╫лHD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е╟▒Е└©Г╖▒Ф∙≥HD
 http://111.11.98.205:9900/hls/23/index.m3u8
-#EXTINF:-1 ,╨с╠╠е╘цЯHD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Е├°Ф╟▒HD
 http://111.11.98.205:9900/hls/25/index.m3u8
-#EXTINF:-1 ,пол╗вш╨оHD
+#EXTINF:-1 ,И┌╒Е▐╟Г╩╪Е░┬HD
 http://111.11.98.205:9900/hls/27/index.m3u8
-#EXTINF:-1 ,пол╗ЁгйпиЗ╩НHD
+#EXTINF:-1 ,И┌╒Е▐╟Е÷▌Е╦┌Г■÷Ф╢╩HD
 http://111.11.98.205:9900/hls/29/index.m3u8
-#EXTINF:-1 ,╨ЧдонюйсHD
+#EXTINF:-1 ,Ф╧√Е█≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/30/index.m3u8
-#EXTINF:-1 ,уЦ╫╜нюйсHD
+#EXTINF:-1 ,Ф╣≥Ф╠÷Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/31/index.m3u8
-#EXTINF:-1 ,╫╜кунюйсHD
+#EXTINF:-1 ,Ф╠÷Х▀▐Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/32/index.m3u8
-#EXTINF:-1 ,╟╡╩унюйсHD
+#EXTINF:-1 ,Е╝┴Е╬╫Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/33/index.m3u8
-#EXTINF:-1 ,╤╚донюйсHD
+#EXTINF:-1 ,Д╦°Е█≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/34/index.m3u8
-#EXTINF:-1 ,╠╠╬╘нюйсHD
+#EXTINF:-1 ,Е▄≈Д╨╛Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/35/index.m3u8
-#EXTINF:-1 ,лЛ╫РнюйсHD
+#EXTINF:-1 ,Е╓╘Ф╢╔Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/36/index.m3u8
-#EXTINF:-1 ,аидЧнюйсHD
+#EXTINF:-1 ,Х╬╫Е╝│Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/37/index.m3u8
-#EXTINF:-1 ,и╫╤╚нюйсHD
+#EXTINF:-1 ,Е╠╠Д╦°Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/38/index.m3u8
-#EXTINF:-1 ,тфдонюйсHD
+#EXTINF:-1 ,Д╨▒Е█≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/39/index.m3u8
-#EXTINF:-1 ,╨сдонюйсHD
+#EXTINF:-1 ,Ф╡ЁЕ█≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/40/index.m3u8
-#EXTINF:-1 ,╨заЗ╫╜нюйсHD
+#EXTINF:-1 ,И╩▒И╬≥Ф╠÷Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/41/index.m3u8
-#EXTINF:-1 ,кд╢╗нюйсHD
+#EXTINF:-1 ,Е⌡⌡Е╥²Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/42/index.m3u8
-#EXTINF:-1 ,╫╜нВнюйсHD
+#EXTINF:-1 ,Ф╠÷Х╔©Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/43/index.m3u8
-#EXTINF:-1 ,╧СжщнюйсHD
+#EXTINF:-1 ,Х╢╣Е╥·Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/44/index.m3u8
-#EXTINF:-1 ,иНшзнюйсHD
+#EXTINF:-1 ,Ф╥╠Е°ЁЕ█╚Х╖├HD
 http://111.11.98.205:9900/hls/45/index.m3u8
-#EXTINF:-1 ,╨Ч╠╠нюйсHD
+#EXTINF:-1 ,Ф╧√Е▄≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/46/index.m3u8
-#EXTINF:-1 ,╤╚╥╫нюйсHD
+#EXTINF:-1 ,Д╦°Ф√╧Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/47/index.m3u8
-#EXTINF:-1 ,жьгЛнюйсHD
+#EXTINF:-1 ,И┤█Е╨├Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/48/index.m3u8
-#EXTINF:-1 ,╧Ц╤╚нюйсHD
+#EXTINF:-1 ,Е╧©Д╦°Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/49/index.m3u8
-#EXTINF:-1 ,╧ЦнВнюйсHD
+#EXTINF:-1 ,Е╧©Х╔©Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/50/index.m3u8
-#EXTINF:-1 ,╪╙ажнюйсHD
+#EXTINF:-1 ,Е░┴Ф·≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/51/index.m3u8
-#EXTINF:-1 ,ибнВнюйс
+#EXTINF:-1 ,И≥∙Х╔©Е█╚Х╖├
 http://111.11.98.205:9900/hls/52/index.m3u8
-#EXTINF:-1 ,и╫нВнюйс
+#EXTINF:-1 ,Е╠╠Х╔©Е█╚Х╖├
 http://111.11.98.205:9900/hls/53/index.m3u8
-#EXTINF:-1 ,дзци╧енюйс
+#EXTINF:-1 ,Е├┘Х▓≥Е▐╓Е█╚Х╖├
 http://111.11.98.205:9900/hls/54/index.m3u8
-#EXTINF:-1 ,гЮ╨ёнюйс
+#EXTINF:-1 ,И²▓Ф╣╥Е█╚Х╖├
 http://111.11.98.205:9900/hls/55/index.m3u8
-#EXTINF:-1 ,╨ёдонюйсHD
+#EXTINF:-1 ,Ф╣╥Е█≈Е█╚Х╖├HD
 http://111.11.98.205:9900/hls/56/index.m3u8
-#EXTINF:-1 ,дЧоднюйс
+#EXTINF:-1 ,Е╝│Е╓▐Е█╚Х╖├
 http://111.11.98.205:9900/hls/57/index.m3u8
-#EXTINF:-1 ,нВ╡ьнюйс
+#EXTINF:-1 ,Х╔©Х≈▐Е█╚Х╖├
 http://111.11.98.205:9900/hls/58/index.m3u8
-#EXTINF:-1 ,пб╫╝нюйс
+#EXTINF:-1 ,Ф√╟Г√├Е█╚Х╖├
 http://111.11.98.205:9900/hls/59/index.m3u8
-#EXTINF:-1 ,©╗©Аиы╤Ы
+#EXTINF:-1 ,Е█║И┘╥Е╟▒Е└©
 http://111.11.98.205:9900/hls/61/index.m3u8
-#EXTINF:-1 ,╫Пс╔©╗м╗
+#EXTINF:-1 ,И┤▒И╧╟Е█║И─ 
 http://111.11.98.205:9900/hls/62/index.m3u8
-#EXTINF:-1 ,и╫╤╚╫лсЩнюйс
+#EXTINF:-1 ,Е╠╠Д╦°Ф∙≥Х┌╡Е█╚Х╖├
 http://111.11.98.205:9900/hls/63/index.m3u8
-#EXTINF:-1 ,╪мй╣хкндHD
+#EXTINF:-1 ,Г╨╙Е╝·Д╨╨Ф√┤HD
 http://111.11.98.205:9900/hls/64/index.m3u8
-#EXTINF:-1 ,жп╧З╫лсЩ1
+#EXTINF:-1 ,Д╦╜Е⌡╫Ф∙≥Х┌╡1
 http://111.11.98.205:9900/hls/65/index.m3u8
-#EXTINF:-1 ,╪мй╣©ф╫лHD
+#EXTINF:-1 ,Г╨╙Е╝·Г╖▒Ф∙≥HD
 http://111.11.98.205:9900/hls/66/index.m3u8
-#EXTINF:-1 ,╫Пс╔╪мй╣HD
+#EXTINF:-1 ,И┤▒И╧╟Г╨╙Е╝·HD
 http://111.11.98.205:9900/hls/67/index.m3u8
-#EXTINF:-1 ,╡воь╣Гйс
+#EXTINF:-1 ,Ф╡╖Е▌©Г■╣Х╖├
 http://111.11.98.205:9900/hls/68/index.m3u8
-#EXTINF:-1 ,жп╧З╫╩м╗-╨с╠╠
+#EXTINF:-1 ,Д╦╜Е⌡╫Д╨╓И─ -Ф╡ЁЕ▄≈
 http://111.11.98.205:9900/hls/69/index.m3u8
-#EXTINF:-1 ,гГ╡й╨с╠╠HD
+#EXTINF:-1 ,Ф≥╢Е╫╘Ф╡ЁЕ▄≈HD
 http://111.11.98.205:9900/hls/71/index.m3u8
-#EXTINF:-1 ,╨с╠╠хЩ╪я╧╨нОHD
+#EXTINF:-1 ,Ф╡ЁЕ▄≈Д╦┴Д╫ЁХ╢╜Г┴╘HD
 http://111.11.98.205:9900/hls/72/index.m3u8
