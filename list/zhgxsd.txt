@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://59.44.192.82:65000/hls/1/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://59.44.192.82:65000/hls/2/index.m3u8
+#EXTINF:-1 ,锦州新闻综合
+http://59.44.192.82:65000/hls/3/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://59.44.192.82:65000/hls/4/index.m3u8
+#EXTINF:-1 ,CCTV17
+http://59.44.192.82:65000/hls/5/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://59.44.192.82:65000/hls/6/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://59.44.192.82:65000/hls/7/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://59.44.192.82:65000/hls/8/index.m3u8
+#EXTINF:-1 ,CGTN
+http://59.44.192.82:65000/hls/9/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://59.44.192.82:65000/hls/10/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://59.44.192.82:65000/hls/11/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://59.44.192.82:65000/hls/12/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://59.44.192.82:65000/hls/13/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://59.44.192.82:65000/hls/14/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://59.44.192.82:65000/hls/15/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://59.44.192.82:65000/hls/16/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://59.44.192.82:65000/hls/17/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://59.44.192.82:65000/hls/18/index.m3u8
+#EXTINF:-1 ,CETV1
+http://59.44.192.82:65000/hls/19/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://59.44.192.82:65000/hls/20/index.m3u8
+#EXTINF:-1 ,辽宁北方
+http://59.44.192.82:65000/hls/23/index.m3u8
+#EXTINF:-1 ,辽宁都市
+http://59.44.192.82:65000/hls/21/index.m3u8
+#EXTINF:-1 ,辽宁公共
+http://59.44.192.82:65000/hls/26/index.m3u8
+#EXTINF:-1 ,辽宁生活
+http://59.44.192.82:65000/hls/25/index.m3u8
+#EXTINF:-1 ,辽宁体育
+http://59.44.192.82:65000/hls/24/index.m3u8
+#EXTINF:-1 ,辽宁影视剧
+http://59.44.192.82:65000/hls/22/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.44.192.82:65000/hls/27/index.m3u8
+#EXTINF:-1 ,先锋乒羽
+http://59.44.192.82:65000/hls/28/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://59.44.192.82:65000/hls/30/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://59.44.192.82:65000/hls/31/index.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://59.44.192.82:65000/hls/32/index.m3u8
+#EXTINF:-1 ,中央新影.老故事
+http://59.44.192.82:65000/hls/33/index.m3u8
+#EXTINF:-1 ,中央新影.发现之旅
+http://59.44.192.82:65000/hls/34/index.m3u8
+#EXTINF:-1 ,环球奇观
+http://59.44.192.82:65000/hls/35/index.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://59.44.192.82:65000/hls/36/index.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://59.44.192.82:65000/hls/37/index.m3u8
+#EXTINF:-1 ,国学频道
+http://59.44.192.82:65000/hls/38/index.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://59.44.192.82:65000/hls/39/index.m3u8
+#EXTINF:-1 ,中央新影.中学生
+http://59.44.192.82:65000/hls/40/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://59.44.192.82:65000/hls/41/index.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://59.44.192.82:65000/hls/42/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://59.44.192.82:65000/hls/43/index.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://59.44.192.82:65000/hls/44/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://59.44.192.82:65000/hls/45/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://59.44.192.82:65000/hls/46/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://59.44.192.82:65000/hls/47/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://59.44.192.82:65000/hls/48/index.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://59.44.192.82:65000/hls/49/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://59.44.192.82:65000/hls/50/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://59.44.192.82:65000/hls/51/index.m3u8
+#EXTINF:-1 ,农林卫视
+http://59.44.192.82:65000/hls/52/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://59.44.192.82:65000/hls/53/index.m3u8
+#EXTINF:-1 ,延边卫视
+http://59.44.192.82:65000/hls/54/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://59.44.192.82:65000/hls/55/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://59.44.192.82:65000/hls/56/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://59.44.192.82:65000/hls/57/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://59.44.192.82:65000/hls/58/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://59.44.192.82:65000/hls/59/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://59.44.192.82:65000/hls/60/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://59.44.192.82:65000/hls/61/index.m3u8
+#EXTINF:-1 ,青海卫视
+http://59.44.192.82:65000/hls/62/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://59.44.192.82:65000/hls/63/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://59.44.192.82:65000/hls/64/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://59.44.192.82:65000/hls/65/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://59.44.192.82:65000/hls/66/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://59.44.192.82:65000/hls/67/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://59.44.192.82:65000/hls/68/index.m3u8
+#EXTINF:-1 ,山西卫视
+http://59.44.192.82:65000/hls/69/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://59.44.192.82:65000/hls/70/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://59.44.192.82:65000/hls/71/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://59.44.192.82:65000/hls/72/index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://59.44.192.82:65000/hls/73/index.m3u8
+#EXTINF:-1 ,兵团卫视
+http://59.44.192.82:65000/hls/74/index.m3u8
+#EXTINF:-1 ,西藏卫视
+http://59.44.192.82:65000/hls/75/index.m3u8
+#EXTINF:-1 ,CETV4
+http://59.44.192.82:65000/hls/76/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.44.192.82:65000/hls/77/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://59.44.192.82:65000/hls/78/index.m3u8
+#EXTINF:-1 ,财富天下
+http://59.44.192.82:65000/hls/79/index.m3u8
+#EXTINF:-1 ,证券服务
+http://59.44.192.82:65000/hls/80/index.m3u8
+#EXTINF:-1 ,中华特产
+http://59.44.192.82:65000/hls/81/index.m3u8
+#EXTINF:-1 ,车迷频道
+http://59.44.192.82:65000/hls/82/index.m3u8
+#EXTINF:-1 ,优优宝贝
+http://59.44.192.82:65000/hls/83/index.m3u8
+#EXTINF:-1 ,环球旅游
+http://59.44.192.82:65000/hls/84/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.44.192.82:65000/hls/85/index.m3u8
+#EXTINF:-1 ,家庭理财
+http://59.44.192.82:65000/hls/86/index.m3u8
+#EXTINF:-1 ,辽宁经济
+http://59.44.192.82:65000/hls/87/index.m3u8
+#EXTINF:-1 ,辽宁教育.青少
+http://59.44.192.82:65000/hls/88/index.m3u8
+#EXTINF:-1 ,宜佳购物
+http://59.44.192.82:65000/hls/89/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://59.44.192.82:65000/hls/90/index.m3u8
+#EXTINF:-1 ,山东教育
+http://59.44.192.82:65000/hls/91/index.m3u8
+#EXTINF:-1 ,收藏天下
+http://59.44.192.82:65000/hls/92/index.m3u8
+#EXTINF:-1 ,北京纪实科教
+http://59.44.192.82:65000/hls/93/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.44.192.82:65000/hls/94/index.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://59.44.192.82:65000/hls/95/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.44.192.82:65000/hls/96/index.m3u8
+#EXTINF:-1 ,书画频道
+http://59.44.192.82:65000/hls/97/index.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://59.44.192.82:65000/hls/98/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://59.44.192.82:65000/hls/99/index.m3u8
+#EXTINF:-1 ,北方导视
+http://59.44.192.82:65000/hls/100/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.44.192.82:65000/hls/101/index.m3u8

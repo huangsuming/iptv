@@ -163,9 +163,9 @@ https://iptv-org.github.io/
 2.3 Github
 > 搜索: iptv stars:>50 path:*.m3u8 pushed:>2024-01-01 
 https://github.com/fenxp/iptv
+https://github.com/Kimentanm/aptv
 https://github.com/YanG-1989/m3u
-https://github.com/week9/AUTO-CNTV
-https://github.com/week9/AUTO-IPTV
+https://github.com/YueChan/Live
 2.4 在线网站
 (1) CNR(广播)
 https://www.cnr.cn/gbzb/
@@ -179,6 +179,8 @@ https://sao.fm
 https://www.tvzb.com/
 (6) imxd(论坛)
 https://discuz.mxdyeah.top/
+(7) 爱TV
+http://www.iptv8.top/
 (7) 好趣网(电视)
 http://tv.haoqu99.com/
 (8) 123iptv
@@ -194,10 +196,15 @@ dbiptv.sn.chinamobile.com
 zteres.sn.chinamobile.com:6060
 (3)江西移动
 hwrr.jx.chinamobile.com
-(4)河南移动
+(4)河南大象融媒体
 tvpull.dxhmt.cn
-(5)laotv
+(5)laotv(老挝)
 laotv.la
+(6)公明新围科源网络(酒店源):gmxw
+#如:广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
+gmxw.7766.org:808
+(7)智慧光迅(酒店源):zhgxtv
+#(标清)如:环球奇观,http://59.44.192.82:65000/hls/35/index.m3u8
 
 3. 接口
 3.1 TVBOX接口
@@ -219,23 +226,7 @@ https://github.com/wanglindl/TVlogo/blob/main/README.md
 3.4 txt转m3u
 https://live.fanmingming.com/txt2m3u/
 
-4. 域名/IP清单
-live.dxhmt.cn:9080
-tvpull.dxhmt.cn:9081
-zhpull.dxhmt.cn
-hwrr.jx.chinamobile.com:8080
-ottrrs.hl.chinamobile.com
-dbiptv.sn.chinamobile.com
-zteres.sn.chinamobile.com:6060
-tubi.video
-ctrl.laotv.la
-27.222.3.214
-39.134.66.66
-183.11.239.32:808
-61.216.67.119:1935
-61.244.22.5
-
-5. 各省英文缩写
+4. 各省英文缩写
 省份		 拼音缩写
 安徽省		 AH
 北京市		 BJ
