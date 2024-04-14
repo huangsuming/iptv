@@ -263,42 +263,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SiTV-点掌财经" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-点掌财经.png" group-title="付费",SiTV-点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-法治天地" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-法治天地.png" group-title="付费",SiTV-法治天地
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=bestzb&Contentid=2000000002000000014&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-动漫秀场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-动漫秀场.png" group-title="付费",SiTV-动漫秀场
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-都市剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-都市剧场.png" group-title="付费",SiTV-都市剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-欢笑剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-欢笑剧场4K.png" group-title="付费",SiTV-欢笑剧场4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SiTV-金色学堂" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-金色学堂.png" group-title="付费",SiTV-金色学堂
 http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-劲爆体育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-劲爆体育.png" group-title="付费",SiTV-劲爆体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-乐游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-乐游.png" group-title="付费",SiTV-乐游
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-魅力足球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-魅力足球.png" group-title="付费",SiTV-魅力足球
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-七彩戏剧" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-七彩戏剧.png" group-title="付费",SiTV-七彩戏剧
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-生活时尚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-生活时尚.png" group-title="付费",SiTV-生活时尚
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-游戏风云" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-游戏风云.png" group-title="付费",SiTV-游戏风云
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华数-测试" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-测试
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="华数-4K影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-4K影视.png" group-title="付费",华数-4K影视
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="华数-电子竞技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-电子竞技
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="华数-高清娱乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-高清娱乐
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="华数-精彩影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-精彩影视.png" group-title="付费",华数-精彩影视
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数-精彩综艺" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-精彩综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数-漫游世界" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-漫游世界
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="华数-求索动物" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-求索动物.png" group-title="付费",华数-求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华数-求索纪录" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-求索纪录.png" group-title="付费",华数-求索纪录
@@ -905,6 +873,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="伊春新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hl/" group-title="黑龙江",伊春新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北经视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-经视频道.png" group-title="湖北",湖北经视
+http://113.57.103.216:9000/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北垄上" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-垄上频道.png" group-title="湖北",湖北垄上
+http://113.57.103.216:9000/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-影视频道.png" group-title="湖北",湖北影视
+http://113.57.103.216:9000/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/Hunan-爱晚.png" group-title="湖南",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南电视剧" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/Hunan-电视剧.png" group-title="湖南",湖南电视剧
@@ -929,16 +903,58 @@ http://183.196.25.171:808/hls/87/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="先锋乒羽" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/Hunan-先锋乒羽.png" group-title="湖南",先锋乒羽
 http://59.44.192.82:65000/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="长沙新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",长沙新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湘潭新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湘潭公共频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",湘潭公共频道
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",城步电视
+https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",古丈综合
+https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",桂东融媒
+https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",桂阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="衡东电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",衡东电视台
 https://liveplay-srs.voc.com.cn/hls/tv/180_60f888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="衡阳县电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",衡阳县电视台
 https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="耒阳电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",耒阳电视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",花垣综合
+https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",吉首综合
+https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",嘉禾综合
+https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",靖州综合
+https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",蓝山电视
+https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",耒阳电视
 https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",临武综合
+https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",龙山电视
+https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",麻阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",汨罗综合
+https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",新化综合
+https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",新晃综合
+https://liveplay-srs.voc.com.cn/hls/tv/23_5d556a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",新邵综合
+https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",永兴综合
+https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",沅江融媒
+https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",芷江电视
+https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",中方台
+https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jl/" group-title="吉林",延边一套
 http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jl/" group-title="吉林",延边一套
@@ -1255,22 +1271,10 @@ https://stream.xiancity.cn/live/5/index.m3u8
 https://stream.xiancity.cn/live/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安移动电视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-移动电视.png" group-title="陕西",西安移动电视
 https://xatv-yd1.xiancity.cn/live/7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sh/Shanghai-新闻综合.png" group-title="上海",上海新闻综合
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="ICS外语" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sh/Shanghai-ICS外语.png" group-title="上海",ICS外语
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SMG-第一财经.png" group-title="上海",第一财经
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sh/" group-title="上海",东方财经
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sh/Shanghai-东方影视.png" group-title="上海",东方影视
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SMG-哈哈炫动.png" group-title="上海",哈哈炫动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sh/Shanghai-纪实人文.png" group-title="上海",纪实人文
 http://gmxw.7766.org:808/hls/173/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sh/Shanghai-五星体育.png" group-title="上海",五星体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="泸州新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sc/" group-title="四川",泸州新闻综合
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="泸州科教生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sc/" group-title="四川",泸州科教生活
