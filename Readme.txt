@@ -204,7 +204,9 @@ laotv.la
 #如:广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 gmxw.7766.org:808
 (7)智慧光迅(酒店源):zhgxtv
-#(标清)如:环球奇观,http://59.44.192.82:65000/hls/35/index.m3u8
+#(标清SD)如:环球奇观,http://59.44.192.82:65000/hls/35/index.m3u8
+#(高清HD1)如:河北都市,http://111.11.98.205:9900/hls/21/index.m3u8
+#(高清HD2)如:CCTV10,http://183.196.25.171:808/hls/10/index.m3u8
 
 3. 接口
 3.1 TVBOX接口

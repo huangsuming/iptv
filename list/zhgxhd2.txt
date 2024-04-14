@@ -1,127 +1,127 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
+#EXTINF:-1 ,CCTV1
 http://183.196.25.171:808/hls/1/index.m3u8
-#EXTINF:-1 ,Unknown_2
+#EXTINF:-1 ,CCTV2
 http://183.196.25.171:808/hls/2/index.m3u8
-#EXTINF:-1 ,Unknown_4
+#EXTINF:-1 ,CCTV4
 http://183.196.25.171:808/hls/4/index.m3u8
-#EXTINF:-1 ,Unknown_7
+#EXTINF:-1 ,CCTV7
 http://183.196.25.171:808/hls/7/index.m3u8
-#EXTINF:-1 ,Unknown_9
+#EXTINF:-1 ,CCTV9
 http://183.196.25.171:808/hls/9/index.m3u8
-#EXTINF:-1 ,Unknown_10
+#EXTINF:-1 ,CCTV10
 http://183.196.25.171:808/hls/10/index.m3u8
-#EXTINF:-1 ,Unknown_11
+#EXTINF:-1 ,CCTV11
 http://183.196.25.171:808/hls/11/index.m3u8
-#EXTINF:-1 ,Unknown_12
+#EXTINF:-1 ,CCTV12
 http://183.196.25.171:808/hls/12/index.m3u8
-#EXTINF:-1 ,Unknown_13
+#EXTINF:-1 ,CCTV13
 http://183.196.25.171:808/hls/13/index.m3u8
-#EXTINF:-1 ,Unknown_14
+#EXTINF:-1 ,CCTV14
 http://183.196.25.171:808/hls/14/index.m3u8
-#EXTINF:-1 ,Unknown_15
+#EXTINF:-1 ,CCTV15
 http://183.196.25.171:808/hls/15/index.m3u8
-#EXTINF:-1 ,Unknown_16
+#EXTINF:-1 ,河北卫视
 http://183.196.25.171:808/hls/16/index.m3u8
-#EXTINF:-1 ,Unknown_19
+#EXTINF:-1 ,河北影视剧
 http://183.196.25.171:808/hls/19/index.m3u8
-#EXTINF:-1 ,Unknown_20
+#EXTINF:-1 ,河北少儿科教
 http://183.196.25.171:808/hls/20/index.m3u8
-#EXTINF:-1 ,Unknown_21
+#EXTINF:-1 ,河北公共
 http://183.196.25.171:808/hls/21/index.m3u8
-#EXTINF:-1 ,Unknown_22
+#EXTINF:-1 ,河北农民频道
 http://183.196.25.171:808/hls/22/index.m3u8
-#EXTINF:-1 ,Unknown_23
+#EXTINF:-1 ,石家庄新闻综合
 http://183.196.25.171:808/hls/23/index.m3u8
-#EXTINF:-1 ,Unknown_27
+#EXTINF:-1 ,湖南卫视
 http://183.196.25.171:808/hls/27/index.m3u8
-#EXTINF:-1 ,Unknown_28
+#EXTINF:-1 ,浙江卫视
 http://183.196.25.171:808/hls/28/index.m3u8
-#EXTINF:-1 ,Unknown_29
+#EXTINF:-1 ,江苏卫视
 http://183.196.25.171:808/hls/29/index.m3u8
-#EXTINF:-1 ,Unknown_30
+#EXTINF:-1 ,安徽卫视
 http://183.196.25.171:808/hls/30/index.m3u8
-#EXTINF:-1 ,Unknown_31
+#EXTINF:-1 ,北京卫视
 http://183.196.25.171:808/hls/31/index.m3u8
-#EXTINF:-1 ,Unknown_32
+#EXTINF:-1 ,天津卫视
 http://183.196.25.171:808/hls/32/index.m3u8
-#EXTINF:-1 ,Unknown_33
+#EXTINF:-1 ,辽宁卫视
 http://183.196.25.171:808/hls/33/index.m3u8
-#EXTINF:-1 ,Unknown_34
+#EXTINF:-1 ,山东卫视
 http://183.196.25.171:808/hls/34/index.m3u8
-#EXTINF:-1 ,Unknown_35
+#EXTINF:-1 ,云南卫视
 http://183.196.25.171:808/hls/35/index.m3u8
-#EXTINF:-1 ,Unknown_36
+#EXTINF:-1 ,河南卫视
 http://183.196.25.171:808/hls/36/index.m3u8
-#EXTINF:-1 ,Unknown_37
+#EXTINF:-1 ,四川卫视
 http://183.196.25.171:808/hls/37/index.m3u8
-#EXTINF:-1 ,Unknown_38
+#EXTINF:-1 ,江西卫视
 http://183.196.25.171:808/hls/38/index.m3u8
-#EXTINF:-1 ,Unknown_39
+#EXTINF:-1 ,贵州卫视
 http://183.196.25.171:808/hls/39/index.m3u8
-#EXTINF:-1 ,Unknown_40
+#EXTINF:-1 ,深圳卫视
 http://183.196.25.171:808/hls/40/index.m3u8
-#EXTINF:-1 ,Unknown_41
+#EXTINF:-1 ,湖北卫视
 http://183.196.25.171:808/hls/41/index.m3u8
-#EXTINF:-1 ,Unknown_42
+#EXTINF:-1 ,东方卫视
 http://183.196.25.171:808/hls/42/index.m3u8
-#EXTINF:-1 ,Unknown_43
+#EXTINF:-1 ,重庆卫视
 http://183.196.25.171:808/hls/43/index.m3u8
-#EXTINF:-1 ,Unknown_44
+#EXTINF:-1 ,东南卫视
 http://183.196.25.171:808/hls/44/index.m3u8
-#EXTINF:-1 ,Unknown_45
+#EXTINF:-1 ,广东卫视
 http://183.196.25.171:808/hls/45/index.m3u8
-#EXTINF:-1 ,Unknown_46
+#EXTINF:-1 ,广西卫视
 http://183.196.25.171:808/hls/46/index.m3u8
-#EXTINF:-1 ,Unknown_47
+#EXTINF:-1 ,吉林卫视
 http://183.196.25.171:808/hls/47/index.m3u8
-#EXTINF:-1 ,Unknown_48
+#EXTINF:-1 ,陕西卫视
 http://183.196.25.171:808/hls/48/index.m3u8
-#EXTINF:-1 ,Unknown_49
+#EXTINF:-1 ,山西卫视
 http://183.196.25.171:808/hls/49/index.m3u8
-#EXTINF:-1 ,Unknown_50
+#EXTINF:-1 ,内蒙古卫视
 http://183.196.25.171:808/hls/50/index.m3u8
-#EXTINF:-1 ,Unknown_51
+#EXTINF:-1 ,青海卫视
 http://183.196.25.171:808/hls/51/index.m3u8
-#EXTINF:-1 ,Unknown_53
+#EXTINF:-1 ,宁夏卫视
 http://183.196.25.171:808/hls/53/index.m3u8
-#EXTINF:-1 ,Unknown_54
+#EXTINF:-1 ,西藏卫视
 http://183.196.25.171:808/hls/54/index.m3u8
-#EXTINF:-1 ,Unknown_55
+#EXTINF:-1 ,新疆卫视
 http://183.196.25.171:808/hls/55/index.m3u8
-#EXTINF:-1 ,Unknown_56
+#EXTINF:-1 ,甘肃卫视
 http://183.196.25.171:808/hls/56/index.m3u8
-#EXTINF:-1 ,Unknown_57
+#EXTINF:-1 ,卡酷少儿
 http://183.196.25.171:808/hls/57/index.m3u8
-#EXTINF:-1 ,Unknown_58
+#EXTINF:-1 ,金鹰卡通
 http://183.196.25.171:808/hls/58/index.m3u8
-#EXTINF:-1 ,Unknown_61
+#EXTINF:-1 ,CCTV5+
 http://183.196.25.171:808/hls/61/index.m3u8
-#EXTINF:-1 ,Unknown_65
+#EXTINF:-1 ,安新综合
 http://183.196.25.171:808/hls/65/index.m3u8
-#EXTINF:-1 ,Unknown_73
+#EXTINF:-1 ,保定新闻综合
 http://183.196.25.171:808/hls/73/index.m3u8
-#EXTINF:-1 ,Unknown_75
+#EXTINF:-1 ,CCTV3
 http://183.196.25.171:808/hls/75/index.m3u8
-#EXTINF:-1 ,Unknown_76
+#EXTINF:-1 ,CCTV6
 http://183.196.25.171:808/hls/76/index.m3u8
-#EXTINF:-1 ,Unknown_77
+#EXTINF:-1 ,CCTV8
 http://183.196.25.171:808/hls/77/index.m3u8
-#EXTINF:-1 ,Unknown_78
+#EXTINF:-1 ,CCTV5
 http://183.196.25.171:808/hls/78/index.m3u8
-#EXTINF:-1 ,Unknown_79
+#EXTINF:-1 ,黑龙江卫视
 http://183.196.25.171:808/hls/79/index.m3u8
-#EXTINF:-1 ,Unknown_85
+#EXTINF:-1 ,CETV1
 http://183.196.25.171:808/hls/85/index.m3u8
-#EXTINF:-1 ,Unknown_86
+#EXTINF:-1 ,北京纪实科教
 http://183.196.25.171:808/hls/86/index.m3u8
-#EXTINF:-1 ,Unknown_87
+#EXTINF:-1 ,金鹰纪实
 http://183.196.25.171:808/hls/87/index.m3u8
-#EXTINF:-1 ,Unknown_88
+#EXTINF:-1 ,CCTV兵器科技
 http://183.196.25.171:808/hls/88/index.m3u8
-#EXTINF:-1 ,Unknown_89
+#EXTINF:-1 ,梨园频道
 http://183.196.25.171:808/hls/89/index.m3u8
-#EXTINF:-1 ,Unknown_92
+#EXTINF:-1 ,CETV4
 http://183.196.25.171:808/hls/92/index.m3u8
-#EXTINF:-1 ,Unknown_93
+#EXTINF:-1 ,CCTV17
 http://183.196.25.171:808/hls/93/index.m3u8
