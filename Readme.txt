@@ -189,24 +189,29 @@ https://www.123iptv.tv/
 https://www.right.com.cn/forum/?449509
 
 2.6 直播源说明
-(1)黑龙江移动
+(1)移动
+#黑龙江移动:
 ottrrs.hl.chinamobile.com
-(2)陕西移动
+#陕西移动:
 dbiptv.sn.chinamobile.com
 zteres.sn.chinamobile.com:6060
-(3)江西移动
-hwrr.jx.chinamobile.com
-(4)河南大象融媒体
+#江西移动:
+hwrr.jx.chinamobile.com:8080
+(2)地方传媒
+#河南大象融媒体:
 tvpull.dxhmt.cn
-(5)laotv(老挝)
-laotv.la
-(6)公明新围科源网络(酒店源):gmxw
-#如:广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
-gmxw.7766.org:808
-(7)智慧光迅(酒店源):zhgxtv
-#(标清SD)如:环球奇观,http://59.44.192.82:65000/hls/35/index.m3u8
-#(高清HD1)如:河北都市,http://111.11.98.205:9900/hls/21/index.m3u8
-#(高清HD2)如:CCTV10,http://183.196.25.171:808/hls/10/index.m3u8
+(3)酒店源
+#公明新围科源网络:gmxw
+gmxw.7766.org:808(如:广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8)
+#智慧光迅:zhgxtv
+(标清SD)如:环球奇观,http://59.44.192.82:65000/hls/35/index.m3u8
+(高清HD1)如:河北都市,http://111.11.98.205:9900/hls/21/index.m3u8
+(高清HD2)如:CCTV10,http://183.196.25.171:808/hls/10/index.m3u8
+#点量TV:dolit
+(标清SD)如:CCTV1,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
+(4)老挝
+#laotv(如:凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8)
+#laos(如:CCTV-5,http://103.95.24.37:880/CCTV-5.m3u8)
 
 3. 接口
 3.1 TVBOX接口
