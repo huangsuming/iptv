@@ -188,14 +188,12 @@ https://www.123iptv.tv/
 2.5 活跃用户
 https://www.right.com.cn/forum/?449509
 2.6 订阅源
+https://yibababa.com/tv/list.html
 
 2.7 直播源说明
 (1)移动
 #黑龙江移动:
 ottrrs.hl.chinamobile.com
-#陕西移动:
-dbiptv.sn.chinamobile.com
-zteres.sn.chinamobile.com:6060
 #江西移动:
 hwrr.jx.chinamobile.com:8080
 (2)地方传媒
@@ -235,8 +233,6 @@ https://epg.imxd.top/download/all-mxdyeah.xml
 https://live.imxd.top/logo/list.txt
 https://github.com/lqtv/logo/blob/main/README.md
 https://github.com/wanglindl/TVlogo/blob/main/README.md
-3.4 txt转m3u
-https://live.fanmingming.com/txt2m3u/
 
 4. 各省英文缩写
 省份		 拼音缩写
