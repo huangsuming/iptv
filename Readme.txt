@@ -199,8 +199,9 @@ zteres.sn.chinamobile.com:6060
 #江西移动:
 hwrr.jx.chinamobile.com:8080
 (2)地方传媒
-#河南大象融媒体:
-tvpull.dxhmt.cn
+#河南大象融媒体:tvpull.dxhmt.cn
+#陕西秦岭云:zycfcdn.gdwlcloud.com
+如:CCTV13,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 (3)酒店源
 #公明新围科源网络(不推荐,不流畅):gmxw
 (高清HD1)如:广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8

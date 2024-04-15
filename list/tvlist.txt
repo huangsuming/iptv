@@ -103,6 +103,8 @@ http://59.44.192.82:65000/hls/35/index.m3u8
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTTV-环球旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/GTTV-环球旅游.png" group-title="总台",GTTV-环球旅游
 http://59.44.192.82:65000/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/" group-title="总台",重温经典
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国气象频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CWTV-中国气象频道.png" group-title="总台",中国气象频道
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中央新影.发现之旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CND-中央新影发现之旅.png" group-title="总台",中央新影.发现之旅
