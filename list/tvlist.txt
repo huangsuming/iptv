@@ -1242,19 +1242,19 @@ https://live-stream.lsxrmtzx.com/live/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="盐湖频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sx/" group-title="山西",盐湖频道
 http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Shanxi-新闻资讯.png" group-title="陕西",陕西新闻资讯
-http://stream.snrtv.com/sxbc-1-cpJLTU.m3u8
+http://stream.snrtv.com/sxbc-1-fhvB16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Shanxi-都市青春.png" group-title="陕西",陕西都市青春
-http://stream.snrtv.com/sxbc-2-eksABL.m3u8
+http://stream.snrtv.com/sxbc-2-eqCRZ5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西公共频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Shanxi-公共.png" group-title="陕西",陕西公共频道
-http://stream.snrtv.com/sxbc-5-vDLO35.m3u8
+http://stream.snrtv.com/sxbc-5-dlpxCX.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西生活频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Shanxi-生活.png" group-title="陕西",陕西生活频道
-http://stream.snrtv.com/sxbc-3-eoAMV7.m3u8
+http://stream.snrtv.com/sxbc-3-joxN68.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Shanxi-体育休闲.png" group-title="陕西",陕西体育休闲
-http://stream.snrtv.com/sxbc-7-gwJNV8.m3u8
+http://stream.snrtv.com/sxbc-7-gkKM34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Shanxi-西部电影.png" group-title="陕西",陕西西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西移动电视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/" group-title="陕西",陕西移动电视
-http://stream.snrtv.com/sxbc-yd-dqzAJX.m3u8
+http://stream.snrtv.com/sxbc-yd-gCGPR0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Shanxi-影视.png" group-title="陕西",陕西影视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-新闻综合.png" group-title="陕西",西安新闻综合
