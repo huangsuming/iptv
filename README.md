@@ -11,12 +11,14 @@
 # 待补充
 - 电视台:<br>
   4K修复<br>
+  CHC高清电影<br>
   SiTV-新视觉<br>
   SiTV-法治天地<br>
   SiTV-动漫秀场<br>
   SiTV-都市剧场<br>
   SiTV-欢笑剧场4K<br>
   SiTV-劲爆体育<br>
+  SiTV-金色学堂<br>
   SiTV-乐游<br>
   SiTV-魅力足球<br>
   SiTV-七彩戏剧<br>
@@ -30,8 +32,6 @@
   华数-漫游世界<br>
   茶频道<br>
   快乐垂钓<br>
-  陕西西部电影<br>
-  陕西影视<br>
   上海新闻综合<br>
   ICS外语<br>
   第一财经<br>

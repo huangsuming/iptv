@@ -265,8 +265,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SiTV-点掌财经" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-点掌财经.png" group-title="付费",SiTV-点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SiTV-金色学堂" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SiTV-金色学堂.png" group-title="付费",SiTV-金色学堂
-http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华数-测试" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="付费",华数-测试
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="华数-求索动物" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-求索动物.png" group-title="付费",华数-求索动物
