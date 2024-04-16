@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="安阳新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",安阳新闻综合
+https://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安阳文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",安阳文旅
+https://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济源电视一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",济源电视一套
+http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="开封新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",开封新闻综合
+http://live.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="开封文化旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",开封文化旅游
+http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="泌阳新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",泌阳新闻综合
+http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="长垣综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",长垣综合
+http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="郸城新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",郸城新闻综合
+http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="登封综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",登封综合
+http://live.dxhmt.cn:9081/tv/10185-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="邓州综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",邓州综合
+http://live.dxhmt.cn:9081/tv/11381-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="方城一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",方城一套
+http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="封丘新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",封丘新闻综合
+http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="扶沟电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",扶沟电视台
+http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="固始综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",固始综合
+http://live.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="巩义新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",巩义新闻
+http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="光山综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",光山综合
+http://live.dxhmt.cn:9081/tv/11522-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="滑县一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",滑县一套
+http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潢川电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",潢川电视台
+http://live.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淮滨综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",淮滨综合
+http://live.dxhmt.cn:9081/tv/11527-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辉县新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",辉县新闻综合
+http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="获嘉综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",获嘉综合
+http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="郏县综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",郏县综合
+http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="兰考新闻频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",兰考新闻频道
+http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="林州新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",林州新闻综合
+http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="临颖综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",临颖综合
+http://live.dxhmt.cn:9081/tv/11122-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="灵宝综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",灵宝综合频道
+http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卢氏综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",卢氏综合
+http://live.dxhmt.cn:9081/tv/11224-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="鲁山新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",鲁山新闻综合
+http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="鹿邑综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",鹿邑综合
+http://live.dxhmt.cn:9081/tv/11628-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="罗山综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",罗山综合频道
+http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="栾川综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",栾川综合
+http://live.dxhmt.cn:9081/tv/10324-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="孟津综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",孟津综合
+http://live.dxhmt.cn:9081/tv/10322-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="孟州综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",孟州综合
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="渑池新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",渑池新闻综合
+http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内黄综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",内黄综合
+http://live.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="平舆新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",平舆新闻综合
+http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淇县电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",淇县电视台
+http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="杞县新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",杞县新闻综合
+http://live.dxhmt.cn:9081/tv/10221-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="沁阳综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",沁阳综合
+http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="确山融媒" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",确山融媒
+http://live.dxhmt.cn:9081/tv/11725-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="汝阳综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",汝阳综合频道
+http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="商城综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",商城综合
+http://live.dxhmt.cn:9081/tv/11524-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上蔡一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",上蔡一套
+http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上街电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",上街电视台
+http://live.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",沈丘新闻综合
+http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="嵩县综合新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",嵩县综合新闻
+http://live.dxhmt.cn:9081/tv/10325-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="遂平综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",遂平综合
+http://live.dxhmt.cn:9081/tv/11728-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="汤阴综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",汤阴综合
+http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="唐河一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",唐河一套
+http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="通许综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",通许综合
+http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="尉氏电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",尉氏电视台
+http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="温县综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",温县综合
+http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="舞钢电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",舞钢电视台
+http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="舞阳新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",舞阳新闻综合
+http://live.dxhmt.cn:9081/tv/11121-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="武陟综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",武陟综合
+http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淅川电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",淅川电视台
+http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西华电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",西华电视台
+http://live.dxhmt.cn:9081/tv/11622-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",西峡综合
+http://live.dxhmt.cn:9081/tv/11323-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="襄城电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",襄城电视台
+http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="项城电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",项城电视台
+http://live.dxhmt.cn:9081/tv/11681-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新安综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",新安综合频道
+http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新蔡综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",新蔡综合
+http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新密综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",新密综合频道
+http://live.dxhmt.cn:9081/tv/10183-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新县综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",新县综合
+http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新乡县综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",新乡县综合
+http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新野综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",新野综合频道
+http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新郑综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",新郑综合
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="荥阳综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",荥阳综合频道
+http://live.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浚县综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",浚县综合
+http://live.dxhmt.cn:9081/tv/10621-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",偃师新闻
+http://live.dxhmt.cn:9081/tv/10381-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="鄢陵综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",鄢陵综合
+http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="延津电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",延津电视台
+http://live.dxhmt.cn:9081/tv/10726-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="叶县电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",叶县电视台
+http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="义马综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",义马综合
+http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宜阳综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",宜阳综合
+http://live.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="永城新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",永城新闻综合
+http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="禹州电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",禹州电视台
+http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="原阳电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",原阳电视台
+http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="镇平新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/" group-title="河南",镇平新闻综合
+http://live.dxhmt.cn:9081/tv/11324-1.m3u8
