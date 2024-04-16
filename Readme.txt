@@ -218,9 +218,9 @@ hwrr.jx.chinamobile.com:8080
 (2)地方传媒
 #河南大象融媒体:dxhmt.cn
 如:长垣综合,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-#陕西秦岭云:zycfcdn.gdwlcloud.com
+#陕西秦岭云:sxbc
 如:CCTV13,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
-#湖南华声在线:liveplay-srs.voc.com.cn
+#湖南华声在线:voc
 如:长沙综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 (3)酒店源
 #公明新围科源网络(不推荐,不流畅):gmxw
