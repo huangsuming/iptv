@@ -238,7 +238,7 @@ hwrr.jx.chinamobile.com:8080
 #laotv(如:凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8)
 #laos(如:CCTV-1,http://103.95.24.37:880/CCTV-1.m3u8)
 (5)开源
-#ZLMediaKit
+#ZLMediaKit(访问http://66.165.240.154:8080/获取直播源)
 如:CCTV1,http://66.165.240.154:8080/live/jsydcctv1/hls.m3u8
 
 3. 接口

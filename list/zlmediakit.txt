@@ -35,139 +35,135 @@ http://66.165.240.154:8080/live/jsydcctv15/hls.m3u8
 http://66.165.240.154:8080/live/jsydws01/hls.m3u8
 #EXTINF:-1 ,辽宁卫视
 http://66.165.240.154:8080/live/jsydws02/hls.m3u8
-#EXTINF:-1 ,jsydws03
+#EXTINF:-1 ,东方卫视
 http://66.165.240.154:8080/live/jsydws03/hls.m3u8
-#EXTINF:-1 ,jsydws04
+#EXTINF:-1 ,广东卫视
 http://66.165.240.154:8080/live/jsydws04/hls.m3u8
-#EXTINF:-1 ,jsydws05
+#EXTINF:-1 ,吉林卫视
 http://66.165.240.154:8080/live/jsydws05/hls.m3u8
-#EXTINF:-1 ,jsydws06
+#EXTINF:-1 ,湖南卫视
 http://66.165.240.154:8080/live/jsydws06/hls.m3u8
-#EXTINF:-1 ,jsydws07
+#EXTINF:-1 ,北京卫视
 http://66.165.240.154:8080/live/jsydws07/hls.m3u8
-#EXTINF:-1 ,jsydws08
+#EXTINF:-1 ,山东卫视
 http://66.165.240.154:8080/live/jsydws08/hls.m3u8
-#EXTINF:-1 ,jsydws09
+#EXTINF:-1 ,湖北卫视
 http://66.165.240.154:8080/live/jsydws09/hls.m3u8
-#EXTINF:-1 ,jsydws10
+#EXTINF:-1 ,浙江卫视
 http://66.165.240.154:8080/live/jsydws10/hls.m3u8
-#EXTINF:-1 ,2WSFA1
+#EXTINF:-1 ,WSFA
 http://66.165.240.154:8080/live/2WSFA1/hls.m3u8
-#EXTINF:-1 ,2cahbd7
+#EXTINF:-1 ,TSN3
 http://66.165.240.154:8080/live/2cahbd7/hls.m3u8
-#EXTINF:-1 ,2cahbd9
+#EXTINF:-1 ,TSN5
 http://66.165.240.154:8080/live/2cahbd9/hls.m3u8
-#EXTINF:-1 ,2mghbo02
+#EXTINF:-1 ,HBO
 http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
-#EXTINF:-1 ,2sfrb1
+#EXTINF:-1 ,CGN日本
 http://66.165.240.154:8080/live/2sfrb1/hls.m3u8
-#EXTINF:-1 ,2sfrb2
+#EXTINF:-1 ,NHK World Japan
 http://66.165.240.154:8080/live/2sfrb2/hls.m3u8
 #EXTINF:-1 ,2sfrb3
 http://66.165.240.154:8080/live/2sfrb3/hls.m3u8
-#EXTINF:-1 ,ABCLosKABC
+#EXTINF:-1 ,ABC News Los Angeles
 http://66.165.240.154:8080/live/ABCLosKABC/hls.m3u8
 #EXTINF:-1 ,Bloomberg
 http://66.165.240.154:8080/live/Bloomberg/hls.m3u8
-#EXTINF:-1 ,CAFOODNETWORK
+#EXTINF:-1 ,Food Network
 http://66.165.240.154:8080/live/CAFOODNETWORK/hls.m3u8
-#EXTINF:-1 ,CAGOLFCHANNEL
+#EXTINF:-1 ,GOLF
 http://66.165.240.154:8080/live/CAGOLFCHANNEL/hls.m3u8
-#EXTINF:-1 ,CAOMNI1
+#EXTINF:-1 ,OMNI
 http://66.165.240.154:8080/live/CAOMNI1/hls.m3u8
-#EXTINF:-1 ,CBS1
+#EXTINF:-1 ,CBS News
 http://66.165.240.154:8080/live/CBS1/hls.m3u8
-#EXTINF:-1 ,CBSLosKCBS
+#EXTINF:-1 ,CBS News Los Angeles
 http://66.165.240.154:8080/live/CBSLosKCBS/hls.m3u8
-#EXTINF:-1 ,CNN1
+#EXTINF:-1 ,CNN
 http://66.165.240.154:8080/live/CNN1/hls.m3u8
-#EXTINF:-1 ,CWLosKTLA
+#EXTINF:-1 ,CW Los Angeles
 http://66.165.240.154:8080/live/CWLosKTLA/hls.m3u8
-#EXTINF:-1 ,FOXNews221
+#EXTINF:-1 ,FOXNews
 http://66.165.240.154:8080/live/FOXNews221/hls.m3u8
-#EXTINF:-1 ,Horse1
+#EXTINF:-1 ,Horse
 http://66.165.240.154:8080/live/Horse1/hls.m3u8
-#EXTINF:-1 ,LosKCAL
-http://66.165.240.154:8080/live/LosKCAL/hls.m3u8
-#EXTINF:-1 ,MyLosKCOP
+#EXTINF:-1 ,FOX Plus
 http://66.165.240.154:8080/live/MyLosKCOP/hls.m3u8
-#EXTINF:-1 ,NTVNews24
+#EXTINF:-1 ,NTV News 24
 http://66.165.240.154:8080/live/NTVNews24/hls.m3u8
-#EXTINF:-1 ,TVBtyzxt1
+#EXTINF:-1 ,TVB体育资讯
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-#EXTINF:-1 ,TVBwxxwt
+#EXTINF:-1 ,TVB无线新闻
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-#EXTINF:-1 ,UnivisionLosKMEX
+#EXTINF:-1 ,Univision Los Angeles
 http://66.165.240.154:8080/live/UnivisionLosKMEX/hls.m3u8
-#EXTINF:-1 ,caTSN1
+#EXTINF:-1 ,TSN1
 http://66.165.240.154:8080/live/caTSN1/hls.m3u8
-#EXTINF:-1 ,cahbd2
+#EXTINF:-1 ,TSN2
 http://66.165.240.154:8080/live/cahbd2/hls.m3u8
-#EXTINF:-1 ,cahbd6
+#EXTINF:-1 ,TSN6
 http://66.165.240.154:8080/live/cahbd6/hls.m3u8
-#EXTINF:-1 ,cahbd8
+#EXTINF:-1 ,TSN8
 http://66.165.240.154:8080/live/cahbd8/hls.m3u8
-#EXTINF:-1 ,gapd10
+#EXTINF:-1 ,CNA
 http://66.165.240.154:8080/live/gapd10/hls.m3u8
-#EXTINF:-1 ,gapd122
+#EXTINF:-1 ,The World Today
 http://66.165.240.154:8080/live/gapd122/hls.m3u8
-#EXTINF:-1 ,gatEF01
+#EXTINF:-1 ,EF运通
 http://66.165.240.154:8080/live/gatEF01/hls.m3u8
-#EXTINF:-1 ,gatda201
+#EXTINF:-1 ,大爱
 http://66.165.240.154:8080/live/gatda201/hls.m3u8
-#EXTINF:-1 ,gatdscj02
+#EXTINF:-1 ,超视34.5
 http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
-#EXTINF:-1 ,hgArirang01
+#EXTINF:-1 ,Arirang Korea 1
 http://66.165.240.154:8080/live/hgArirang01/hls.m3u8
-#EXTINF:-1 ,hgArirang02
+#EXTINF:-1 ,Arirang Korea 2
 http://66.165.240.154:8080/live/hgArirang02/hls.m3u8
-#EXTINF:-1 ,hgBBS01
+#EXTINF:-1 ,BBS
 http://66.165.240.154:8080/live/hgBBS01/hls.m3u8
-#EXTINF:-1 ,hgBBS02
+#EXTINF:-1 ,BBS
 http://66.165.240.154:8080/live/hgBBS02/hls.m3u8
-#EXTINF:-1 ,hgBTNTV01
+#EXTINF:-1 ,BTN
 http://66.165.240.154:8080/live/hgBTNTV01/hls.m3u8
-#EXTINF:-1 ,hgEBS01
+#EXTINF:-1 ,EBS
 http://66.165.240.154:8080/live/hgEBS01/hls.m3u8
-#EXTINF:-1 ,hgEBS21
+#EXTINF:-1 ,EBS 2
 http://66.165.240.154:8080/live/hgEBS21/hls.m3u8
-#EXTINF:-1 ,hgEBSKids01
+#EXTINF:-1 ,EBS Kids
 http://66.165.240.154:8080/live/hgEBSKids01/hls.m3u8
-#EXTINF:-1 ,hgEBSe01
+#EXTINF:-1 ,EBS e
 http://66.165.240.154:8080/live/hgEBSe01/hls.m3u8
-#EXTINF:-1 ,hgGugbangTV01
+#EXTINF:-1 ,KFN
 http://66.165.240.154:8080/live/hgGugbangTV01/hls.m3u8
-#EXTINF:-1 ,hgNBS01
+#EXTINF:-1 ,NBS
 http://66.165.240.154:8080/live/hgNBS01/hls.m3u8
-#EXTINF:-1 ,hgSBSUBC01
+#EXTINF:-1 ,CJB|SBS
 http://66.165.240.154:8080/live/hgSBSUBC01/hls.m3u8
-#EXTINF:-1 ,hgTVWorkNet
+#EXTINF:-1 ,JOB
 http://66.165.240.154:8080/live/hgTVWorkNet/hls.m3u8
-#EXTINF:-1 ,nbaTV3
+#EXTINF:-1 ,NBA TV
 http://66.165.240.154:8080/live/nbaTV3/hls.m3u8
-#EXTINF:-1 ,sf2xby4
+#EXTINF:-1 ,AMC
 http://66.165.240.154:8080/live/sf2xby4/hls.m3u8
-#EXTINF:-1 ,sf2xby6
+#EXTINF:-1 ,Star Life
 http://66.165.240.154:8080/live/sf2xby6/hls.m3u8
-#EXTINF:-1 ,slxw01
+#EXTINF:-1 ,SETI.News
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
-#EXTINF:-1 ,slxw02
+#EXTINF:-1 ,Live 三立
 http://66.165.240.154:8080/live/slxw02/hls.m3u8
-#EXTINF:-1 ,tymsxw1
+#EXTINF:-1 ,民视新闻台
 http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
-#EXTINF:-1 ,tytvbs10
+#EXTINF:-1 ,TVBS
 http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
-#EXTINF:-1 ,tytvbs11
+#EXTINF:-1 ,TVBS-华语电视
 http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
-#EXTINF:-1 ,tytvbsyz1
+#EXTINF:-1 ,TVBS-Asia
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
-#EXTINF:-1 ,tyxltsxw3
+#EXTINF:-1 ,TVBS-台视新闻HD
 http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
-#EXTINF:-1 ,usHGTV
+#EXTINF:-1 ,HGTV
 http://66.165.240.154:8080/live/usHGTV/hls.m3u8
-#EXTINF:-1 ,ustypd1
-http://66.165.240.154:8080/live/ustypd1/hls.m3u8
-#EXTINF:-1 ,ztylt01
+#EXTINF:-1 ,CTI-中天新闻
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1 ,ztylt06
+#EXTINF:-1 ,CTV-中视HD
 http://66.165.240.154:8080/live/ztylt06/hls.m3u8
