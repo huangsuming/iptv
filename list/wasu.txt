@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://125.210.152.19:9121/live/hzgq-cctv1gq-h264.m3u8
+#EXTINF:-1 ,CCTV2
+http://125.210.152.19:9121/live/hzgq-cctv2gq-h264.m3u8
+#EXTINF:-1 ,CCTV3
+http://125.210.152.19:9121/live/hzgq-cctv3gq-h264.m3u8
+#EXTINF:-1 ,CCTV4
+http://125.210.152.19:9121/live/hzgq-cctv4gq-h264.m3u8
+#EXTINF:-1 ,CCTV5
+http://125.210.152.19:9121/live/hzgq-cctv5gq-h264.m3u8
+#EXTINF:-1 ,CCTV5+
+http://125.210.152.19:9121/live/hzgq-cctvzhgq-h264.m3u8
+#EXTINF:-1 ,CCTV6
+http://125.210.152.19:9121/live/hzgq-cctv6gq-h264.m3u8
+#EXTINF:-1 ,CCTV7
+http://125.210.152.19:9121/live/hzgq-cctv7gq-h264.m3u8
+#EXTINF:-1 ,CCTV8
+http://125.210.152.19:9121/live/hzgq-cctv8gq-h264.m3u8
+#EXTINF:-1 ,CCTV9
+http://125.210.152.19:9121/live/hzgq-cctvjlgq-h264.m3u8
+#EXTINF:-1 ,CCTV10
+http://125.210.152.19:9121/live/hzgq-cctv10gq-h264.m3u8
+#EXTINF:-1 ,CCTV11
+http://125.210.152.19:9121/live/hzgq-cctv11gq-h264.m3u8
+#EXTINF:-1 ,CCTV12
+http://125.210.152.19:9121/live/hzgq-cctv12gq-h264.m3u8
+#EXTINF:-1 ,CCTV13
+http://125.210.152.19:9121/live/hzgq-cctvnewsgq-h264.m3u8
+#EXTINF:-1 ,CCTV14
+http://125.210.152.19:9121/live/hzgq-cctvsegq-h264.m3u8
+#EXTINF:-1 ,CCTV15
+http://125.210.152.19:9121/live/hzgq-cctvmusicgq-h264.m3u8
+#EXTINF:-1 ,CCTV16
+http://125.210.152.19:9121/live/hzgq-cctv16gq-h264.m3u8
+#EXTINF:-1 ,CCTV17
+http://125.210.152.19:9121/live/hzgq-cctv17gq-h264.m3u8
+#EXTINF:-1 ,CGTN
+http://125.210.152.19:9121/live/hszx-cctvgj-h264.m3u8
+#EXTINF:-1 ,中国教育4
+http://125.210.152.19:9121/live/hszx-CETV-4-h264.m3u8
+#EXTINF:-1 ,北京卫视
+http://125.210.152.19:9121/live/hzgq-bjgqws-h264.m3u8
+#EXTINF:-1 ,东方卫视
+http://125.210.152.19:9121/live/hzgq-dftvgq-h264.m3u8
+#EXTINF:-1 ,天津卫视
+http://125.210.152.19:9121/live/hzgq-tjwsgq-h264.m3u8
+#EXTINF:-1 ,重庆卫视
+http://125.210.152.19:9121/live/hzgq-cqwsgq-h264.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://125.210.152.19:9121/live/hzgq-hljwsgq-h264.m3u8
+#EXTINF:-1 ,吉林卫视
+http://125.210.152.19:9121/live/hzgq-jlwsgq-h264.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://125.210.152.19:9121/live/hzgq-lnwsgq-h264.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://125.210.152.19:9121/live/hszx-nmgtv-h264.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://125.210.152.19:9121/live/hszx-nxtv-h264.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://125.210.152.19:9121/live/hszx-gstv-h264.m3u8
+#EXTINF:-1 ,青海卫视
+http://125.210.152.19:9121/live/hszx-qhtv-h264.m3u8
+#EXTINF:-1 ,陕西卫视
+http://125.210.152.19:9121/live/hszx-sxtv-h264.m3u8
+#EXTINF:-1 ,河北卫视
+http://125.210.152.19:9121/live/hzgq-hbwsgq1-h264.m3u8
+#EXTINF:-1 ,山西卫视
+http://125.210.152.19:9121/live/hszx-shanxitv-h264.m3u8
+#EXTINF:-1 ,山东卫视
+http://125.210.152.19:9121/live/hzgq-sdwsgq-h264.m3u8
+#EXTINF:-1 ,安徽卫视
+http://125.210.152.19:9121/live/hzgq-ahwsgq-h264.m3u8
+#EXTINF:-1 ,河南卫视
+http://125.210.152.19:9121/live/hzgq-henanwsgq-h264.m3u8
+#EXTINF:-1 ,湖北卫视
+http://125.210.152.19:9121/live/hzgq-hbwsgq-h264.m3u8
+#EXTINF:-1 ,湖南卫视
+http://125.210.152.19:9121/live/hzgq-hnwsgq-h264.m3u8
+#EXTINF:-1 ,江西卫视
+http://125.210.152.19:9121/live/hzgq-jxwsgq-h264.m3u8
+#EXTINF:-1 ,江苏卫视
+http://125.210.152.19:9121/live/hzgq-jswsgq-h264.m3u8
+#EXTINF:-1 ,浙江卫视
+http://125.210.152.19:9121/live/hzgq-zjwsgq-h264.m3u8
+#EXTINF:-1 ,东南卫视
+http://125.210.152.19:9121/live/hzgq-fjwsgq-h264.m3u8
+#EXTINF:-1 ,广东卫视
+http://125.210.152.19:9121/live/hzgq-gdwsgq-h264.m3u8
+#EXTINF:-1 ,深圳卫视
+http://125.210.152.19:9121/live/hzgq-szwsgq-h264.m3u8
+#EXTINF:-1 ,广西卫视
+http://125.210.152.19:9121/live/hszx-gxtv-h264.m3u8
+#EXTINF:-1 ,云南卫视
+http://125.210.152.19:9121/live/hzgq-ynwsgq-h264.m3u8
+#EXTINF:-1 ,贵州卫视
+http://125.210.152.19:9121/live/hszx-gztv-h264.m3u8
+#EXTINF:-1 ,四川卫视
+http://125.210.152.19:9121/live/hszx-sctv-h264.m3u8
+#EXTINF:-1 ,新疆卫视
+http://125.210.152.19:9121/live/hszx-xjtv-h264.m3u8
+#EXTINF:-1 ,兵团卫视
+http://125.210.152.19:9121/live/hszx-bttv-h264.m3u8
+#EXTINF:-1 ,西藏卫视
+http://125.210.152.19:9121/live/hszx-xztv-h264.m3u8
+#EXTINF:-1 ,海南卫视
+http://125.210.152.19:9121/live/hszx-lytv-h264.m3u8
+#EXTINF:-1 ,三沙卫视
+http://125.210.152.19:9121/live/hzgq-ssws-h264.m3u8
+#EXTINF:-1 ,北京纪实科教
+http://125.210.152.19:9121/live/hszx-bjjs-h264.m3u8
+#EXTINF:-1 ,浙江钱江
+http://125.210.152.19:9121/live/hzgq-qjpdgq-h264.m3u8
+#EXTINF:-1 ,浙江钱江2
+http://125.210.152.19:9121/live/hzgq-qjtvgq-h264.m3u8
+#EXTINF:-1 ,浙江新闻
+http://125.210.152.19:9121/live/hzgq-zjnewsgq-h264.m3u8
+#EXTINF:-1 ,浙江经济生活
+http://125.210.152.19:9121/live/hzgq-zjjsgq-h264.m3u8
+#EXTINF:-1 ,浙江教育科技
+http://125.210.152.19:9121/live/hzgq-zjjygq-h264.m3u8
+#EXTINF:-1 ,浙江民生休闲
+http://125.210.152.19:9121/live/hzgq-msxxgq-h264.m3u8
+#EXTINF:-1 ,浙江少儿
+http://125.210.152.19:9121/live/hzgq-zjsegq-h264.m3u8
+#EXTINF:-1 ,杭州1(综合)
+http://125.210.152.19:9121/live/hzgq-hzzhgq-h264.m3u8
+#EXTINF:-1 ,杭州2(明珠)
+http://125.210.152.19:9121/live/hzgq-xhmzgq-h264.m3u8
+#EXTINF:-1 ,杭州3(生活)
+http://125.210.152.19:9121/live/hzgq-hzshgq-h264.m3u8
+#EXTINF:-1 ,杭州4(影视)
+http://125.210.152.19:9121/live/hzgq-hzysgq-h264.m3u8
+#EXTINF:-1 ,杭州5(少体)
+http://125.210.152.19:9121/live/hzgq-hzsegq-h264.m3u8
+#EXTINF:-1 ,杭州导视
+http://125.210.152.19:9121/live/hzgq-hzdsgq-h264.m3u8
+#EXTINF:-1 ,华数高清
+http://125.210.152.19:9121/live/hzgq-hsfwgq-h264.m3u8
+#EXTINF:-1 ,求索纪录
+http://125.210.152.19:9121/live/hzgq-qsjlgq-h264.m3u8

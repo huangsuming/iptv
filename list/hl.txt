@@ -69,7 +69,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 ,古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,Unknown_165
+#EXTINF:-1 ,明星大片
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 ,惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -81,7 +81,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 ,精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,Unknown_172
+#EXTINF:-1 ,海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 ,精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
@@ -97,7 +97,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 ,风尚购物
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 ,Unknown_181
+#EXTINF:-1 ,武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 ,中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
@@ -261,9 +261,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 ,鸡西新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-#EXTINF:-1 ,Unknown_914
+#EXTINF:-1 ,齐齐哈尔新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
-#EXTINF:-1 ,Unknown_917
+#EXTINF:-1 ,伊春新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
 #EXTINF:-1 ,黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
@@ -301,7 +301,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
 #EXTINF:-1 ,北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 ,Unknown_952
+#EXTINF:-1 ,佳木斯新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 #EXTINF:-1 ,宁夏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
@@ -335,11 +335,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 ,鸡西安全.生活
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
-#EXTINF:-1 ,Unknown_985
+#EXTINF:-1 ,大庆新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 #EXTINF:-1 ,黑龙江农业.科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
-#EXTINF:-1 ,Unknown_994
+#EXTINF:-1 ,齐齐哈尔经济法治
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 ,江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
@@ -347,11 +347,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
 #EXTINF:-1 ,安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
-#EXTINF:-1 ,Unknown_1000
+#EXTINF:-1 ,大兴安岭新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
 #EXTINF:-1 ,湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
-#EXTINF:-1 ,Unknown_1003
+#EXTINF:-1 ,双鸭山新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
 #EXTINF:-1 ,江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
@@ -359,7 +359,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 ,山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
-#EXTINF:-1 ,Unknown_1009
+#EXTINF:-1 ,咪咕.全民热练
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 ,深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
@@ -381,12 +381,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
 #EXTINF:-1 ,哈尔滨生活
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 ,Unknown_1030
+#EXTINF:-1 ,双鸭山新闻综合HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 ,黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 #EXTINF:-1 ,黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-#EXTINF:-1 ,Unknown_1035
+#EXTINF:-1 ,鹤岗新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 

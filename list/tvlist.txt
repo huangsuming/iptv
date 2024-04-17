@@ -258,7 +258,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-农业致富" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-农业致富.png" group-title="付费",NewTV-农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-武搏世界" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-武搏世界.png" group-title="付费",NewTV-武搏世界
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-怡伴健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-怡伴健康.png" group-title="付费",NewTV-怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-中国功夫" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-中国功夫.png" group-title="付费",NewTV-中国功夫
@@ -870,7 +870,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="齐齐哈尔经济法治" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hl/" group-title="黑龙江",齐齐哈尔经济法治
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="双鸭山新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hl/" group-title="黑龙江",双鸭山新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="伊春新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hl/" group-title="黑龙江",伊春新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北经视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-经视频道.png" group-title="湖北",湖北经视
@@ -1151,8 +1151,8 @@ http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 http://59.44.192.82:65000/hls/92/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东新闻频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sd/Shandong-新闻频道.png" group-title="山东",山东新闻频道
 http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东教育频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sd/Shandong-山东教育卫视.png" group-title="山东",山东教育频道
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sd/Shandong-山东教育卫视.png" group-title="山东",山东教育卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东农科频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sd/Shandong-农科频道.png" group-title="山东",山东农科频道
 http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东齐鲁频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sd/Shandong-齐鲁频道.png" group-title="山东",山东齐鲁频道
@@ -1430,11 +1430,11 @@ https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="创世电视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hk/" group-title="香港",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hk/Phoenix-香港台.png" group-title="香港",凤凰香港
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hk/Phoenix-中文台.png" group-title="香港",凤凰中文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hk/Phoenix-新闻台.png" group-title="香港",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="环球电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hk/" group-title="香港",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="面包台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hk/" group-title="香港",面包台
