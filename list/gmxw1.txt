@@ -185,20 +185,20 @@ http://gmxw.7766.org:808/hls/124/index.m3u8
 http://gmxw.7766.org:808/hls/132/index.m3u8
 #EXTINF:-1 ,CCTV风云足球
 http://gmxw.7766.org:808/hls/133/index.m3u8
-#EXTINF:-1 ,深圳财经生活
-http://gmxw.7766.org:808/hls/151/index.m3u8
-#EXTINF:-1 ,深圳电视剧频道
-http://gmxw.7766.org:808/hls/141/index.m3u8
 #EXTINF:-1 ,深圳都市频道
 http://gmxw.7766.org:808/hls/140/index.m3u8
+#EXTINF:-1 ,深圳电视剧频道
+http://gmxw.7766.org:808/hls/141/index.m3u8
+#EXTINF:-1 ,深圳财经生活
+http://gmxw.7766.org:808/hls/151/index.m3u8
+#EXTINF:-1 ,深圳娱乐频道
+http://gmxw.7766.org:808/hls/155/index.m3u8
 #EXTINF:-1 ,深圳公共频道
 http://gmxw.7766.org:808/hls/156/index.m3u8
 #EXTINF:-1 ,深圳少儿频道
 http://gmxw.7766.org:808/hls/157/index.m3u8
 #EXTINF:-1 ,深圳体育健康
 http://gmxw.7766.org:808/hls/158/index.m3u8
-#EXTINF:-1 ,深圳娱乐频道
-http://gmxw.7766.org:808/hls/155/index.m3u8
 #EXTINF:-1 ,CCTV16
 http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 ,金鹰纪实

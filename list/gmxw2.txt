@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 ,广东体育
+http://183.11.239.36:808/hls/2/index.m3u8
+#EXTINF:-1 ,广东经济科教
+http://183.11.239.36:808/hls/4/index.m3u8
+#EXTINF:-1 ,广东新闻
+http://183.11.239.36:808/hls/5/index.m3u8
+#EXTINF:-1 ,广东影视
+http://183.11.239.36:808/hls/6/index.m3u8
+#EXTINF:-1 ,兵团卫视
+http://183.11.239.36:808/hls/7/index.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://183.11.239.36:808/hls/8/index.m3u8
+#EXTINF:-1 ,广东4K超高清
+http://183.11.239.36:808/hls/9/index.m3u8
 #EXTINF:-1 ,吉林卫视
 http://183.11.239.36:808/hls/10/index.m3u8
 #EXTINF:-1 ,CCTV世界地理
@@ -39,7 +53,7 @@ http://183.11.239.36:808/hls/27/index.m3u8
 http://183.11.239.36:808/hls/28/index.m3u8
 #EXTINF:-1 ,CCTV11
 http://183.11.239.36:808/hls/29/index.m3u8
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 ,CCTv12
 http://183.11.239.36:808/hls/30/index.m3u8
 #EXTINF:-1 ,CCTV13
 http://183.11.239.36:808/hls/31/index.m3u8
@@ -47,9 +61,9 @@ http://183.11.239.36:808/hls/31/index.m3u8
 http://183.11.239.36:808/hls/32/index.m3u8
 #EXTINF:-1 ,书画频道
 http://183.11.239.36:808/hls/33/index.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 ,CCTV13高清
 http://183.11.239.36:808/hls/34/index.m3u8
-#EXTINF:-1 ,CCTV17
+#EXTINF:-1 ,CCTV17高清
 http://183.11.239.36:808/hls/35/index.m3u8
 #EXTINF:-1 ,湖南卫视
 http://183.11.239.36:808/hls/36/index.m3u8
@@ -125,15 +139,15 @@ http://183.11.239.36:808/hls/78/index.m3u8
 http://183.11.239.36:808/hls/79/index.m3u8
 #EXTINF:-1 ,广东卫视
 http://183.11.239.36:808/hls/80/index.m3u8
-#EXTINF:-1 ,CGTN-西班牙语
+#EXTINF:-1 ,CGTN西班牙语
 http://183.11.239.36:808/hls/81/index.m3u8
-#EXTINF:-1 ,CGTN-法语
+#EXTINF:-1 ,CGTN法语
 http://183.11.239.36:808/hls/82/index.m3u8
 #EXTINF:-1 ,广东珠江
 http://183.11.239.36:808/hls/83/index.m3u8
-#EXTINF:-1 ,CGTN-阿拉伯语
+#EXTINF:-1 ,CGTN阿拉伯语
 http://183.11.239.36:808/hls/84/index.m3u8
-#EXTINF:-1 ,CGTN-俄语
+#EXTINF:-1 ,CGTN俄语
 http://183.11.239.36:808/hls/85/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://183.11.239.36:808/hls/91/index.m3u8
@@ -155,7 +169,7 @@ http://183.11.239.36:808/hls/98/index.m3u8
 http://183.11.239.36:808/hls/99/index.m3u8
 #EXTINF:-1 ,CETV早期教育
 http://183.11.239.36:808/hls/100/index.m3u8
-#EXTINF:-1 ,CCTv15
+#EXTINF:-1 ,CCTV15
 http://183.11.239.36:808/hls/102/index.m3u8
 #EXTINF:-1 ,宁夏卫视
 http://183.11.239.36:808/hls/106/index.m3u8
