@@ -194,7 +194,19 @@ https://yibababa.com/tv/list.html
 2.7 直播源说明
 (1)移动
 #黑龙江移动:hl
-ottrrs.hl.chinamobile.com
+IPv4:ottrrs.hl.chinamobile.com
+IPv6:
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com
 #黑龙江鸡西移动:0453
 39.134.65.149
 39.134.65.164

@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 ,北京纪实8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 ,苏州4K频道
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,赣州综合
+http://wb.jxgztv.com/live/gztv1.m3u8
+#EXTINF:-1 ,赣州综合
+http://115.150.63.77:9902/tsfile/live/0001_50.m3u8
+#EXTINF:-1 ,山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 ,宁夏卫视
+https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
+#EXTINF:-1 ,兵团卫视
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
+#EXTINF:-1 ,安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 ,延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 ,安徽影视
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
+#EXTINF:-1 ,安徽影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 ,武术世界
+http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+#EXTINF:-1 ,文物宝库
+http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
+#EXTINF:-1 ,书画频道
+http://211.103.180.178:8234/live_hls/hdmi.m3u8
+#EXTINF:-1 ,优漫卡通
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 ,百姓健康
+https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
+#EXTINF:-1 ,荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+#EXTINF:-1 ,江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+#EXTINF:-1 ,麻城综合
+http://119.36.30.199:8888/mctv1.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+

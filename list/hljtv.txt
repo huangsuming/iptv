@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 ,黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 ,黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 ,黑龙江影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+#EXTINF:-1 ,黑龙江新闻法治
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+#EXTINF:-1 ,黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 ,黑龙江农业.科教
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+#EXTINF:-1 ,黑龙江少儿
+https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
