@@ -1,10 +1,10 @@
 name: Update
 
 on:
-  watch:
-    types: [started]
-  schedule:
-    - cron: 0 21 1 * *
+  #watch:
+  #  types: [started]
+  #schedule:
+  #  - cron: 0 21 1 * *
   workflow_dispatch:
     inputs:
       logLevel:
