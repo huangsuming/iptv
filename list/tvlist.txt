@@ -403,16 +403,10 @@ https://qsxw.gov.cn/rtmp_export/video22.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="车迷频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/Beijing-车迷频道.png" group-title="北京",车迷频道
 http://59.44.192.82:65000/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="京视剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",京视剧场
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KAKU少儿" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/Beijing-KAKU少儿.png" group-title="北京",KAKU少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="弈坛春秋" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/Beijing-弈坛春秋.png" group-title="北京",弈坛春秋
-http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="优优宝贝" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/Beijing-优优宝贝.png" group-title="北京",优优宝贝
 http://59.44.192.82:65000/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="置业频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/Beijing-置业频道.png" group-title="北京",置业频道
-http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/Beijing-中华特产.png" group-title="北京",中华特产
 http://59.44.192.82:65000/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="房山电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",房山电视台
@@ -895,8 +889,6 @@ http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/Hunan-湖南娱乐.png" group-title="湖南",湖南娱乐
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="茶频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/Hunan-茶频道.png" group-title="湖南",茶频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/Hunan-金鹰纪实.png" group-title="湖南",金鹰纪实
 http://183.196.25.171:808/hls/87/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/Hunan-金鹰卡通.png" group-title="湖南",金鹰卡通
@@ -1274,7 +1266,7 @@ https://xatv-yd1.xiancity.cn/live/7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/smg/SMG-哈哈炫动.png" group-title="上海",哈哈炫动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sh/Shanghai-纪实人文.png" group-title="上海",纪实人文
-http://gmxw.7766.org:808/hls/173/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="泸州新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sc/" group-title="四川",泸州新闻综合
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="泸州科教生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sc/" group-title="四川",泸州科教生活

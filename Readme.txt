@@ -226,16 +226,16 @@ hwrr.jx.chinamobile.com:8080
 (高清HD1)如:广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 (高清HD2)如:吉林卫视,http://183.11.239.36:808/hls/10/index.m3u8
 #智慧光迅:zhgxtv
-(标清SD)如:环球奇观,http://59.44.192.82:65000/hls/35/index.m3u8
-(高清HD1)如:河北都市,http://111.11.98.205:9900/hls/21/index.m3u8
-(高清HD2)如:CCTV10,http://183.196.25.171:808/hls/10/index.m3u8
+(标清SD)如:CCTV1,http://59.44.192.82:65000/hls/1/index.m3u8
+(高清HD1)如:CCTV-1,http://111.11.98.205:9900/hls/1/index.m3u8
+(高清HD2)如:CCTV1,http://183.196.25.171:808/hls/1/index.m3u8
 #点量TV:dolit
 (标清SD)如:CCTV1,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
-(高清HD1)如:CCTV1,http://113.57.103.216:9000/tsfile/live/0001_1.m3u8
+(高清HD1)如:CCTV1,http://60.174.40.117:9901/tsfile/live/0001_1.m3u8
 (高清HD2)如:CCTV1,http://117.141.149.101:4431/tsfile/live/faacts/1010_1.m3u8
 (4)老挝
 #laotv(如:凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8)
-#laos(如:CCTV-5,http://103.95.24.37:880/CCTV-5.m3u8)
+#laos(如:CCTV-1,http://103.95.24.37:880/CCTV-1.m3u8)
 
 3. 接口
 3.1 TVBOX接口

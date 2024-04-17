@@ -1,4 +1,4 @@
-本直播源采集自互联网,适用于江西移动网络。
+本直播源采集自互联网,适用于江西移动网络。若直播源失效或需要增加频道,可在Issue:"直播源问题反馈"中沟通。
 # 使用说明
 - 电视直播源:[tvlist](https://huangsuming.github.io/iptv/list/tvlist.txt)
 - 电台直播源:[radio](https://huangsuming.github.io/iptv/list/radio.txt)
@@ -36,12 +36,10 @@
   西安教育电视台<br>
   澳门莲花<br>
 - 不再采集/更新:<br>
-  华数-4K影视<br>
-  华数-电子竞技<br>
-  华数-高清娱乐<br>
-  华数-精彩影视<br>
-  华数-精彩综艺<br>
-  华数-漫游世界<br>
+  北京-京视剧场<br>
+  北京-弈坛春秋<br>
+  北京-置业频道<br>
+  湖南-茶频道<br>
   湖南-快乐垂钓<br>
 - 未收录:<br>
   [睛彩中原](http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8)<br>

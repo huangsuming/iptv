@@ -1,81 +1,95 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
-http://113.57.103.216:9000/tsfile/live/0001_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 ,CCTV2
-http://113.57.103.216:9000/tsfile/live/0002_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 ,CCTV3
-http://113.57.103.216:9000/tsfile/live/0003_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 ,CCTV4
-http://113.57.103.216:9000/tsfile/live/0004_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 ,CCTV5
-http://113.57.103.216:9000/tsfile/live/0005_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 ,CCTV6
-http://113.57.103.216:9000/tsfile/live/0006_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 ,CCTV7
-http://113.57.103.216:9000/tsfile/live/0007_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 ,CCTV8
-http://113.57.103.216:9000/tsfile/live/0008_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 ,CCTV9
-http://113.57.103.216:9000/tsfile/live/0009_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 ,CCTV10
-http://113.57.103.216:9000/tsfile/live/0010_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 ,CCTV11
-http://113.57.103.216:9000/tsfile/live/0011_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 ,CCTV12
-http://113.57.103.216:9000/tsfile/live/0012_1.m3u8
-#EXTINF:-1 ,CCTV13SD
-http://113.57.103.216:9000/tsfile/live/0013_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,CCTV13
+http://60.174.40.117:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 ,CCTV14
-http://113.57.103.216:9000/tsfile/live/0014_1.m3u8
-#EXTINF:-1 ,CCTV15SD
-http://113.57.103.216:9000/tsfile/live/0015_1.m3u8
-#EXTINF:-1 ,ä¸œæ–¹å«è§†
-http://113.57.103.216:9000/tsfile/live/0107_1.m3u8
-#EXTINF:-1 ,è¾½å®å«è§†
-http://113.57.103.216:9000/tsfile/live/0121_1.m3u8
-#EXTINF:-1 ,å››å·å«è§†
-http://113.57.103.216:9000/tsfile/live/0123_1.m3u8
-#EXTINF:-1 ,æµ™æ±Ÿå«è§†
-http://113.57.103.216:9000/tsfile/live/0124_1.m3u8
-#EXTINF:-1 ,å¹¿ä¸œå«è§†
-http://113.57.103.216:9000/tsfile/live/0125_1.m3u8
-#EXTINF:-1 ,æ±Ÿè‹å«è§†
-http://113.57.103.216:9000/tsfile/live/0127_1.m3u8
-#EXTINF:-1 ,æ¹–å—å«è§†
-http://113.57.103.216:9000/tsfile/live/0128_1.m3u8
-#EXTINF:-1 ,å®‰å¾½å«è§†
-http://113.57.103.216:9000/tsfile/live/0130_1.m3u8
-#EXTINF:-1 ,æ¹–åŒ—å«è§†
-http://113.57.103.216:9000/tsfile/live/0132_1.m3u8
-#EXTINF:-1 ,ä¸œå—å«è§†
-http://113.57.103.216:9000/tsfile/live/0137_1.m3u8
-#EXTINF:-1 ,æ±Ÿè¥¿å«è§†
-http://113.57.103.216:9000/tsfile/live/0138_1.m3u8
-#EXTINF:-1 ,é‡åº†å«è§†
-http://113.57.103.216:9000/tsfile/live/0142_1.m3u8
-#EXTINF:-1 ,é‡‘é¹°å¡é€šSD
-http://113.57.103.216:9000/tsfile/live/1000_1.m3u8
-#EXTINF:-1 ,å¡é…·å°‘å„¿
-http://113.57.103.216:9000/tsfile/live/1001_1.m3u8
-#EXTINF:-1 ,å®å¤å«è§†SD
-http://113.57.103.216:9000/tsfile/live/1003_1.m3u8
-#EXTINF:-1 ,å¹¿è¥¿å«è§†SD
-http://113.57.103.216:9000/tsfile/live/1004_1.m3u8
-#EXTINF:-1 ,ç¯çƒå¥‡è§‚SD
-http://113.57.103.216:9000/tsfile/live/1005_1.m3u8
-#EXTINF:-1 ,æ²³å—å«è§†
-http://113.57.103.216:9000/tsfile/live/1006_1.m3u8
-#EXTINF:-1 ,å‰æ—å«è§†SD
-http://113.57.103.216:9000/tsfile/live/1007_1.m3u8
-#EXTINF:-1 ,é»‘é¾™æ±Ÿå«è§†
-http://113.57.103.216:9000/tsfile/live/1008_1.m3u8
-#EXTINF:-1 ,å±±è¥¿å«è§†SD
-http://113.57.103.216:9000/tsfile/live/1009_1.m3u8
-#EXTINF:-1 ,äº‘å—å«è§†SD
-http://113.57.103.216:9000/tsfile/live/1010_1.m3u8
-#EXTINF:-1 ,æ¹–åŒ—å„ä¸Š
-http://113.57.103.216:9000/tsfile/live/1015_1.m3u8
-#EXTINF:-1 ,æ¹–åŒ—å½±è§†
-http://113.57.103.216:9000/tsfile/live/1016_1.m3u8
-#EXTINF:-1 ,æ¹–åŒ—ç»è§†
-http://113.57.103.216:9000/tsfile/live/1017_1.m3u8
+http://60.174.40.117:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 ,CCTV15
+http://60.174.40.117:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 ,CCTV5
+http://60.174.40.117:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 ,¹ãÎ÷ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 ,¼ªÁÖÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 ,É½Î÷ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 ,ÔÆÄÏÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 ,¹óÖİÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 ,ËÄ´¨ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 ,ÏÃÃÅÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0129_1.m3u8
+#EXTINF:-1 ,ºş±±ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 ,¶«ÄÏÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 ,½­Î÷ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 ,¸ÊËàÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 ,Unknown_1001
+http://60.174.40.117:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 ,Unknown_1002
+http://60.174.40.117:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 ,°²»ÕÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 ,Unknown_1021
+http://60.174.40.117:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 ,°²»ÕÅ©Òµ.¿Æ½Ì
+http://60.174.40.117:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 ,°²»Õ¹«¹²
+http://60.174.40.117:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 ,±±¾©ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 ,¶«·½ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1026_1.m3u8
+#EXTINF:-1 ,Ìì½òÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 ,ÖØÇìÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 ,½­ËÕÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 ,ºşÄÏÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 ,Õã½­ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1031_1.m3u8
+#EXTINF:-1 ,ºÚÁú½­ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1032_1.m3u8
+#EXTINF:-1 ,ÁÉÄşÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 ,ºÓÄÏÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 ,ºÓ±±ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 ,É½¶«ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 ,¹ã¶«ÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 ,ÉîÛÚÎÀÊÓ
+http://60.174.40.117:9901/tsfile/live/1038_1.m3u8
