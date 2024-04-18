@@ -11,6 +11,7 @@
 # 待补充
 - 电视台:<br>
   4K修复<br>
+  CETV3<br>
   CHC高清电影<br>
   SiTV-动漫秀场<br>
   SiTV-都市剧场<br>

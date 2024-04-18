@@ -166,7 +166,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/weishi/青海.png" group-title="卫视",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/xizang/Anduo-安多卫视.png" group-title="卫视",安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/weishi/山东.png" group-title="卫视",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/weishi/山西.png" group-title="卫视",山西卫视
