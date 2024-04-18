@@ -52,7 +52,7 @@
   适用:Windows PC[官网(不再更新)](https://mpc-hc.org/)  [第三方](https://github.com/clsid2/mpc-hc/releases)<br>
 - Televizo(推荐)<br>
   建议版本:1.9.3.21 Premium<br>
-  适用:安卓手机/TV[官网](https://televizo.net/)  [下载](https://www.applnn.cc/18580.html)<br>
+  适用:安卓手机/TV  [官网](https://televizo.net/)  [下载](https://www.applnn.cc/18580.html)<br>
 - 我的电视(内置源)<br>
   适用:安卓手机/TV  [官网](https://lyrics.run/my-tv.html)<br>
 # 系统
