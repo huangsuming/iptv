@@ -49,7 +49,8 @@
 - GOTV<br>
   适用:iPhone/iPad<br>[App Store](https://apps.apple.com/cn/app/id1271283728)<br>
 - MPC-HC<br>
-  适用:Windows PC[官网(不再更新)](https://mpc-hc.org/)  [第三方](https://github.com/clsid2/mpc-hc/releases)<br>
+  适用:Windows PC(需将直播源文件名后缀改为m3u8)<br>
+  [官网(不再更新)](https://mpc-hc.org/)  [第三方](https://github.com/clsid2/mpc-hc/releases)<br>
 - Televizo(推荐)<br>
   建议版本:1.9.3.21 Premium<br>
   适用:安卓手机/TV  [官网](https://televizo.net/)  [下载](https://www.applnn.cc/18580.html)<br>
