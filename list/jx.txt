@@ -293,7 +293,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226241/index.m3u8
 #EXTINF:-1 ,CETV2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 ,Unknown_844
+#EXTINF:-1 ,Unknown
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/index.m3u8
 #EXTINF:-1 ,精品萌宠
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226245/index.m3u8
@@ -307,7 +307,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226254/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226257/index.m3u8
 #EXTINF:-1 ,CGTN纪录
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226260/index.m3u8
-#EXTINF:-1 ,Unknown_862
+#EXTINF:-1 ,Unknown
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226261/index.m3u8
 #EXTINF:-1 ,康巴卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226263/index.m3u8

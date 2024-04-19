@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:-1 group-title="HD1",CCTV1
+http://60.174.40.117:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV2
+http://60.174.40.117:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV3
+http://60.174.40.117:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV4
+http://60.174.40.117:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV5
+http://60.174.40.117:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV6
+http://60.174.40.117:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV7
+http://60.174.40.117:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV8
+http://60.174.40.117:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV9
+http://60.174.40.117:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV10
+http://60.174.40.117:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV11
+http://60.174.40.117:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV12
+http://60.174.40.117:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV13
+http://60.174.40.117:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV14
+http://60.174.40.117:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV15
+http://60.174.40.117:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="HD1",CCTV5
+http://60.174.40.117:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="HD1",广西卫视
+http://60.174.40.117:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="HD1",吉林卫视
+http://60.174.40.117:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="HD1",山西卫视
+http://60.174.40.117:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="HD1",云南卫视
+http://60.174.40.117:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="HD1",贵州卫视
+http://60.174.40.117:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="HD1",四川卫视
+http://60.174.40.117:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="HD1",厦门卫视
+http://60.174.40.117:9901/tsfile/live/0129_1.m3u8
+#EXTINF:-1 group-title="HD1",湖北卫视
+http://60.174.40.117:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="HD1",东南卫视
+http://60.174.40.117:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="HD1",江西卫视
+http://60.174.40.117:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="HD1",甘肃卫视
+http://60.174.40.117:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="HD1",Unknown
+http://60.174.40.117:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="HD1",Unknown
+http://60.174.40.117:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="HD1",安徽卫视
+http://60.174.40.117:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="HD1",Unknown
+http://60.174.40.117:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="HD1",安徽农业.科教
+http://60.174.40.117:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="HD1",安徽公共
+http://60.174.40.117:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 group-title="HD1",北京卫视
+http://60.174.40.117:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 group-title="HD1",东方卫视
+http://60.174.40.117:9901/tsfile/live/1026_1.m3u8
+#EXTINF:-1 group-title="HD1",天津卫视
+http://60.174.40.117:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="HD1",重庆卫视
+http://60.174.40.117:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 group-title="HD1",江苏卫视
+http://60.174.40.117:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 group-title="HD1",湖南卫视
+http://60.174.40.117:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 group-title="HD1",浙江卫视
+http://60.174.40.117:9901/tsfile/live/1031_1.m3u8
+#EXTINF:-1 group-title="HD1",黑龙江卫视
+http://60.174.40.117:9901/tsfile/live/1032_1.m3u8
+#EXTINF:-1 group-title="HD1",辽宁卫视
+http://60.174.40.117:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 group-title="HD1",河南卫视
+http://60.174.40.117:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 group-title="HD1",河北卫视
+http://60.174.40.117:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 group-title="HD1",山东卫视
+http://60.174.40.117:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="HD1",广东卫视
+http://60.174.40.117:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="HD1",深圳卫视
+http://60.174.40.117:9901/tsfile/live/1038_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV6
+http://117.141.149.101:4431/tsfile/live/faacts/0006_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV17
+http://117.141.149.101:4431/tsfile/live/faacts/0007_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV8
+http://117.141.149.101:4431/tsfile/live/faacts/0008_1.m3u8
+#EXTINF:-1 group-title="HD2",广西卫视
+http://117.141.149.101:4431/tsfile/live/faacts/0113_1.m3u8
+#EXTINF:-1 group-title="HD2",南宁公共
+http://117.141.149.101:4431/tsfile/live/faacts/1000_1.m3u8
+#EXTINF:-1 group-title="HD2",南宁文旅生活
+http://117.141.149.101:4431/tsfile/live/faacts/1001_1.m3u8
+#EXTINF:-1 group-title="HD2",南宁影视娱乐
+http://117.141.149.101:4431/tsfile/live/faacts/1002_1.m3u8
+#EXTINF:-1 group-title="HD2",南宁新闻综合
+http://117.141.149.101:4431/tsfile/live/faacts/1003_1.m3u8
+#EXTINF:-1 group-title="HD2",广西综艺旅游
+http://117.141.149.101:4431/tsfile/live/faacts/1004_1.m3u8
+#EXTINF:-1 group-title="HD2",广西都市
+http://117.141.149.101:4431/tsfile/live/faacts/1005_1.m3u8
+#EXTINF:-1 group-title="HD2",广西影视
+http://117.141.149.101:4431/tsfile/live/faacts/1006_1.m3u8
+#EXTINF:-1 group-title="HD2",广西新闻
+http://117.141.149.101:4431/tsfile/live/faacts/1007_1.m3u8
+#EXTINF:-1 group-title="HD2",西藏卫视
+http://117.141.149.101:4431/tsfile/live/faacts/1008_1.m3u8
+#EXTINF:-1 group-title="HD2",新疆卫视
+http://117.141.149.101:4431/tsfile/live/faacts/1009_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV1
+http://117.141.149.101:4431/tsfile/live/faacts/1010_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV2
+http://117.141.149.101:4431/tsfile/live/faacts/1011_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV3
+http://117.141.149.101:4431/tsfile/live/faacts/1012_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV4
+http://117.141.149.101:4431/tsfile/live/faacts/1013_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV5
+http://117.141.149.101:4431/tsfile/live/faacts/1014_1.m3u8
+#EXTINF:-1 group-title="HD2",CCTV5+
+http://117.141.149.101:4431/tsfile/live/faacts/1015_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV1
+http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV2
+http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV3
+http://222.241.154.37:9901/tsfile/live/23003_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV4
+http://222.241.154.37:9901/tsfile/live/23004_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV5
+http://222.241.154.37:9901/tsfile/live/23005_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV6
+http://222.241.154.37:9901/tsfile/live/23006_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV7
+http://222.241.154.37:9901/tsfile/live/23007_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV8
+http://222.241.154.37:9901/tsfile/live/23008_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV9
+http://222.241.154.37:9901/tsfile/live/23009_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV10
+http://222.241.154.37:9901/tsfile/live/23010_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV11
+http://222.241.154.37:9901/tsfile/live/23011_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV12
+http://222.241.154.37:9901/tsfile/live/23012_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV13
+http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV14
+http://222.241.154.37:9901/tsfile/live/23014_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV15
+http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV16
+http://222.241.154.37:9901/tsfile/live/23016_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV17
+http://222.241.154.37:9901/tsfile/live/23017_1.m3u8
+#EXTINF:-1 group-title="SD1",CCTV5+
+http://222.241.154.37:9901/tsfile/live/23018_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南卫视
+http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南经视
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南爱晚
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南国际频道
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南电视剧
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+#EXTINF:-1 group-title="SD1",湖南教育台
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+#EXTINF:-1 group-title="SD1",浙江卫视
+http://222.241.154.37:9901/tsfile/live/23028_1.m3u8
+#EXTINF:-1 group-title="SD1",江苏卫视
+http://222.241.154.37:9901/tsfile/live/23029_1.m3u8
+#EXTINF:-1 group-title="SD1",北京卫视
+http://222.241.154.37:9901/tsfile/live/23030_1.m3u8
+#EXTINF:-1 group-title="SD1",安徽卫视
+http://222.241.154.37:9901/tsfile/live/23031_1.m3u8
+#EXTINF:-1 group-title="SD1",天津卫视
+http://222.241.154.37:9901/tsfile/live/23032_1.m3u8
+#EXTINF:-1 group-title="SD1",东方卫视
+http://222.241.154.37:9901/tsfile/live/23033_1.m3u8
+#EXTINF:-1 group-title="SD1",江西卫视
+http://222.241.154.37:9901/tsfile/live/23034_1.m3u8
+#EXTINF:-1 group-title="SD1",深圳卫视
+http://222.241.154.37:9901/tsfile/live/23035_1.m3u8
+#EXTINF:-1 group-title="SD1",辽宁卫视
+http://222.241.154.37:9901/tsfile/live/23036_1.m3u8
+#EXTINF:-1 group-title="SD1",东南卫视
+http://222.241.154.37:9901/tsfile/live/23037_1.m3u8
+#EXTINF:-1 group-title="SD1",广东卫视
+http://222.241.154.37:9901/tsfile/live/23038_1.m3u8
+#EXTINF:-1 group-title="SD1",广西卫视
+http://222.241.154.37:9901/tsfile/live/23039_1.m3u8
+#EXTINF:-1 group-title="SD1",山东卫视
+http://222.241.154.37:9901/tsfile/live/23040_1.m3u8
+#EXTINF:-1 group-title="SD1",四川卫视
+http://222.241.154.37:9901/tsfile/live/23041_1.m3u8
+#EXTINF:-1 group-title="SD1",重庆卫视
+http://222.241.154.37:9901/tsfile/live/23042_1.m3u8
+#EXTINF:-1 group-title="SD1",云南卫视
+http://222.241.154.37:9901/tsfile/live/23043_1.m3u8
+#EXTINF:-1 group-title="SD1",海南卫视
+http://222.241.154.37:9901/tsfile/live/23044_1.m3u8
+#EXTINF:-1 group-title="SD1",黑龙江卫视
+http://222.241.154.37:9901/tsfile/live/23045_1.m3u8
+#EXTINF:-1 group-title="SD1",贵州卫视
+http://222.241.154.37:9901/tsfile/live/23046_1.m3u8
+#EXTINF:-1 group-title="SD1",河北卫视
+http://222.241.154.37:9901/tsfile/live/23047_1.m3u8
+#EXTINF:-1 group-title="SD1",陕西卫视
+http://222.241.154.37:9901/tsfile/live/23048_1.m3u8
+#EXTINF:-1 group-title="SD2",浙江卫视
+http://121.33.239.242:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="SD2",吉林卫视
+http://121.33.239.242:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="SD2",辽宁卫视
+http://121.33.239.242:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="SD2",黑龙江卫视
+http://121.33.239.242:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="SD2",河南卫视
+http://121.33.239.242:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="SD2",内蒙古卫视
+http://121.33.239.242:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="SD2",海南卫视
+http://121.33.239.242:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="SD2",广东体育
+http://121.33.239.242:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="SD2",广西卫视
+http://121.33.239.242:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="SD2",云南卫视
+http://121.33.239.242:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="SD2",江西卫视
+http://121.33.239.242:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="SD2",山西卫视
+http://121.33.239.242:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="SD2",河北卫视
+http://121.33.239.242:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="SD2",青海卫视
+http://121.33.239.242:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="SD2",甘肃卫视
+http://121.33.239.242:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="SD2",陕西卫视
+http://121.33.239.242:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="SD2",广东影视
+http://121.33.239.242:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="SD2",财富天下
+http://121.33.239.242:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="SD2",上海卫视
+http://121.33.239.242:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="SD2",天津卫视
+http://121.33.239.242:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="SD2",重庆卫视
+http://121.33.239.242:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="SD2",湖南卫视
+http://121.33.239.242:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="SD2",贵州卫视
+http://121.33.239.242:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="SD2",安徽卫视
+http://121.33.239.242:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="SD2",四川卫视
+http://121.33.239.242:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="SD2",山东卫视
+http://121.33.239.242:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="SD2",湖北卫视
+http://121.33.239.242:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="SD2",深圳卫视
+http://121.33.239.242:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="SD2",广东珠江
+http://121.33.239.242:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="SD2",深圳少儿
+http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV1-综合
+http://121.33.239.242:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV2-财经
+http://121.33.239.242:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV3-综艺
+http://121.33.239.242:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV4-国际
+http://121.33.239.242:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV5-体育
+http://121.33.239.242:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV6-电影
+http://121.33.239.242:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV7-军农
+http://121.33.239.242:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV8-电视剧
+http://121.33.239.242:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV9-纪录
+http://121.33.239.242:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV10-科教
+http://121.33.239.242:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV11-戏曲
+http://121.33.239.242:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV12-社会与法
+http://121.33.239.242:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV13-新闻
+http://121.33.239.242:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV14-少儿
+http://121.33.239.242:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="SD2",CCTV15-音乐
+http://121.33.239.242:9901/tsfile/live/0015_1.m3u8

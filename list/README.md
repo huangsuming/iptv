@@ -16,6 +16,7 @@
 ## 移动
 - 0453.txt:黑龙江鸡西移动<br>
   可用IP地址:<br>
+  39.134.65.141<br>
   39.134.65.149<br>
   39.134.65.164<br>
   39.134.65.166<br>
@@ -48,27 +49,36 @@
   [2409:8087:1a0b:df::4017]<br>
   [2409:8087:1a0b:df::4020]<br>
 - jx.txt:江西移动
+  可用IP地址/域名(端口):<br>
+  39.134.115.163:8080<br>
+  hwrr.jx.chinamobile.com:8080<br>
+- sn.txt:陕西移动(已失效)
 ## 地方传媒
-- dxhmt.txt:河南大象融媒体
-- sxbctv.txt:陕西秦岭云
-- voc.txt:湖南华声在线<br>
+- dxhmt.txt:[河南大象融媒体](http://dxrm.hnr.cn/)
+- sxbctv.txt:[陕西秦岭云](http://www.sxbctv.com/)
+- voc.txt:[湖南华声在线](https://www.voc.com.cn/)
+- ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)
+## 数字电视
+- wasu.txt:[华数](https://www.wasu.com.cn/)
+- ysten.txt:[易视腾](http://www.ysten.com/)<br>
+  可用IP地址(端口):<br>
+  117.169.124.37:6610<br>
+  117.169.124.43:6610<br>
 ## 酒店源
-- gmxw:公明新围科源网络(不推荐,不流畅)<br>
-  gmxw1.txt<br>
-  gmxw2.txt<br>
-  gmxw3.txt<br>
-- zhgxtv:智慧光迅<br>
-  zhgxhd1.txt:高清<br>
-  zhgxhd2.txt:高清<br>
-  zhgxsd.txt:标清<br>
 - dolit:点量TV<br>
-  dolithd1.txt:高清<br>
-  dolithd2.txt:高清<br>
-  dolitsd1.txt:标清<br>
+  dolit.txt<br>
+  IP黑名单(不稳定):<br>
+  223.151.49.74:59901<br>
+- gmxw:公明新围科源网络(不推荐,不流畅)<br>
+  gmxw.txt<br>
+- hass:[华视美达](http://www.hassmedia.com/)<br>
+  hass.txt<br>
+- zhgxtv:[智慧光迅](https://www.zhgxnet.com/)<br>
+  zhgx.txt<br>
 - 境外<br>
-  laotv.txt:老挝<br>
+  laotv.txt:[老挝](https://laotv.la/)<br>
   laos.txt:老挝<br>
-  zlmediakit.txt:[美国](http://66.165.240.154:8080/)<br>
+  usa.txt:美国  [ZLMediaKit](http://66.165.240.154:8080/)<br>
 ## 代理源
 - cfss.txt:[长风网络](https://cfss.cc/)<br>
 ## 采集来源<br>

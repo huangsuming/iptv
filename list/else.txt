@@ -41,3 +41,84 @@ http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 http://119.36.30.199:8888/mctv1.m3u8
 #EXTINF:-1 ,三沙卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+
+
+
+#EXTM3U
+#EXTINF:-1 ,凤凰资讯
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰中文
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,明珠台
+https://iptv.hiper25.com/Pearl/video.m3u8
+#EXTINF:-1 ,澳门澳视
+https://iptv.hiper25.com/TDM/video.m3u8
+#EXTINF:-1 ,TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 ,TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 ,TVB功夫台
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 ,TVB功夫台
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 ,纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 ,纬来体育
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 ,红牛TV
+http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+#EXTINF:-1 ,安徽体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?
+#EXTINF:-1 ,咪咕体育4k
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 ,F1赛车
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 ,IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ,安徽体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 ,迪拜体育2
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 ,JJ斗地主
+http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
+#EXTINF:-1 ,NOW sps
+http://202.21.104.6:88/sps-plus/index.m3u8
+#EXTINF:-1 ,人民铁道频道
+http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 ,CCTV8K
+https://epg.pw/stream/51549059a33a0dc4ac8d112ebbe3b1df956d95319a9ee54b6ca449c464893da5.m3u8
+#EXTINF:-1 ,CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 ,CGTN俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,潮州综合
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+#EXTINF:-1 ,潮州民生
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+#EXTINF:-1 ,联通汕头文旅
+http://211.97.63.3:801/hls/80/index.m3u8
+#EXTINF:-1 ,联通汕头综合
+http://211.97.63.3:801/hls/81/index.m3u8
+#EXTINF:-1 ,联通汕头经济
+http://211.97.63.3:801/hls/82/index.m3u8
+#EXTINF:-1 ,联通潮州综合
+http://211.97.63.3:801/hls/503/index.m3u8
+#EXTINF:-1 ,广东珠江IPV6
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 ,广东新闻
+http://113.81.20.104:9901/tsfile/live/1000_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 ,深圳龙岗
+http://liveplay.sznews.com/66_showto_live/2647.m3u8
+#EXTINF:-1 ,云浮综合
+https://livestream.oeeee.com/slive/17806.m3u8
+#EXTINF:-1 ,云浮文旅
+https://livestream.oeeee.com/slive/17807.m3u8
+#EXTINF:-1 ,山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+

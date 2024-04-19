@@ -1,169 +1,170 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 group-title="ZLMediaKit",CCTV1
 http://66.165.240.154:8080/live/jsydcctv1/hls.m3u8
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 group-title="ZLMediaKit",CCTV2
 http://66.165.240.154:8080/live/jsydcctv2/hls.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 group-title="ZLMediaKit",CCTV3
 http://66.165.240.154:8080/live/jsydcctv3/hls.m3u8
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 group-title="ZLMediaKit",CCTV4
 http://66.165.240.154:8080/live/jsydcctv4/hls.m3u8
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 group-title="ZLMediaKit",CCTV5
 http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 group-title="ZLMediaKit",CCTV5+
 http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 group-title="ZLMediaKit",CCTV6
 http://66.165.240.154:8080/live/jsydcctv6/hls.m3u8
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 group-title="ZLMediaKit",CCTV7
 http://66.165.240.154:8080/live/jsydcctv7/hls.m3u8
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 group-title="ZLMediaKit",CCTV8
 http://66.165.240.154:8080/live/jsydcctv8/hls.m3u8
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 group-title="ZLMediaKit",CCTV9
 http://66.165.240.154:8080/live/jsydcctv9/hls.m3u8
-#EXTINF:-1 ,CCTV10
+#EXTINF:-1 group-title="ZLMediaKit",CCTV10
 http://66.165.240.154:8080/live/jsydcctv10/hls.m3u8
-#EXTINF:-1 ,CCTV11
+#EXTINF:-1 group-title="ZLMediaKit",CCTV11
 http://66.165.240.154:8080/live/jsydcctv11/hls.m3u8
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 group-title="ZLMediaKit",CCTV12
 http://66.165.240.154:8080/live/jsydcctv12/hls.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 group-title="ZLMediaKit",CCTV13
 http://66.165.240.154:8080/live/jsydcctv13/hls.m3u8
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 group-title="ZLMediaKit",CCTV14
 http://66.165.240.154:8080/live/jsydcctv14/hls.m3u8
-#EXTINF:-1 ,CCTV15
+#EXTINF:-1 group-title="ZLMediaKit",CCTV15
 http://66.165.240.154:8080/live/jsydcctv15/hls.m3u8
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 group-title="ZLMediaKit",江苏卫视
 http://66.165.240.154:8080/live/jsydws01/hls.m3u8
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1 group-title="ZLMediaKit",辽宁卫视
 http://66.165.240.154:8080/live/jsydws02/hls.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 group-title="ZLMediaKit",东方卫视
 http://66.165.240.154:8080/live/jsydws03/hls.m3u8
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 group-title="ZLMediaKit",广东卫视
 http://66.165.240.154:8080/live/jsydws04/hls.m3u8
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1 group-title="ZLMediaKit",吉林卫视
 http://66.165.240.154:8080/live/jsydws05/hls.m3u8
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 group-title="ZLMediaKit",湖南卫视
 http://66.165.240.154:8080/live/jsydws06/hls.m3u8
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 group-title="ZLMediaKit",北京卫视
 http://66.165.240.154:8080/live/jsydws07/hls.m3u8
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1 group-title="ZLMediaKit",山东卫视
 http://66.165.240.154:8080/live/jsydws08/hls.m3u8
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 group-title="ZLMediaKit",湖北卫视
 http://66.165.240.154:8080/live/jsydws09/hls.m3u8
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 group-title="ZLMediaKit",浙江卫视
 http://66.165.240.154:8080/live/jsydws10/hls.m3u8
-#EXTINF:-1 ,WSFA
+#EXTINF:-1 group-title="ZLMediaKit",WSFA
 http://66.165.240.154:8080/live/2WSFA1/hls.m3u8
-#EXTINF:-1 ,TSN3
+#EXTINF:-1 group-title="ZLMediaKit",TSN3
 http://66.165.240.154:8080/live/2cahbd7/hls.m3u8
-#EXTINF:-1 ,TSN5
+#EXTINF:-1 group-title="ZLMediaKit",TSN5
 http://66.165.240.154:8080/live/2cahbd9/hls.m3u8
-#EXTINF:-1 ,HBO
+#EXTINF:-1 group-title="ZLMediaKit",HBO
 http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
-#EXTINF:-1 ,CGN日本
+#EXTINF:-1 group-title="ZLMediaKit",CGN日本
 http://66.165.240.154:8080/live/2sfrb1/hls.m3u8
-#EXTINF:-1 ,NHK World Japan
+#EXTINF:-1 group-title="ZLMediaKit",NHK World Japan
 http://66.165.240.154:8080/live/2sfrb2/hls.m3u8
-#EXTINF:-1 ,2sfrb3
+#EXTINF:-1 group-title="ZLMediaKit",2sfrb3
 http://66.165.240.154:8080/live/2sfrb3/hls.m3u8
-#EXTINF:-1 ,ABC News Los Angeles
+#EXTINF:-1 group-title="ZLMediaKit",ABC News Los Angeles
 http://66.165.240.154:8080/live/ABCLosKABC/hls.m3u8
-#EXTINF:-1 ,Bloomberg
+#EXTINF:-1 group-title="ZLMediaKit",Bloomberg
 http://66.165.240.154:8080/live/Bloomberg/hls.m3u8
-#EXTINF:-1 ,Food Network
+#EXTINF:-1 group-title="ZLMediaKit",Food Network
 http://66.165.240.154:8080/live/CAFOODNETWORK/hls.m3u8
-#EXTINF:-1 ,GOLF
+#EXTINF:-1 group-title="ZLMediaKit",GOLF
 http://66.165.240.154:8080/live/CAGOLFCHANNEL/hls.m3u8
-#EXTINF:-1 ,OMNI
+#EXTINF:-1 group-title="ZLMediaKit",OMNI
 http://66.165.240.154:8080/live/CAOMNI1/hls.m3u8
-#EXTINF:-1 ,CBS News
+#EXTINF:-1 group-title="ZLMediaKit",CBS News
 http://66.165.240.154:8080/live/CBS1/hls.m3u8
-#EXTINF:-1 ,CBS News Los Angeles
+#EXTINF:-1 group-title="ZLMediaKit",CBS News Los Angeles
 http://66.165.240.154:8080/live/CBSLosKCBS/hls.m3u8
-#EXTINF:-1 ,CNN
+#EXTINF:-1 group-title="ZLMediaKit",CNN
 http://66.165.240.154:8080/live/CNN1/hls.m3u8
-#EXTINF:-1 ,CW Los Angeles
+#EXTINF:-1 group-title="ZLMediaKit",CW Los Angeles
 http://66.165.240.154:8080/live/CWLosKTLA/hls.m3u8
-#EXTINF:-1 ,FOXNews
+#EXTINF:-1 group-title="ZLMediaKit",FOXNews
 http://66.165.240.154:8080/live/FOXNews221/hls.m3u8
-#EXTINF:-1 ,Horse
+#EXTINF:-1 group-title="ZLMediaKit",Horse
 http://66.165.240.154:8080/live/Horse1/hls.m3u8
-#EXTINF:-1 ,FOX Plus
+#EXTINF:-1 group-title="ZLMediaKit",FOX Plus
 http://66.165.240.154:8080/live/MyLosKCOP/hls.m3u8
-#EXTINF:-1 ,NTV News 24
+#EXTINF:-1 group-title="ZLMediaKit",NTV News 24
 http://66.165.240.154:8080/live/NTVNews24/hls.m3u8
-#EXTINF:-1 ,TVB体育资讯
+#EXTINF:-1 group-title="ZLMediaKit",TVB体育资讯
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-#EXTINF:-1 ,TVB无线新闻
+#EXTINF:-1 group-title="ZLMediaKit",TVB无线新闻
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-#EXTINF:-1 ,Univision Los Angeles
+#EXTINF:-1 group-title="ZLMediaKit",Univision Los Angeles
 http://66.165.240.154:8080/live/UnivisionLosKMEX/hls.m3u8
-#EXTINF:-1 ,TSN1
+#EXTINF:-1 group-title="ZLMediaKit",TSN1
 http://66.165.240.154:8080/live/caTSN1/hls.m3u8
-#EXTINF:-1 ,TSN2
+#EXTINF:-1 group-title="ZLMediaKit",TSN2
 http://66.165.240.154:8080/live/cahbd2/hls.m3u8
-#EXTINF:-1 ,TSN6
+#EXTINF:-1 group-title="ZLMediaKit",TSN6
 http://66.165.240.154:8080/live/cahbd6/hls.m3u8
-#EXTINF:-1 ,TSN8
+#EXTINF:-1 group-title="ZLMediaKit",TSN8
 http://66.165.240.154:8080/live/cahbd8/hls.m3u8
-#EXTINF:-1 ,CNA
+#EXTINF:-1 group-title="ZLMediaKit",CNA
 http://66.165.240.154:8080/live/gapd10/hls.m3u8
-#EXTINF:-1 ,The World Today
+#EXTINF:-1 group-title="ZLMediaKit",The World Today
 http://66.165.240.154:8080/live/gapd122/hls.m3u8
-#EXTINF:-1 ,EF运通
+#EXTINF:-1 group-title="ZLMediaKit",EF运通
 http://66.165.240.154:8080/live/gatEF01/hls.m3u8
-#EXTINF:-1 ,大爱
+#EXTINF:-1 group-title="ZLMediaKit",大爱
 http://66.165.240.154:8080/live/gatda201/hls.m3u8
-#EXTINF:-1 ,超视34.5
+#EXTINF:-1 group-title="ZLMediaKit",超视34.5
 http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
-#EXTINF:-1 ,Arirang Korea 1
+#EXTINF:-1 group-title="ZLMediaKit",Arirang Korea 1
 http://66.165.240.154:8080/live/hgArirang01/hls.m3u8
-#EXTINF:-1 ,Arirang Korea 2
+#EXTINF:-1 group-title="ZLMediaKit",Arirang Korea 2
 http://66.165.240.154:8080/live/hgArirang02/hls.m3u8
-#EXTINF:-1 ,BBS
+#EXTINF:-1 group-title="ZLMediaKit",BBS
 http://66.165.240.154:8080/live/hgBBS01/hls.m3u8
-#EXTINF:-1 ,BBS
+#EXTINF:-1 group-title="ZLMediaKit",BBS
 http://66.165.240.154:8080/live/hgBBS02/hls.m3u8
-#EXTINF:-1 ,BTN
+#EXTINF:-1 group-title="ZLMediaKit",BTN
 http://66.165.240.154:8080/live/hgBTNTV01/hls.m3u8
-#EXTINF:-1 ,EBS
+#EXTINF:-1 group-title="ZLMediaKit",EBS
 http://66.165.240.154:8080/live/hgEBS01/hls.m3u8
-#EXTINF:-1 ,EBS 2
+#EXTINF:-1 group-title="ZLMediaKit",EBS 2
 http://66.165.240.154:8080/live/hgEBS21/hls.m3u8
-#EXTINF:-1 ,EBS Kids
+#EXTINF:-1 group-title="ZLMediaKit",EBS Kids
 http://66.165.240.154:8080/live/hgEBSKids01/hls.m3u8
-#EXTINF:-1 ,EBS e
+#EXTINF:-1 group-title="ZLMediaKit",EBS e
 http://66.165.240.154:8080/live/hgEBSe01/hls.m3u8
-#EXTINF:-1 ,KFN
+#EXTINF:-1 group-title="ZLMediaKit",KFN
 http://66.165.240.154:8080/live/hgGugbangTV01/hls.m3u8
-#EXTINF:-1 ,NBS
+#EXTINF:-1 group-title="ZLMediaKit",NBS
 http://66.165.240.154:8080/live/hgNBS01/hls.m3u8
-#EXTINF:-1 ,CJB|SBS
+#EXTINF:-1 group-title="ZLMediaKit",CJB|SBS
 http://66.165.240.154:8080/live/hgSBSUBC01/hls.m3u8
-#EXTINF:-1 ,JOB
+#EXTINF:-1 group-title="ZLMediaKit",JOB
 http://66.165.240.154:8080/live/hgTVWorkNet/hls.m3u8
-#EXTINF:-1 ,NBA TV
+#EXTINF:-1 group-title="ZLMediaKit",NBA TV
 http://66.165.240.154:8080/live/nbaTV3/hls.m3u8
-#EXTINF:-1 ,AMC
+#EXTINF:-1 group-title="ZLMediaKit",AMC
 http://66.165.240.154:8080/live/sf2xby4/hls.m3u8
-#EXTINF:-1 ,Star Life
+#EXTINF:-1 group-title="ZLMediaKit",Star Life
 http://66.165.240.154:8080/live/sf2xby6/hls.m3u8
-#EXTINF:-1 ,SETI.News
+#EXTINF:-1 group-title="ZLMediaKit",SETI.News
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
-#EXTINF:-1 ,Live 三立
+#EXTINF:-1 group-title="ZLMediaKit",Live 三立
 http://66.165.240.154:8080/live/slxw02/hls.m3u8
-#EXTINF:-1 ,民视新闻台
+#EXTINF:-1 group-title="ZLMediaKit",民视新闻台
 http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
-#EXTINF:-1 ,TVBS
+#EXTINF:-1 group-title="ZLMediaKit",TVBS
 http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
-#EXTINF:-1 ,TVBS-华语电视
+#EXTINF:-1 group-title="ZLMediaKit",TVBS-华语电视
 http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
-#EXTINF:-1 ,TVBS-Asia
+#EXTINF:-1 group-title="ZLMediaKit",TVBS-Asia
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
-#EXTINF:-1 ,TVBS-台视新闻HD
+#EXTINF:-1 group-title="ZLMediaKit",TVBS-台视新闻HD
 http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
-#EXTINF:-1 ,HGTV
+#EXTINF:-1 group-title="ZLMediaKit",HGTV
 http://66.165.240.154:8080/live/usHGTV/hls.m3u8
-#EXTINF:-1 ,CTI-中天新闻
+#EXTINF:-1 group-title="ZLMediaKit",CTI-中天新闻
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1 ,CTV-中视HD
+#EXTINF:-1 group-title="ZLMediaKit",CTV-中视HD
 http://66.165.240.154:8080/live/ztylt06/hls.m3u8
+
