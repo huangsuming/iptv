@@ -949,6 +949,8 @@ https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hn/" group-title="湖南",中方台
 https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jl/" group-title="吉林",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边-2汉语综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jl/" group-title="吉林",延边-1朝鲜语综合频道
 https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边-2汉语综合频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jl/" group-title="吉林",延边-2汉语综合频道
