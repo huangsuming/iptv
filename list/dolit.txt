@@ -133,6 +133,86 @@ http://117.141.149.101:4431/tsfile/live/faacts/1013_1.m3u8
 http://117.141.149.101:4431/tsfile/live/faacts/1014_1.m3u8
 #EXTINF:-1 group-title="HD2",CCTV5+
 http://117.141.149.101:4431/tsfile/live/faacts/1015_1.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_31
+http://115.150.63.77:9902/tsfile/live/0001_10.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_32
+http://115.150.63.77:9902/tsfile/live/0001_11.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_33
+http://115.150.63.77:9902/tsfile/live/0001_12.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_34
+http://115.150.63.77:9902/tsfile/live/0001_13.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_35
+http://115.150.63.77:9902/tsfile/live/0001_14.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_36
+http://115.150.63.77:9902/tsfile/live/0001_15.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_37
+http://115.150.63.77:9902/tsfile/live/0001_16.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_38
+http://115.150.63.77:9902/tsfile/live/0001_17.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_39
+http://115.150.63.77:9902/tsfile/live/0001_18.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_40
+http://115.150.63.77:9902/tsfile/live/0001_19.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_41
+http://115.150.63.77:9902/tsfile/live/0001_20.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_42
+http://115.150.63.77:9902/tsfile/live/0001_21.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_43
+http://115.150.63.77:9902/tsfile/live/0001_22.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_44
+http://115.150.63.77:9902/tsfile/live/0001_23.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_45
+http://115.150.63.77:9902/tsfile/live/0001_24.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_46
+http://115.150.63.77:9902/tsfile/live/0001_25.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_47
+http://115.150.63.77:9902/tsfile/live/0001_26.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_48
+http://115.150.63.77:9902/tsfile/live/0001_27.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_49
+http://115.150.63.77:9902/tsfile/live/0001_28.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_50
+http://115.150.63.77:9902/tsfile/live/0001_29.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_51
+http://115.150.63.77:9902/tsfile/live/0001_30.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_52
+http://115.150.63.77:9902/tsfile/live/0001_31.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_53
+http://115.150.63.77:9902/tsfile/live/0001_32.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_54
+http://115.150.63.77:9902/tsfile/live/0001_33.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_55
+http://115.150.63.77:9902/tsfile/live/0001_34.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_60
+http://115.150.63.77:9902/tsfile/live/0001_39.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_61
+http://115.150.63.77:9902/tsfile/live/0001_40.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_62
+http://115.150.63.77:9902/tsfile/live/0001_41.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_63
+http://115.150.63.77:9902/tsfile/live/0001_42.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_64
+http://115.150.63.77:9902/tsfile/live/0001_43.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_65
+http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_66
+http://115.150.63.77:9902/tsfile/live/0001_45.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_67
+http://115.150.63.77:9902/tsfile/live/0001_46.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_68
+http://115.150.63.77:9902/tsfile/live/0001_47.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_69
+http://115.150.63.77:9902/tsfile/live/0001_48.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_70
+http://115.150.63.77:9902/tsfile/live/0001_49.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_1
+http://115.150.63.77:9902/tsfile/live/0001_50.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_2
+http://115.150.63.77:9902/tsfile/live/0001_51.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_3
+http://115.150.63.77:9902/tsfile/live/0001_52.m3u8
+#EXTINF:-1 group-title="HD3",Unknown_4
+http://115.150.63.77:9902/tsfile/live/0001_53.m3u8
 #EXTINF:-1 group-title="SD1",CCTV1
 http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 #EXTINF:-1 group-title="SD1",CCTV2

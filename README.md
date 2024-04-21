@@ -7,6 +7,7 @@
 - Andriod:[Televizo](https://televizo.net/)
 - Apple:[APTV](https://apps.apple.com/cn/app/id1630403500)
 - Windows:[MPC](https://github.com/clsid2/mpc-hc/releases)
+- 代码托管:[Git](https://www.cnblogs.com/jetsung/p/git-service.html)
 
 # 待补充
 - 电视台:<br>
@@ -44,4 +45,25 @@
 - 未收录:<br>
   [睛彩中原](http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8)<br>
   [移动戏曲](http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8)<br>
+
+# 待优化<br>
+  CCTV4中文国际.美洲<br>
+  CCTV4中文国际.欧洲<br>
+  CETV-早期教育<br>
+  广东4K<br>
+  广东经济科教<br>
+  广东民生<br>
+  广东少儿<br>
+  广东体育<br>
+  广东新闻<br>
+  广东移动电视<br>
+  广东影视<br>
+  广东珠江<br>
+  岭南戏曲<br>
+  深圳财经生活<br>
+  深圳电视剧<br>
+  深圳公共<br>
+  深圳少儿<br>
+  深圳体育健康<br>
+  深圳娱乐<br>
 
