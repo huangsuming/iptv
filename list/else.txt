@@ -103,8 +103,6 @@ http://stream.zztvzd.com/3/playlist.m3u8
 http://stream.zztvzd.com/2/playlist.m3u8
 #EXTINF:-1 ,山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 ,云南宾川县广播电视台
-http://live.bcrmtzx.com/tv01/playlist.m3u8
 #EXTINF:-1 ,浙江绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 ,浙江萧山综合

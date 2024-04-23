@@ -1,103 +1,215 @@
 #EXTM3U
-#EXTINF:-1 ,华视美达
+#EXTINF:-1 group-title="SD1",华视美达
 http://124.115.205.101:8888/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 group-title="SD1",CCTV1
 http://124.115.205.101:8888/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 group-title="SD1",CCTV2
 http://124.115.205.101:8888/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 group-title="SD1",CCTV3
 http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 group-title="SD1",CCTV4
 http://124.115.205.101:8888/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 group-title="SD1",CCTV5
 http://124.115.205.101:8888/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 ,CCTV+5
+#EXTINF:-1 group-title="SD1",CCTV+5
 http://124.115.205.101:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 group-title="SD1",CCTV6
 http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 group-title="SD1",CCTV7
 http://124.115.205.101:8888/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 group-title="SD1",CCTV8
 http://124.115.205.101:8888/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 group-title="SD1",CCTV9
 http://124.115.205.101:8888/newlive/live/hls/11/live.m3u8
-#EXTINF:-1 ,CCTV10
+#EXTINF:-1 group-title="SD1",CCTV10
 http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 ,CCTV11
+#EXTINF:-1 group-title="SD1",CCTV11
 http://124.115.205.101:8888/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 group-title="SD1",CCTV12
 http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 group-title="SD1",CCTV13
 http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 group-title="SD1",CCTV14
 http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 ,CCTV15
+#EXTINF:-1 group-title="SD1",CCTV15
 http://124.115.205.101:8888/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 ,CGTN
+#EXTINF:-1 group-title="SD1",CGTN
 http://124.115.205.101:8888/newlive/live/hls/18/live.m3u8
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 group-title="SD1",陕西卫视
 http://124.115.205.101:8888/newlive/live/hls/19/live.m3u8
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 group-title="SD1",北京卫视
 http://124.115.205.101:8888/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 group-title="SD1",东方卫视
 http://124.115.205.101:8888/newlive/live/hls/21/live.m3u8
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 group-title="SD1",浙江卫视
 http://124.115.205.101:8888/newlive/live/hls/22/live.m3u8
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 group-title="SD1",江苏卫视
 http://124.115.205.101:8888/newlive/live/hls/23/live.m3u8
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 group-title="SD1",湖南卫视
 http://124.115.205.101:8888/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 group-title="SD1",河南卫视
 http://124.115.205.101:8888/newlive/live/hls/25/live.m3u8
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 group-title="SD1",湖北卫视
 http://124.115.205.101:8888/newlive/live/hls/26/live.m3u8
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1 group-title="SD1",山西卫视
 http://124.115.205.101:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 ,甘肃卫视
+#EXTINF:-1 group-title="SD1",甘肃卫视
 http://124.115.205.101:8888/newlive/live/hls/28/live.m3u8
-#EXTINF:-1 ,宁夏卫视
+#EXTINF:-1 group-title="SD1",宁夏卫视
 http://124.115.205.101:8888/newlive/live/hls/29/live.m3u8
-#EXTINF:-1 ,海南卫视
+#EXTINF:-1 group-title="SD1",海南卫视
 http://124.115.205.101:8888/newlive/live/hls/30/live.m3u8
-#EXTINF:-1 ,广西卫视
+#EXTINF:-1 group-title="SD1",广西卫视
 http://124.115.205.101:8888/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1 group-title="SD1",青海卫视
 http://124.115.205.101:8888/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1 group-title="SD1",西藏卫视
 http://124.115.205.101:8888/newlive/live/hls/33/live.m3u8
-#EXTINF:-1 ,内蒙古电
+#EXTINF:-1 group-title="SD1",内蒙古电
 http://124.115.205.101:8888/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1 group-title="SD1",新疆卫视
 http://124.115.205.101:8888/newlive/live/hls/35/live.m3u8
-#EXTINF:-1 ,云南卫视
+#EXTINF:-1 group-title="SD1",云南卫视
 http://124.115.205.101:8888/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 ,厦门卫视
+#EXTINF:-1 group-title="SD1",厦门卫视
 http://124.115.205.101:8888/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 ,兵团卫视
+#EXTINF:-1 group-title="SD1",兵团卫视
 http://124.115.205.101:8888/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 group-title="SD1",广东卫视
 http://124.115.205.101:8888/newlive/live/hls/39/live.m3u8
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1 group-title="SD1",深圳卫视
 http://124.115.205.101:8888/newlive/live/hls/40/live.m3u8
-#EXTINF:-1 ,黑龙江电
+#EXTINF:-1 group-title="SD1",黑龙江电
 http://124.115.205.101:8888/newlive/live/hls/41/live.m3u8
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1 group-title="SD1",山东卫视
 http://124.115.205.101:8888/newlive/live/hls/42/live.m3u8
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1 group-title="SD1",安徽卫视
 http://124.115.205.101:8888/newlive/live/hls/44/live.m3u8
-#EXTINF:-1 ,新闻卫视
+#EXTINF:-1 group-title="SD1",新闻卫视
 http://124.115.205.101:8888/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 ,都市卫视
+#EXTINF:-1 group-title="SD1",都市卫视
 http://124.115.205.101:8888/newlive/live/hls/46/live.m3u8
-#EXTINF:-1 ,生活卫视
+#EXTINF:-1 group-title="SD1",生活卫视
 http://124.115.205.101:8888/newlive/live/hls/47/live.m3u8
-#EXTINF:-1 ,影院卫视
+#EXTINF:-1 group-title="SD1",影院卫视
 http://124.115.205.101:8888/newlive/live/hls/48/live.m3u8
-#EXTINF:-1 ,公共卫视
+#EXTINF:-1 group-title="SD1",公共卫视
 http://124.115.205.101:8888/newlive/live/hls/49/live.m3u88
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1 group-title="SD1",重庆卫视
 http://124.115.205.101:8888/newlive/live/hls/50/live.m3u8
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 group-title="SD1",天津卫视
 http://124.115.205.101:8888/newlive/live/hls/51/live.m3u8
-#EXTINF:-1 ,东南卫视
+#EXTINF:-1 group-title="SD1",东南卫视
 http://124.115.205.101:8888/newlive/live/hls/52/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_1
+http://111.75.151.236:50085/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_2
+http://111.75.151.236:50085/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_3
+http://111.75.151.236:50085/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_4
+http://111.75.151.236:50085/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_5
+http://111.75.151.236:50085/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_6
+http://111.75.151.236:50085/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_7
+http://111.75.151.236:50085/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_8
+http://111.75.151.236:50085/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_9
+http://111.75.151.236:50085/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_10
+http://111.75.151.236:50085/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_11
+http://111.75.151.236:50085/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_12
+http://111.75.151.236:50085/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_13
+http://111.75.151.236:50085/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_14
+http://111.75.151.236:50085/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_15
+http://111.75.151.236:50085/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_16
+http://111.75.151.236:50085/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_17
+http://111.75.151.236:50085/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_18
+http://111.75.151.236:50085/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_19
+http://111.75.151.236:50085/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_20
+http://111.75.151.236:50085/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_21
+http://111.75.151.236:50085/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_22
+http://111.75.151.236:50085/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_23
+http://111.75.151.236:50085/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_24
+http://111.75.151.236:50085/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_25
+http://111.75.151.236:50085/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_26
+http://111.75.151.236:50085/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_27
+http://111.75.151.236:50085/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_28
+http://111.75.151.236:50085/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_29
+http://111.75.151.236:50085/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_30
+http://111.75.151.236:50085/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_31
+http://111.75.151.236:50085/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_32
+http://111.75.151.236:50085/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_33
+http://111.75.151.236:50085/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_34
+http://111.75.151.236:50085/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_35
+http://111.75.151.236:50085/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_36
+http://111.75.151.236:50085/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_37
+http://111.75.151.236:50085/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_38
+http://111.75.151.236:50085/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_39
+http://111.75.151.236:50085/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_40
+http://111.75.151.236:50085/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_41
+http://111.75.151.236:50085/newlive/live/hls/41/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_42
+http://111.75.151.236:50085/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_43
+http://111.75.151.236:50085/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_44
+http://111.75.151.236:50085/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_45
+http://111.75.151.236:50085/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_46
+http://111.75.151.236:50085/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_47
+http://111.75.151.236:50085/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_48
+http://111.75.151.236:50085/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_49
+http://111.75.151.236:50085/newlive/live/hls/49/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_50
+http://111.75.151.236:50085/newlive/live/hls/50/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_51
+http://111.75.151.236:50085/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_52
+http://111.75.151.236:50085/newlive/live/hls/52/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_53
+http://111.75.151.236:50085/newlive/live/hls/53/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_54
+http://111.75.151.236:50085/newlive/live/hls/54/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_55
+http://111.75.151.236:50085/newlive/live/hls/55/live.m3u8
+#EXTINF:-1 group-title="SD2",Unknown_56
+http://111.75.151.236:50085/newlive/live/hls/56/live.m3u8
