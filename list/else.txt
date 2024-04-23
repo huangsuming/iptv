@@ -7,6 +7,10 @@ http://udnhls.skilldns.com:80/cectv2.m3u8
 http://udnhls.skilldns.com:80/cectv3.m3u8
 #EXTINF:-1 ,CECTV4
 http://udnhls.skilldns.com:80/cectv4.m3u8
+#EXTINF:-1 ,CCTV4中文国际.美洲
+http://gmxw.7766.org:808/hls/71/index.m3u8
+#EXTINF:-1 ,CCTV4中文国际.欧洲
+http://gmxw.7766.org:808/hls/67/index.m3u8
 #EXTINF:-1 ,北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 ,重庆卫视
@@ -119,18 +123,3 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Love Nature 4K(3840x2160)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-动作电影.png" group-title="付费",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-高清电影.png" group-title="付费",CHC高清电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-家庭影院.png" group-title="付费",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-动作电影.png" group-title="付费",CHC动作电影
-http://59.44.192.82:65000/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-高清电影.png" group-title="付费",CHC高清电影
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/chc/CHC-家庭影院.png" group-title="付费",CHC家庭影院
-http://59.44.192.82:65000/hls/30/index.m3u8
