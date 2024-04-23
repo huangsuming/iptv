@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTm3u8
 #EXTINF:-1 ,CECTV1
 http://udnhls.skilldns.com:80/cectv1.m3u8
 #EXTINF:-1 ,CECTV2
@@ -27,6 +27,20 @@ http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 ,甘肃卫视
 https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+#EXTINF:-1 ,甘肃都市
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8
+#EXTINF:-1 ,甘肃公共应急
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000325/index.m3u8
+#EXTINF:-1 ,甘肃经济
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8
+#EXTINF:-1 ,甘肃少儿
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8
+#EXTINF:-1 ,甘肃文化影视
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8
+#EXTINF:-1 ,甘肃兰州新闻综合
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8
+#EXTINF:-1 ,甘肃兰州文旅
+http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8
 #EXTINF:-1 ,广东河源综合
 http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
 #EXTINF:-1 ,广东河源公共
@@ -125,7 +139,5 @@ http://l.cztvcloud.com/channels/lantian/SXyongjia2/720p.m3u8
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 ,香港凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,Love Nature 4K(3840x2160)
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Love Nature 4K(3840x2160)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8

@@ -25,6 +25,7 @@
   北京-京视剧场<br>
   北京-弈坛春秋<br>
   北京-置业频道<br>
+  江苏-4K修复<br>
   辽宁-新动漫<br>
   上海-ICS外语<br>
   上海-第一财经<br>
@@ -36,7 +37,6 @@
   [河南-睛彩中原](http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8)<br>
   [河南-移动戏曲](http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8)<br>
   [湖南-快乐垂钓](http://115.150.63.77:9902/tsfile/live/0001_42.m3u8)<br>
-  [江苏-4K修复](http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8)<br>
 # 待优化(电视)
   CCTV4中文国际.美洲<br>
   CCTV4中文国际.欧洲<br>

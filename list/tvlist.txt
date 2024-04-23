@@ -83,18 +83,6 @@ http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/inde
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-早期教育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV-早期教育.png" group-title="总台",CETV-早期教育
 http://gmxw.7766.org:808/hls/100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN.png" group-title="总台",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN-纪录.png" group-title="总台",CGTN纪录
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN-法语.png" group-title="总台",CGTN法语
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN-俄语.png" group-title="总台",CGTN俄语
-https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿拉伯语" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN-阿拉伯语.png" group-title="总台",CGTN阿拉伯语
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西班牙语" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN-西班牙语.png" group-title="总台",CGTN西班牙语
-https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CIBN-书画频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CIBN-书画频道.png" group-title="总台",CIBN-书画频道
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHTV-百姓健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CHTV-百姓健康.png" group-title="总台",CHTV-百姓健康
@@ -212,7 +200,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 #EXTINF:-1 tvg-id="" tvg-name="CHC梨园频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/Henan-梨园频道.png" group-title="付费",CHC梨园频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="CHC文物宝库" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/Henan-文物宝库.png" group-title="付费",CHC文物宝库
-http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 #EXTINF:-1 tvg-id="" tvg-name="CHC武术世界" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ha/Henan-武术世界.png" group-title="付费",CHC武术世界
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV-爱情喜剧" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/NewTV-爱情喜剧.png" group-title="付费",NewTV-爱情喜剧
@@ -299,18 +287,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕-体育综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/migu/" group-title="付费",咪咕-体育综合
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Music" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",30A Music
-http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-影视旅游.png" group-title="影视",影视.江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="3ABN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",ABC News
-https://lnc-abc-news.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC Music" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",AMC Music
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby Shark TV" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Baby Shark TV
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beano TV" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Beano TV
-https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brat TV" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",CBS News
@@ -325,52 +305,26 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discover Film" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English" group-title="外语",Fashion TV
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Weather" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GB News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",GB News
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",HBO PLUS
 http://170.254.18.106/HBO_PLUS/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://huangsuming.codeberg.page/logo/tv/Korean/" group-title="外语",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KSBW" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",KSBW
-https://lnc-ksbw.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Love Nature
-https://lnc-love-nature.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASA TV Media" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASA TV Public" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NASA TV UHD" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",NASA TV UHD
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",NBC News
-https://lnc-nbc-news-now.tubi.video/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 12 New York" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",News 12 New York
-https://lnc-news12.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="https://huangsuming.codeberg.page/logo/tv/Japanese/" group-title="外语",NHK
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nippon TV NEWS 24" tvg-logo="https://huangsuming.codeberg.page/logo/tv/Japanese/" group-title="外语",Nippon TV NEWS 24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTD" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",NTD
 https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Positiv TV" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Positiv TV
-https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Sony Movies
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Young Turks" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",The Young Turks
 https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOA" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",VOA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WildEarth" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",WildEarth
@@ -631,6 +585,16 @@ https://rtmp.gdlive.gdmain.com/live/0dkp33j5.m3u8
 https://rtmp.gdlive.gdmain.com/live/5z4yjgm0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="松桃融媒体中心" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gz/" group-title="贵州",松桃融媒体中心
 http://live.strmtzx.cn/stxw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海南新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/Hainan-新闻频道.png" group-title="海南",海南新闻
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="海南公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/Hainan-公共频道.png" group-title="海南",海南公共
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000012/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="海南少儿" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/Hainan-少儿频道.png" group-title="海南",海南少儿
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000014/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="海南文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/Hainan-文旅频道.png" group-title="海南",海南文旅
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000013/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="海南自贸" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/Hainan-海南自贸.png" group-title="海南",海南自贸
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="河北都市" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/he/Hebei-都市频道.png" group-title="河北",河北都市
 http://111.11.98.205:9900/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/he/Hebei-公共频道.png" group-title="河北",河北公共
@@ -927,12 +891,20 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="伊春新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hl/" group-title="黑龙江",伊春新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-综合频道.png" group-title="湖北",湖北综合
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
+#EXTINF:-1 tvg-id="" tvg-name="湖北公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-公共新闻.png" group-title="湖北",湖北公共
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+#EXTINF:-1 tvg-id="" tvg-name="湖北教育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-教育频道.png" group-title="湖北",湖北教育
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 tvg-id="" tvg-name="湖北经视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-经视频道.png" group-title="湖北",湖北经视
-http://113.57.103.216:9000/tsfile/live/1017_1.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 #EXTINF:-1 tvg-id="" tvg-name="湖北垄上" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-垄上频道.png" group-title="湖北",湖北垄上
-http://113.57.103.216:9000/tsfile/live/1015_1.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
+#EXTINF:-1 tvg-id="" tvg-name="湖北生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-生活频道.png" group-title="湖北",湖北生活
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
 #EXTINF:-1 tvg-id="" tvg-name="湖北影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/Hubei-影视频道.png" group-title="湖北",湖北影视
-http://113.57.103.216:9000/tsfile/live/1016_1.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 #EXTINF:-1 tvg-id="" tvg-name="荆门新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/" group-title="湖北",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 #EXTINF:-1 tvg-id="" tvg-name="荆门科教文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hb/" group-title="湖北",荆门科教文旅

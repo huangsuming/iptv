@@ -81,6 +81,7 @@
 - sxbctv.txt:[陕西秦岭云](http://www.sxbctv.com/)<br>
   可用节点:PLTV、TVOD<br>
   可用IP地址:<br>
+  117.162.34.102<br>
   223.109.210.41<br>
 - voc.txt:[湖南华声在线](https://www.voc.com.cn/)
 - ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)<br>
