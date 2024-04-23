@@ -287,7 +287,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕-体育综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/migu/" group-title="付费",咪咕-体育综合
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-影视旅游.png" group-title="影视",影视.江西影视旅游
+#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-影视旅游.png" group-title="影视",江西影视旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="3ABN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="外语",3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
