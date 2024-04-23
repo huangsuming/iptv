@@ -23,10 +23,20 @@ http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 ,甘肃卫视
 https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+#EXTINF:-1 ,广东河源综合
+http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
+#EXTINF:-1 ,广东河源公共
+http://tmpstream.hyrtv.cn/hygg/playlist.m3u8
 #EXTINF:-1 ,海南藏族自治州
 https://play-video.hnzgbdst.com/live/59_1.m3u8
 #EXTINF:-1 ,河北农民频道
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13004/index.m3u8
+#EXTINF:-1 ,河北保定新闻综合
+http://live.bdgdw.com/channel1/playlist.m3u8
+#EXTINF:-1 ,河北保定公共频道
+http://live.bdgdw.com/channel2/playlist.m3u8
+#EXTINF:-1 ,河北保定生活健康
+http://live.bdgdw.com/channel3/playlist.m3u8
 #EXTINF:-1 ,河南武术世界
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 ,吉林延边卫视
@@ -57,6 +67,10 @@ http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 #EXTINF:-1 ,江苏靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 ,江苏连云港新闻综合
+http://live.lyg1.com/zhpd/playlist.m3u8
+#EXTINF:-1 ,江苏连云港公共频道
+http://live.lyg1.com/ggpd/playlist.m3u8
 #EXTINF:-1 ,江苏句容新闻综合
 http://jrlive.jrntv.com/live/jrxwzhs/playlist.m3u8
 #EXTINF:-1 ,江苏句容党建频道
@@ -77,10 +91,20 @@ https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 ,青海安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 ,青海大通电视台
+http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8
 #EXTINF:-1 ,山东卫视
 https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+#EXTINF:-1 ,山东枣庄新闻综合
+http://stream.zztvzd.com/1/playlist.m3u8
+#EXTINF:-1 ,山东枣庄公共频道
+http://stream.zztvzd.com/3/playlist.m3u8
+#EXTINF:-1 ,山东枣庄经济生活
+http://stream.zztvzd.com/2/playlist.m3u8
 #EXTINF:-1 ,山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 ,云南宾川县广播电视台
+http://live.bcrmtzx.com/tv01/playlist.m3u8
 #EXTINF:-1 ,浙江绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 ,浙江萧山综合
@@ -97,102 +121,3 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Love Nature 4K(3840x2160)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 ,Unknown_105
-http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8
-#EXTINF:-1 ,Unknown_104
-http://dtrmlive.qhdtrm.cn/xnds/playlist.m3u8
-#EXTINF:-1 ,Unknown_109
-http://live.bcrmtzx.com/tv01/playlist.m3u8
-#EXTINF:-1 ,Unknown_6
-http://live.bdgdw.com/channel1/playlist.m3u8
-#EXTINF:-1 ,Unknown_7
-http://live.bdgdw.com/channel2/playlist.m3u8
-#EXTINF:-1 ,Unknown_8
-http://live.bdgdw.com/channel3/playlist.m3u8
-#EXTINF:-1 ,Unknown_95
-http://live.gprmt.cn/gpnews/playlist.m3u8
-#EXTINF:-1 ,Unknown_42
-http://live.lyg1.com/ggpd/playlist.m3u8
-#EXTINF:-1 ,Unknown_41
-http://live.lyg1.com/zhpd/playlist.m3u8
-#EXTINF:-1 ,Unknown_24
-http://live.strmtzx.cn/stxw/playlist.m3u8
-#EXTINF:-1 ,Unknown_25
-http://live.strmtzx.cn/stzy/playlist.m3u8
-#EXTINF:-1 ,Unknown_51
-http://live.wanyuannews.com/wytv/playlist.m3u8
-#EXTINF:-1 ,Unknown_1
-http://livejs1.newsjs.net/jspd/playlist.m3u8
-#EXTINF:-1 ,Unknown_5
-http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
-#EXTINF:-1 ,Unknown_4
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-#EXTINF:-1 ,Unknown_2
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-#EXTINF:-1 ,Unknown_3
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-#EXTINF:-1 ,Unknown_96
-http://stream.zztvzd.com/1/playlist.m3u8
-#EXTINF:-1 ,Unknown_97
-http://stream.zztvzd.com/2/playlist.m3u8
-#EXTINF:-1 ,Unknown_98
-http://stream.zztvzd.com/3/playlist.m3u8
-#EXTINF:-1 ,Unknown_01
-http://stream1.jlntv.cn/dspd/sd/live.m3u8
-#EXTINF:-1 ,Unknown_02
-http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,Unknown_03
-http://stream1.jlntv.cn/shpd/sd/live.m3u8
-#EXTINF:-1 ,Unknown_04
-http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-#EXTINF:-1 ,Unknown_05
-http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 ,Unknown_06
-http://stream10.jlntv.cn/huadian/sd/live.m3u8
-#EXTINF:-1 ,Unknown_07
-http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
-#EXTINF:-1 ,Unknown_08
-http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-#EXTINF:-1 ,Unknown_09
-http://stream10.jlntv.cn/yongji/sd/live.m3u8
-#EXTINF:-1 ,Unknown_10
-http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-#EXTINF:-1 ,Unknown_11
-http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
-#EXTINF:-1 ,Unknown_12
-http://stream5.jlntv.cn/df/sd/live.m3u8
-#EXTINF:-1 ,Unknown_13
-http://stream5.jlntv.cn/hn/sd/live.m3u8
-#EXTINF:-1 ,Unknown_14
-http://stream5.jlntv.cn/lh/sd/live.m3u8
-#EXTINF:-1 ,Unknown_15
-http://stream5.jlntv.cn/ps/sd/live.m3u8
-#EXTINF:-1 ,Unknown_16
-http://stream5.jlntv.cn/sl/sd/live.m3u8
-#EXTINF:-1 ,Unknown_17
-http://stream5.jlntv.cn/thx/sd/live.m3u8
-#EXTINF:-1 ,Unknown_18
-http://stream5.jlntv.cn/wq/sd/live.m3u8
-#EXTINF:-1 ,Unknown_19
-http://stream8.jlntv.cn/baishan2/playlist.m3u8
-#EXTINF:-1 ,Unknown_20
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8
-#EXTINF:-1 ,Unknown_21
-http://stream8.jlntv.cn/hctv/sd/live.m3u8
-#EXTINF:-1 ,Unknown_22
-http://stream8.jlntv.cn/jytv/sd/live.m3u8
-#EXTINF:-1 ,Unknown_23
-http://stream8.jlntv.cn/ljtv/sd/live.m3u8
-#EXTINF:-1 ,Unknown_24
-http://stream8.jlntv.cn/shulan/sd/live.m3u8
-#EXTINF:-1 ,Unknown_25
-http://stream8.jlntv.cn/sytv2/sd/live.m3u8
-#EXTINF:-1 ,Unknown_23
-http://tmpstream.hyrtv.cn/hygg/playlist.m3u8
-#EXTINF:-1 ,Unknown_22
-http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
-#EXTINF:-1 ,Unknown_49
-https://live1.scmstv.cn/gqpd/playlist.m3u8
-#EXTINF:-1 ,Unknown_50
-https://live2.scmstv.cn/ggpd/playlist.m3u8
