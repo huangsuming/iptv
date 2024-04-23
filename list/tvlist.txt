@@ -1757,10 +1757,6 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="大立电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/DaAi-2.png" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东森财经新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/EBC-东森财经新闻.png" group-title="台湾",东森财经新闻
-https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东森洋片" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/EBC-东森洋片.png" group-title="台湾",东森洋片
-https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="番薯卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/Fans-番薯电视.png" group-title="台湾",番薯卫视
 http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华藏卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/" group-title="台湾",华藏卫视
