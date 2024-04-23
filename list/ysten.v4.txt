@@ -1,38 +1,38 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1综合
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV1/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-1/yst.m3u8
 #EXTINF:-1 ,CCTV2财经
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV2/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-2/yst.m3u8
 #EXTINF:-1 ,CCTV3综艺
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV3/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-3/yst.m3u8
 #EXTINF:-1 ,CCTV4中文国际
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV4/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-4/yst.m3u8
 #EXTINF:-1 ,CCTV5体育
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV5/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-5/yst.m3u8
 #EXTINF:-1 ,CCTV-5+体育赛事
 http://117.169.124.43:6610/ysten-businessmobile/live/hdcctv05plus/yst.m3u8
 #EXTINF:-1 ,CCTV6电影
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV6/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-6/yst.m3u8
 #EXTINF:-1 ,CCTV7军事农业
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV7/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-7/yst.m3u8
 #EXTINF:-1 ,CCTV8电视剧
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV8/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-8/yst.m3u8
 #EXTINF:-1 ,CCTV9记录
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTVnews/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-news/yst.m3u8
 #EXTINF:-1 ,CCTV10科教
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV10/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-10/yst.m3u8
 #EXTINF:-1 ,CCTV11戏曲
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV11/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-11/yst.m3u8
 #EXTINF:-1 ,CCTV12社会与法
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV12/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-12/yst.m3u8
 #EXTINF:-1 ,CCTV13新闻
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV13/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-13/yst.m3u8
 #EXTINF:-1 ,CCTV14少儿
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV14/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-14/yst.m3u8
 #EXTINF:-1 ,CCTV15音乐
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV15/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-15/yst.m3u8
 #EXTINF:-1 ,CGTN
-http://117.169.124.43:6610/ysten-businessmobile/live/CCTV9/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/cctv-9/yst.m3u8
 #EXTINF:-1 ,湖南卫视
 http://117.169.124.43:6610/ysten-businessmobile/live/hdhunanstv/yst.m3u8
 #EXTINF:-1 ,江苏卫视
@@ -110,7 +110,7 @@ http://117.169.124.43:6610/ysten-businessmobile/live/jilinstv/yst.m3u8
 #EXTINF:-1 ,凤凰中文
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 ,IPTV军事评论
 http://117.169.124.43:6610/ysten-businessmobile/live/junshipl/yst.m3u8
 #EXTINF:-1 ,IPTV金牌综艺
@@ -130,4 +130,4 @@ http://117.169.124.43:6610/ysten-businessmobile/live/xiqumd/yst.m3u8
 #EXTINF:-1 ,IPTV动画王国
 http://117.169.124.43:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
 #EXTINF:-1 ,IPTV精品体育
-http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/jtiyu/yst.m3u8

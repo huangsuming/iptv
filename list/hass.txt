@@ -101,115 +101,115 @@ http://124.115.205.101:8888/newlive/live/hls/50/live.m3u8
 http://124.115.205.101:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 group-title="SD1",东南卫视
 http://124.115.205.101:8888/newlive/live/hls/52/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_1
+#EXTINF:-1 group-title="SD2",CCTV1
 http://111.75.151.236:50085/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_2
+#EXTINF:-1 group-title="SD2",CCTV2
 http://111.75.151.236:50085/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_3
+#EXTINF:-1 group-title="SD2",CCTV3
 http://111.75.151.236:50085/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_4
+#EXTINF:-1 group-title="SD2",CCTV4
 http://111.75.151.236:50085/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_5
+#EXTINF:-1 group-title="SD2",CCTV5
 http://111.75.151.236:50085/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_6
+#EXTINF:-1 group-title="SD2",CCTV6
 http://111.75.151.236:50085/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_7
+#EXTINF:-1 group-title="SD2",CCTV7
 http://111.75.151.236:50085/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_8
+#EXTINF:-1 group-title="SD2",CCTV8
 http://111.75.151.236:50085/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_9
+#EXTINF:-1 group-title="SD2",CCTV9
 http://111.75.151.236:50085/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_10
+#EXTINF:-1 group-title="SD2",CCTV10
 http://111.75.151.236:50085/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_11
+#EXTINF:-1 group-title="SD2",CCTV11
 http://111.75.151.236:50085/newlive/live/hls/11/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_12
+#EXTINF:-1 group-title="SD2",CCTV12
 http://111.75.151.236:50085/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_13
+#EXTINF:-1 group-title="SD2",CCTV13
 http://111.75.151.236:50085/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_14
+#EXTINF:-1 group-title="SD2",CCTV14
 http://111.75.151.236:50085/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_15
+#EXTINF:-1 group-title="SD2",CCTV15
 http://111.75.151.236:50085/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_16
+#EXTINF:-1 group-title="SD2",江西卫视
 http://111.75.151.236:50085/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_17
+#EXTINF:-1 group-title="SD2",江西都市
 http://111.75.151.236:50085/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_18
+#EXTINF:-1 group-title="SD2",江西经济.生活
 http://111.75.151.236:50085/newlive/live/hls/18/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_19
+#EXTINF:-1 group-title="SD2",江西影视.旅游
 http://111.75.151.236:50085/newlive/live/hls/19/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_20
+#EXTINF:-1 group-title="SD2",湖南卫视
 http://111.75.151.236:50085/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_21
+#EXTINF:-1 group-title="SD2",浙江卫视
 http://111.75.151.236:50085/newlive/live/hls/21/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_22
+#EXTINF:-1 group-title="SD2",江苏卫视
 http://111.75.151.236:50085/newlive/live/hls/22/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_23
+#EXTINF:-1 group-title="SD2",东方卫视
 http://111.75.151.236:50085/newlive/live/hls/23/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_24
+#EXTINF:-1 group-title="SD2",北京卫视
 http://111.75.151.236:50085/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_25
+#EXTINF:-1 group-title="SD2",广东卫视
 http://111.75.151.236:50085/newlive/live/hls/25/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_26
+#EXTINF:-1 group-title="SD2",深圳卫视
 http://111.75.151.236:50085/newlive/live/hls/26/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_27
+#EXTINF:-1 group-title="SD2",湖北卫视
 http://111.75.151.236:50085/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_28
+#EXTINF:-1 group-title="SD2",天津卫视
 http://111.75.151.236:50085/newlive/live/hls/28/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_29
+#EXTINF:-1 group-title="SD2",安徽卫视
 http://111.75.151.236:50085/newlive/live/hls/29/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_30
+#EXTINF:-1 group-title="SD2",辽宁卫视
 http://111.75.151.236:50085/newlive/live/hls/30/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_31
+#EXTINF:-1 group-title="SD2",山东卫视
 http://111.75.151.236:50085/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_32
+#EXTINF:-1 group-title="SD2",黑龙江卫视
 http://111.75.151.236:50085/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_33
+#EXTINF:-1 group-title="SD2",东南卫视
 http://111.75.151.236:50085/newlive/live/hls/33/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_34
+#EXTINF:-1 group-title="SD2",云南卫视
 http://111.75.151.236:50085/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_35
+#EXTINF:-1 group-title="SD2",吉林卫视
 http://111.75.151.236:50085/newlive/live/hls/35/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_36
+#EXTINF:-1 group-title="SD2",西藏卫视
 http://111.75.151.236:50085/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_37
+#EXTINF:-1 group-title="SD2",广西卫视
 http://111.75.151.236:50085/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_38
+#EXTINF:-1 group-title="SD2",宁夏卫视
 http://111.75.151.236:50085/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_39
+#EXTINF:-1 group-title="SD2",河南卫视
 http://111.75.151.236:50085/newlive/live/hls/39/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_40
+#EXTINF:-1 group-title="SD2",重庆卫视
 http://111.75.151.236:50085/newlive/live/hls/40/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_41
+#EXTINF:-1 group-title="SD2",甘肃卫视
 http://111.75.151.236:50085/newlive/live/hls/41/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_42
+#EXTINF:-1 group-title="SD2",海南卫视
 http://111.75.151.236:50085/newlive/live/hls/42/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_43
+#EXTINF:-1 group-title="SD2",四川卫视
 http://111.75.151.236:50085/newlive/live/hls/43/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_44
+#EXTINF:-1 group-title="SD2",山西卫视
 http://111.75.151.236:50085/newlive/live/hls/44/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_45
+#EXTINF:-1 group-title="SD2",贵州卫视
 http://111.75.151.236:50085/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_46
+#EXTINF:-1 group-title="SD2",青海卫视
 http://111.75.151.236:50085/newlive/live/hls/46/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_47
+#EXTINF:-1 group-title="SD2",陕西卫视
 http://111.75.151.236:50085/newlive/live/hls/47/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_48
+#EXTINF:-1 group-title="SD2",内蒙古卫视
 http://111.75.151.236:50085/newlive/live/hls/48/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_49
+#EXTINF:-1 group-title="SD2",新疆卫视
 http://111.75.151.236:50085/newlive/live/hls/49/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_50
+#EXTINF:-1 group-title="SD2",兵团卫视
 http://111.75.151.236:50085/newlive/live/hls/50/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_51
+#EXTINF:-1 group-title="SD2",河北卫视
 http://111.75.151.236:50085/newlive/live/hls/51/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_52
+#EXTINF:-1 group-title="SD2",哈哈炫动
 http://111.75.151.236:50085/newlive/live/hls/52/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_53
+#EXTINF:-1 group-title="SD2",金鹰卡通
 http://111.75.151.236:50085/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_54
+#EXTINF:-1 group-title="SD2",卡酷少儿
 http://111.75.151.236:50085/newlive/live/hls/54/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_55
+#EXTINF:-1 group-title="SD2",嘉佳卡通
 http://111.75.151.236:50085/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 group-title="SD2",Unknown_56
+#EXTINF:-1 group-title="SD2",欢笑剧场4K
 http://111.75.151.236:50085/newlive/live/hls/56/live.m3u8
