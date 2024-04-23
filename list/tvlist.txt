@@ -301,7 +301,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV11.png" group-title="戏曲",CCTV11戏曲
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/Guangdong-岭南戏曲.png" group-title="广东",岭南戏曲
+#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/Guangdong-岭南戏曲.png" group-title="戏曲",岭南戏曲
 http://gmxw.7766.org:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV6.png" group-title="影视",CCTV6电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
