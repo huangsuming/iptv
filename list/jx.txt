@@ -225,7 +225,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
 #EXTINF:-1 ,黑莓电影
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 ,4KUHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 ,CCTV17
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8

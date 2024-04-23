@@ -14,7 +14,7 @@
 - NSFW<br>
   (1)[AdultIPTV](http://adultiptv.net/):<br>  [all](http://adultiptv.net/chs.m3u)<br>  [videos](http://adultiptv.net/videos.m3u8)<br>
 ## 移动
-- 0453.txt:黑龙江鸡西移动<br>
+- hlv4.txt:黑龙江移动IPv4(ID通用)<br>
   可用节点:PLTV、TVOD<br>
   可用IP地址:<br>
   39.134.65.141<br>
@@ -39,7 +39,8 @@
   可用节点:PLTV、TVOD<br>
   可用IP地址:端口<br>
   39.135.138.59:18890<br>
-- hi.txt:海南移动IPv6<br>
+- hi.txt:海南移动IPv6(ID通用)<br>
+  可用节点:ZTE_CMS<br>
   可用IP地址:端口<br>
   [2409:8087:5e00:24::1f]:6060<br>
   [2409:8087:5e01:34::20]:6610<br>
@@ -47,7 +48,7 @@
   [2409:8087:5e01:34::22]:6610<br>
   [2409:8087:5e01:34::23]:6610<br>
   [2409:8087:5e01:34::38]:6610<br>
-- hl.txt:黑龙江移动<br>
+- hl.txt:黑龙江移动(ID通用)<br>
   可用节点:PLTV、TVOD<br>
   可用域名:<br>
   ottrrs.hl.chinamobile.com<br>
@@ -63,7 +64,7 @@
   [2409:8087:1a0b:df::4013]<br>
   [2409:8087:1a0b:df::4017]<br>
   [2409:8087:1a0b:df::4020]<br>
-- jx.txt:江西移动
+- jx.txt:江西移动(ID通用)<br>
   可用节点:PLTV、TVOD<br>
   可用域名:端口<br>
   hwrr.jx.chinamobile.com:8080<br>
@@ -71,7 +72,11 @@
   39.134.115.163:8080<br>
 - sn.txt:陕西移动(已失效)
 ## 地方传媒
-- dxhmt.txt:[河南大象融媒体](http://dxrm.hnr.cn/)
+- dxhmt.txt:[河南大象融媒体](http://dxrm.hnr.cn/)<br>
+  可用域名(端口):<br>
+  live.dxhmt.cn:9081<br>
+  tvpull.dxhmt.cn<br>
+  tvpull.dxhmt.cn:9081<br>
 - sxbctv.txt:[陕西秦岭云](http://www.sxbctv.com/)<br>
   可用节点:PLTV、TVOD<br>
   可用IP地址:<br>
@@ -80,20 +85,37 @@
 - ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)<br>
   可用节点:PLTV<br>
 ## 数字电视
-- ysten.txt:[易视腾](http://www.ysten.com/)<br>
+- ysten::[易视腾](http://www.ysten.com/)<br>
+  (1)ysten.v4.txt:易视腾IPv4(ID通用)<br>
   可用文件名:1.m3u8、index.m3u8、yst.m3u8<br>
   可用IP地址(端口):<br>
   117.169.124.37:6610<br>
   117.169.124.43:6610<br>
+  (2)ysten.v6.txt:易视腾IPv6<br>
+  可用IP地址(端口):<br>
+  [2409:8087:5e00:24::1e]:6060<br>
 ## 酒店源
-- dolit:点量TV<br>
-  dolit.txt<br>
+- dolit.txt:点量TV(ID不通用)<br>
+  可用IP地址:端口<br>
+  60.174.40.117:9901<br>
+  113.81.20.104:9901<br>
+  115.150.63.77:9902<br>
+  117.141.149.101:4431<br>
+  121.33.239.242:9901<br>
+  222.241.154.37:9901<br>
+  HD5(ID通用)<br>
+  可用IP地址:端口<br>
+  110.7.128.171:8096<br>
+  110.7.128.173:8096<br>
+  110.7.128.174:8096<br>
+  110.7.128.176:8096<br>
+  110.7.128.177:8096<br>
+  110.7.128.178:8096<br>
+  110.7.128.17:8096<br>
   IP黑名单(不稳定):<br>
   223.151.49.74:59901<br>
-- hass:[华视美达](http://www.hassmedia.com/)<br>
-  hass.txt<br>
-- zhgxtv:[智慧光迅](https://www.zhgxnet.com/)<br>
-  zhgx.txt<br>
+- hass.txt:[华视美达](http://www.hassmedia.com/)
+- zhgx.txt:[智慧光迅](https://www.zhgxnet.com/)
 ## 境外源<br>
   laotv.txt:[老挝](https://laotv.la/)<br>
   laos.txt:老挝<br>
@@ -102,6 +124,7 @@
 - cfss.txt:[长风网络](https://cfss.cc/)<br>
 ## 采集来源<br>
    [PotPlayer](https://www.potplay.net/zhiboyuan)<br>
+   [Tvzb](https://www.tvzb.com/)<br>
 # 各省英文缩写
    省份		         拼音缩写<br>
    安徽省		 AH<br>

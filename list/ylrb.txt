@@ -1,12 +1,6 @@
-#EXTM3U
-#EXTINF:-1 ,CCTV1综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225942/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226315/index.m3u8
+#EXTM3U	
 #EXTINF:-1 ,农林卫视
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225521/index.m3u8
-#EXTINF:-1 ,陕西新闻资讯
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 ,陕西生活
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225531/index.m3u8
 #EXTINF:-1 ,陕西影视
@@ -15,277 +9,283 @@ https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225532/index.m3u8
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225533/index.m3u8
 #EXTINF:-1 ,陕西体育休闲
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 ,陕西新闻资讯
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 ,咸阳综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 ,渭南新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 ,铜川综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 ,商洛综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 ,西安新闻综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 ,西安教育电视台
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226037/index.m3u8
-#EXTINF:-1 ,长安一套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225896/index.m3u8
-#EXTINF:-1 ,高陵综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225970/index.m3u8
-#EXTINF:-1 ,鄠邑综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225919/index.m3u8
-#EXTINF:-1 ,鄠邑二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225969/index.m3u8
+#EXTINF:-1 ,富县综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225695/index.m3u8
+#EXTINF:-1 ,榆林综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225823/index.m3u8
+#EXTINF:-1 ,榆阳一套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1 ,华阴综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225856/index.m3u8
+#EXTINF:-1 ,华阴二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225857/index.m3u8
+#EXTINF:-1 ,合阳综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225858/index.m3u8
+#EXTINF:-1 ,合阳二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225859/index.m3u8
+#EXTINF:-1 ,岚皋电视台
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225861/index.m3u8
+#EXTINF:-1 ,西乡融媒
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225862/index.m3u8
+#EXTINF:-1 ,西乡融媒
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225863/index.m3u8
 #EXTINF:-1 ,蓝田综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225864/index.m3u8
 #EXTINF:-1 ,蓝田二套
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225865/index.m3u8
-#EXTINF:-1 ,临潼综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225966/index.m3u8
-#EXTINF:-1 ,临潼影视
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225967/index.m3u8
 #EXTINF:-1 ,阎良综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225866/index.m3u8
 #EXTINF:-1 ,周至综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225867/index.m3u8
-#EXTINF:-1 ,周至二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225968/index.m3u8
-#EXTINF:-1 ,安康综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 ,陈仓综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1 ,略阳综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225870/index.m3u8
+#EXTINF:-1 ,洋县综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 ,定边综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225873/index.m3u8
+#EXTINF:-1 ,韩城综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1 ,商州综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 ,镇安综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225876/index.m3u8
+#EXTINF:-1 ,柞水综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1 ,旬阳新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 ,石泉综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 ,勉县综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1 ,宁强综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 ,南郑综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 ,镇巴综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225883/index.m3u8
+#EXTINF:-1 ,耀州综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1 ,宝塔电视台
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1 ,黄陵综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1 ,子长综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1 ,志丹综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1 ,延川综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1 ,佳县综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225890/index.m3u8
+#EXTINF:-1 ,府谷综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1 ,靖边综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225892/index.m3u8
+#EXTINF:-1 ,神木新闻
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 ,米脂综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 ,长安一套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225896/index.m3u8
+#EXTINF:-1 ,武功新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225898/index.m3u8
+#EXTINF:-1 ,安塞综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225902/index.m3u8
+#EXTINF:-1 ,甘泉综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225904/index.m3u8
+#EXTINF:-1 ,富平综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 ,富平二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225906/index.m3u8
+#EXTINF:-1 ,延长综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 ,洛川综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 ,宜川新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225909/index.m3u8
+#EXTINF:-1 ,吴起综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 ,大荔新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 ,蒲城综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225913/index.m3u8
+#EXTINF:-1 ,白水综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 ,潼关新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225915/index.m3u8
+#EXTINF:-1 ,黄龙综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225916/index.m3u8
+#EXTINF:-1 ,泾阳综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225917/index.m3u8
+#EXTINF:-1 ,太白综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225918/index.m3u8
+#EXTINF:-1 ,鄠邑综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225919/index.m3u8
 #EXTINF:-1 ,白河综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225921/index.m3u8
 #EXTINF:-1 ,汉阴综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:-1 ,岚皋电视台
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225861/index.m3u8
 #EXTINF:-1 ,宁陕综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:-1 ,平利电视台
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:-1 ,石泉综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225879/index.m3u8
-#EXTINF:-1 ,旬阳新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:-1 ,旬阳民生文化
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:-1 ,镇坪综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226343/index.m3u8
 #EXTINF:-1 ,紫阳综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:-1 ,宝鸡综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226038/index.m3u8
-#EXTINF:-1 ,宝鸡公共
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 ,陈仓综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225869/index.m3u8
-#EXTINF:-1 ,扶风综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:-1 ,扶风二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225936/index.m3u8
 #EXTINF:-1 ,凤翔综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:-1 ,凤翔文化影视
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225930/index.m3u8
 #EXTINF:-1 ,麟游综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 ,陇县综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225938/index.m3u8
-#EXTINF:-1 ,陇县道德文化
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 ,眉县新闻综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:-1 ,眉县经济生活
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225934/index.m3u8
+#EXTINF:-1 ,扶风综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1 ,扶风二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225936/index.m3u8
 #EXTINF:-1 ,千阳综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225937/index.m3u8
-#EXTINF:-1 ,太白综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225918/index.m3u8
-#EXTINF:-1 ,汉中新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226006/index.m3u8
-#EXTINF:-1 ,城固综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225944/index.m3u8
-#EXTINF:-1 ,佛坪综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225947/index.m3u8
-#EXTINF:-1 ,留坝电视台
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:-1 ,略阳综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225870/index.m3u8
-#EXTINF:-1 ,勉县综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225880/index.m3u8
-#EXTINF:-1 ,勉县经济
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225946/index.m3u8
-#EXTINF:-1 ,宁强综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:-1 ,宁强二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225945/index.m3u8
-#EXTINF:-1 ,南郑综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:-1 ,西乡融媒
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225862/index.m3u8
-#EXTINF:-1 ,西乡融媒
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225863/index.m3u8
-#EXTINF:-1 ,洋县综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225871/index.m3u8
-#EXTINF:-1 ,镇巴综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:-1 ,咸阳综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 ,彬州新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225982/index.m3u8
-#EXTINF:-1 ,彬州人文经济
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225983/index.m3u8
-#EXTINF:-1 ,淳化综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225986/index.m3u8
-#EXTINF:-1 ,长武综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225984/index.m3u8
-#EXTINF:-1 ,泾阳综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225917/index.m3u8
-#EXTINF:-1 ,泾阳二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225988/index.m3u8
-#EXTINF:-1 ,礼泉新闻
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225978/index.m3u8
-#EXTINF:-1 ,礼泉生活
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225979/index.m3u8
-#EXTINF:-1 ,乾县综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225977/index.m3u8
-#EXTINF:-1 ,三原综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225973/index.m3u8
-#EXTINF:-1 ,武功新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225898/index.m3u8
-#EXTINF:-1 ,武功二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225987/index.m3u8
-#EXTINF:-1 ,兴平综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225975/index.m3u8
-#EXTINF:-1 ,兴平二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225976/index.m3u8
-#EXTINF:-1 ,旬邑综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225985/index.m3u8
+#EXTINF:-1 ,陇县综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225938/index.m3u8
+#EXTINF:-1 ,陇县道德文化
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 ,杨凌综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225940/index.m3u8
 #EXTINF:-1 ,杨凌现代农业
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225941/index.m3u8
-#EXTINF:-1 ,永寿综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225980/index.m3u8
-#EXTINF:-1 ,铜川综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,耀州综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:-1 ,渭南新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 ,白水综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1 ,白水二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225964/index.m3u8
-#EXTINF:-1 ,澄城新闻
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225961/index.m3u8
-#EXTINF:-1 ,澄城公共
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225962/index.m3u8
-#EXTINF:-1 ,大荔新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1 ,美丽大荔
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225959/index.m3u8
-#EXTINF:-1 ,富平综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 ,富平二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225906/index.m3u8
-#EXTINF:-1 ,韩城综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1 ,韩城生活
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225965/index.m3u8
-#EXTINF:-1 ,合阳综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225858/index.m3u8
-#EXTINF:-1 ,合阳二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225859/index.m3u8
-#EXTINF:-1 ,华阴综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225856/index.m3u8
-#EXTINF:-1 ,华阴二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225857/index.m3u8
-#EXTINF:-1 ,华州综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225955/index.m3u8
-#EXTINF:-1 ,华州二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225956/index.m3u8
-#EXTINF:-1 ,蒲城综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225913/index.m3u8
-#EXTINF:-1 ,蒲城二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225963/index.m3u8
-#EXTINF:-1 ,潼关新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225915/index.m3u8
-#EXTINF:-1 ,潼关人文旅游
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225957/index.m3u8
-#EXTINF:-1 ,商洛综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,丹凤综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225952/index.m3u8
+#EXTINF:-1 ,CCTV1综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 ,留坝电视台
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 ,城固综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225944/index.m3u8
+#EXTINF:-1 ,宁强二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225945/index.m3u8
+#EXTINF:-1 ,勉县经济
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1 ,佛坪综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225947/index.m3u8
 #EXTINF:-1 ,洛南综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225949/index.m3u8
 #EXTINF:-1 ,山阳新闻综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225950/index.m3u8
 #EXTINF:-1 ,山阳影视娱乐
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225951/index.m3u8
+#EXTINF:-1 ,丹凤综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225952/index.m3u8
 #EXTINF:-1 ,商南综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225953/index.m3u8
-#EXTINF:-1 ,商州综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 ,镇安综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225876/index.m3u8
 #EXTINF:-1 ,镇安综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225954/index.m3u8
-#EXTINF:-1 ,柞水综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225877/index.m3u8
-#EXTINF:-1 ,延安综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226044/index.m3u8
-#EXTINF:-1 ,宝塔电视台
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225885/index.m3u8
-#EXTINF:-1 ,安塞综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225902/index.m3u8
-#EXTINF:-1 ,富县综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225695/index.m3u8
-#EXTINF:-1 ,甘泉综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225904/index.m3u8
-#EXTINF:-1 ,洛川综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225908/index.m3u8
-#EXTINF:-1 ,黄陵综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225886/index.m3u8
-#EXTINF:-1 ,黄龙综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225916/index.m3u8
-#EXTINF:-1 ,延长综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1 ,延川综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225889/index.m3u8
-#EXTINF:-1 ,宜川新闻综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1 ,吴起综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 ,子长综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225887/index.m3u8
-#EXTINF:-1 ,志丹综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225888/index.m3u8
-#EXTINF:-1 ,榆林综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225823/index.m3u8
-#EXTINF:-1 ,榆林公共
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226337/index.m3u8
-#EXTINF:-1 ,定边综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225873/index.m3u8
-#EXTINF:-1 ,定边二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225993/index.m3u8
-#EXTINF:-1 ,府谷综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1 ,府谷二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225992/index.m3u8
-#EXTINF:-1 ,靖边综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225892/index.m3u8
-#EXTINF:-1 ,靖边二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225994/index.m3u8
-#EXTINF:-1 ,佳县综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225890/index.m3u8
-#EXTINF:-1 ,米脂综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 ,清涧综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225996/index.m3u8
-#EXTINF:-1 ,绥德综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225995/index.m3u8
-#EXTINF:-1 ,神木新闻
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1 ,神木二套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225991/index.m3u8
-#EXTINF:-1 ,吴堡综合
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225998/index.m3u8
-#EXTINF:-1 ,榆阳一套
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1 ,华州综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225955/index.m3u8
+#EXTINF:-1 ,华州二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225956/index.m3u8
+#EXTINF:-1 ,潼关人文旅游
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225957/index.m3u8
+#EXTINF:-1 ,美丽大荔
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225959/index.m3u8
+#EXTINF:-1 ,澄城新闻
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225961/index.m3u8
+#EXTINF:-1 ,澄城公共
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225962/index.m3u8
+#EXTINF:-1 ,蒲城二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225963/index.m3u8
+#EXTINF:-1 ,白水二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225964/index.m3u8
+#EXTINF:-1 ,韩城生活
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225965/index.m3u8
+#EXTINF:-1 ,临潼综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225966/index.m3u8
+#EXTINF:-1 ,临潼影视
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225967/index.m3u8
+#EXTINF:-1 ,周至二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225968/index.m3u8
+#EXTINF:-1 ,鄠邑二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225969/index.m3u8
+#EXTINF:-1 ,高陵综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225970/index.m3u8
+#EXTINF:-1 ,三原综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225973/index.m3u8
+#EXTINF:-1 ,兴平综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225975/index.m3u8
+#EXTINF:-1 ,兴平二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225976/index.m3u8
+#EXTINF:-1 ,乾县综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225977/index.m3u8
+#EXTINF:-1 ,礼泉新闻
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225978/index.m3u8
+#EXTINF:-1 ,礼泉生活
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 ,永寿综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225980/index.m3u8
+#EXTINF:-1 ,彬州新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225982/index.m3u8
+#EXTINF:-1 ,彬州人文经济
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225983/index.m3u8
+#EXTINF:-1 ,长武综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225984/index.m3u8
+#EXTINF:-1 ,旬邑综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225985/index.m3u8
+#EXTINF:-1 ,淳化综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225986/index.m3u8
+#EXTINF:-1 ,武功二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225987/index.m3u8
+#EXTINF:-1 ,泾阳二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225988/index.m3u8
 #EXTINF:-1 ,榆阳二套
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225990/index.m3u8
+#EXTINF:-1 ,神木二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 ,府谷二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225992/index.m3u8
+#EXTINF:-1 ,定边二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225993/index.m3u8
+#EXTINF:-1 ,靖边二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225994/index.m3u8
+#EXTINF:-1 ,绥德综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225995/index.m3u8
+#EXTINF:-1 ,清涧综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225996/index.m3u8
 #EXTINF:-1 ,子洲综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225997/index.m3u8
+#EXTINF:-1 ,吴堡综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225998/index.m3u8
+#EXTINF:-1 ,汉中新闻综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226006/index.m3u8
+#EXTINF:-1 ,西安教育电视台
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226037/index.m3u8
+#EXTINF:-1 ,宝鸡综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226038/index.m3u8
+#EXTINF:-1 ,延安综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226044/index.m3u8
+#EXTINF:-1 ,安康综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226315/index.m3u8
+#EXTINF:-1 ,榆林公共
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226337/index.m3u8
 #EXTINF:-1 ,子洲综合
 https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226340/index.m3u8
+#EXTINF:-1 ,镇坪综合
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226343/index.m3u8
+#EXTINF:-1 ,宝鸡公共
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226344/index.m3u8
