@@ -38,9 +38,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV17.png" group-title="总台",CCTV17农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-兵器科技.png" group-title="总台",CCTV兵器科技
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGKB9zm%2BIxepVqZYZm7RAv244Kkb0RUYfm4%2FqM8nid95yfI6je%2Fgd5aFLyZ9USd3KbA
 #EXTINF:-1 tvg-id="" tvg-name="CCTV第一剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-第一剧场.png" group-title="总台",CCTV第一剧场
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 #EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-电视指南.png" group-title="总台",CCTV电视指南
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-风云剧场.png" group-title="总台",CCTV风云剧场
@@ -48,19 +48,19 @@ http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-风云音乐.png" group-title="总台",CCTV风云音乐
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云足球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-风云足球.png" group-title="总台",CCTV风云足球
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
 #EXTINF:-1 tvg-id="" tvg-name="CCTV高尔夫网球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-高尔夫网球.png" group-title="总台",CCTV高尔夫网球
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGLY7Qr44mlU8Mm7hAKppcofYcqtkgnrIU1veEPNSLwHTPQxqGjPgZkOj3N28h2Dcwo
 #EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-怀旧剧场.png" group-title="总台",CCTV怀旧剧场
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-女性时尚.png" group-title="总台",CCTV女性时尚
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV世界地理" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-世界地理.png" group-title="总台",CCTV世界地理
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
 #EXTINF:-1 tvg-id="" tvg-name="CCTV卫生健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-卫生健康.png" group-title="总台",CCTV卫生健康
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV央视台球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-央视台球.png" group-title="总台",CCTV央视台球
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV央视文化精品" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-央视文化精品.png" group-title="总台",CCTV央视文化精品
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV移动传媒" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV-移动传媒.png" group-title="总台",CCTV移动传媒
