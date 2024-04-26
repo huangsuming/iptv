@@ -1,6 +1,5 @@
 # 直播源说明
 - 删除所有酒店源。
-- 删除地方台台标配置。
 ## 播放列表
 - 电视直播<br>
 [github](https://huangsuming.github.io/iptv/list/tvlist.txt)<br>

@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_10
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
-#EXTINF:-1 ,Unknown_11
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
-#EXTINF:-1 ,Unknown_12
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
-#EXTINF:-1 ,Unknown_13
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
 #EXTINF:-1 ,CGTN
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8
 #EXTINF:-1 ,广东卫视
@@ -15,50 +7,12 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/ind
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
 #EXTINF:-1 ,江西卫视
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
-#EXTINF:-1 ,Unknown_17
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
-#EXTINF:-1 ,Unknown_18
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
-#EXTINF:-1 ,Unknown_19
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
-#EXTINF:-1 ,Unknown_21
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
-#EXTINF:-1 ,Unknown_23
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
-#EXTINF:-1 ,Unknown_24
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
-#EXTINF:-1 ,Unknown_25
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
-#EXTINF:-1 ,Unknown_26
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
-#EXTINF:-1 ,Unknown_27
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel27/index.m3u8
-#EXTINF:-1 ,Unknown_28
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
-#EXTINF:-1 ,Unknown_29
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel29/index.m3u8
 #EXTINF:-1 ,贵州卫视
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
-#EXTINF:-1 ,Unknown_31
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
-#EXTINF:-1 ,Unknown_32
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
-#EXTINF:-1 ,Unknown_33
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel33/index.m3u8
-#EXTINF:-1 ,Unknown_39
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
-#EXTINF:-1 ,Unknown_40
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
-#EXTINF:-1 ,CCTV11
+#EXTINF:-1 ,CCTV-11
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
-#EXTINF:-1 ,Unknown_43
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43/index.m3u8
-#EXTINF:-1 ,Unknown_54
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel54/index.m3u8
 #EXTINF:-1 ,陕西卫视
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
-#EXTINF:-1 ,Unknown_56
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel56/index.m3u8
 #EXTINF:-1 ,甘肃卫视
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel57/index.m3u8
 #EXTINF:-1 ,广西卫视
@@ -77,19 +31,11 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/ind
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel67/index.m3u8
 #EXTINF:-1 ,宁夏卫视
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel69/index.m3u8
-#EXTINF:-1 ,Unknown_78
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
-#EXTINF:-1 ,Unknown_81
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel81/index.m3u8
-#EXTINF:-1 ,Unknown_79
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel79/index.m3u8
-#EXTINF:-1 ,Unknown_80
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
-#EXTINF:-1 ,CCTV17
+#EXTINF:-1 ,CCTV-17
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel93/index.m3u8
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 ,CCTV-16
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
 #EXTINF:-1 ,北京纪实科教
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11001/index.m3u8
@@ -199,7 +145,7 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41118/
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41119/index.m3u8
 #EXTINF:-1 ,焦作新闻综合
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41120/index.m3u8
-#EXTINF:-1 ,濮阳新闻综合
+#EXTINF:-1 ,濮阳综合
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41121/index.m3u8
 #EXTINF:-1 ,许昌综合
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41122/index.m3u8
@@ -221,23 +167,19 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41129/
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41130/index.m3u8
 #EXTINF:-1 ,嘉佳卡通
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41133/index.m3u8
-#EXTINF:-1 ,Unknown_1093
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41134/index.m3u8
 #EXTINF:-1 ,东方财经
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41135/index.m3u8
 #EXTINF:-1 ,兰铁TV
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41136/index.m3u8
 #EXTINF:-1 ,人民铁道
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41137/index.m3u8
-#EXTINF:-1 ,Unknown_1097
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41138/index.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 ,CCTV-3
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41139/index.m3u8
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 ,CCTV-5
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 ,CCTV-6
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41141/index.m3u8
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 ,CCTV-8
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41142/index.m3u8
 #EXTINF:-1 ,四海钓鱼
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
@@ -249,6 +191,8 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43041/
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 #EXTINF:-1 ,凤凰中文
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1 ,证券服务
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel62001/index.m3u8
 #EXTINF:-1 ,湖南教育电视台
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
 #EXTINF:-1 ,湖南经视
@@ -263,7 +207,7 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 #EXTINF:-1 ,湖南电视剧
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
-#EXTINF:-1 ,欢笑剧场
+#EXTINF:-1 ,欢笑剧场4K
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/index.m3u8
 #EXTINF:-1 ,乐游
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
@@ -287,14 +231,5 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43085/
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43087/index.m3u8
 #EXTINF:-1 ,湖南都市
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
-#EXTINF:-1 ,Unknown_1259
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43095/index.m3u8
-#EXTINF:-1 ,Unknown_1260
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43096/index.m3u8
-#EXTINF:-1 ,Unknown_1261
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43097/index.m3u8
 #EXTINF:-1 ,湖南电影
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43098/index.m3u8
-#EXTINF:-1 ,证券服务
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel62001/index.m3u8
-
