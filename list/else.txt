@@ -145,3 +145,4 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 ,欢笑剧场4K
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/index.m3u8
 
+http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv1hd8m/8000000/mnf.m3u8  

@@ -9,50 +9,96 @@
 - Windows:[MPC](https://github.com/clsid2/mpc-hc/releases)
 - 代码托管:[Git](https://www.cnblogs.com/jetsung/p/git-service.html)
 
-# 待补充(电视)
+# 待完善(电视)
+  CCTV4中文国际.美洲<br>
+  CCTV4中文国际.欧洲<br>
+  CCTV电视指南<br>
+  CCTV风云剧场<br>
+  CCTV风云音乐<br>
+  CCTV怀旧剧场<br>
+  CCTV女性时尚<br>
+  CCTV卫生健康<br>
+  CCTV央视文化精品<br>
+  CCTV移动传媒<br>
   CETV3<br>
-  CHC高清电影<br>
-  SiTV-动漫秀场<br>
-  SiTV-都市剧场<br>
-  SiTV-法治天地<br>
-  SiTV-欢笑剧场4K<br>
-  SiTV-金色学堂<br>
-  SiTV-劲爆体育<br>
-  SiTV-魅力足球<br>
-  SiTV-七彩戏剧<br>
-  SiTV-新视觉<br>
-  SiTV-游戏风云<br>
+  CETV早期教育<br>
+  CIBN书画频道<br>
+  CRI环球奇观<br>
+  CRTV1<br>
+  CRTV2<br>
+  GTTV环球旅游<br>
+  北京-车迷频道<br>
+  北京-优优宝贝<br>
+  北京-中华特产<br>
   北京-京视剧场<br>
   北京-弈坛春秋<br>
   北京-置业频道<br>
-  辽宁-新动漫<br>
-  上海-ICS外语<br>
-  上海-第一财经<br>
-  上海-东方财经<br>
-  四川-峨眉电影<br>
-  西安教育电视台<br>
-  澳门莲花<br>  
-# 未收录(电视)
-  [河南-睛彩中原](http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8)<br>
-  [河南-移动戏曲](http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8)<br>
-  [湖南-快乐垂钓](http://115.150.63.77:9902/tsfile/live/0001_42.m3u8)<br>
-# 待优化(电视)
-  CCTV4中文国际.美洲<br>
-  CCTV4中文国际.欧洲<br>
-  CETV-早期教育<br>
-  广东4K<br>
-  广东经济科教<br>
-  广东民生<br>
-  广东少儿<br>
-  广东体育<br>
-  广东新闻<br>
-  广东移动电视<br>
-  广东影视<br>
-  广东珠江<br>
-  岭南戏曲<br>
+  甘肃-证券服务<br>
+  广东-4K<br>
+  广东-经济科教<br>
+  广东-民生<br>
+  广东-少儿<br>
+  广东-体育<br>
+  广东-新闻<br>
+  广东-移动电视<br>
+  广东-影视<br>
+  广东-珠江<br>
+  广东-岭南戏曲<br>
   深圳财经生活<br>
   深圳电视剧<br>
+  深圳都市<br>
   深圳公共<br>
   深圳少儿<br>
   深圳体育健康<br>
   深圳娱乐<br>
+  河北-都市<br>
+  河北-公共<br>
+  河北-经济生活<br>
+  河北-农民频道<br>
+  河北-少儿科教<br>
+  河北-影视剧<br>
+  河北-晴彩河北<br>
+  河北-邢台城市生活<br>
+  河北-安新综合<br>
+  河北-沧县电视<br>
+  河南-国学频道<br>
+  河南-周口川汇频道<br>
+  河南-周口公共频道<br>
+  河南-周口教育频道<br>
+  湖北-江夏新闻综合<br>
+  湖北-麻城综合<br>
+  湖南-爱晚<br>
+  湖南-电视剧<br>
+  湖南-电影<br>
+  湖南-都市<br>
+  湖南-国际<br>
+  湖南-教育<br>
+  湖南-经视<br>
+  湖南-娱乐<br>
+  湖南-金鹰纪实<br>
+  湖南-先锋乒羽<br>
+  辽宁-北方<br>
+  辽宁-都市<br>
+  辽宁-公共<br>
+  辽宁-教育.青少<br>
+  辽宁-经济<br>
+  辽宁-生活<br>
+  辽宁-体育<br>
+  辽宁-影视剧<br>
+  辽宁-北方导视<br>
+  辽宁-家庭理财<br>
+  辽宁-锦州新闻综合<br>
+  辽宁-新动漫<br>
+  山东-收藏天下<br>
+  山东-青岛中华美食<br>
+  陕西-西安教育电视台<br>
+  四川-峨眉电影<br>
+  天津-西青新闻综合<br>
+  新疆-石河子新闻综合<br>
+  澳门莲花<br>
+  华数-精彩影视<br>
+
+# 未收录(电视)
+  [河南-睛彩中原](http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8)<br>
+  [河南-移动戏曲](http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8)<br>
+

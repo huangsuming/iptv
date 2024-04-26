@@ -1,4 +1,6 @@
 # 直播源说明
+- 删除所有酒店源。
+- 删除地方台台标配置。
 ## 播放列表
 - 电视直播<br>
 [github](https://huangsuming.github.io/iptv/list/tvlist.txt)<br>
@@ -71,7 +73,10 @@
   hwrr.jx.chinamobile.com:8080<br>
   可用IP地址:端口<br>
   39.134.115.163:8080<br>
+  [2409:8087:3869:8021:1001::e5]:6610<br>
 - sn.txt:陕西移动(已失效)
+## 新媒体
+- ysp.txt:央视频(IP已失效)
 ## 地方传媒
 - dxhmt.txt:[河南大象融媒体](http://dxrm.hnr.cn/)<br>
   可用域名(端口):<br>
@@ -81,16 +86,23 @@
 - sxbctv.txt:[陕西秦岭云](http://www.sxbctv.com/)<br>
   可用节点:PLTV、TVOD<br>
   可用IP地址:<br>
+  43.141.130.33<br>
+  43.141.130.51<br>
   117.162.34.102<br>
   223.109.210.41<br>
 - voc.txt:[湖南华声在线](https://www.voc.com.cn/)
 - ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)<br>
   可用节点:PLTV<br>
 ## 数字电视
+- bestv.txt:[百视通](https://www.bestv.com.cn/)<br>
+  可用IP地址:<br>
+  58.42.59.104(贵州贵阳电信)<br>
+  183.195.235.162(上海移动)<br>
 - ysten::[易视腾](http://www.ysten.com/)<br>
   (1)ysten.v4.txt:易视腾IPv4(ID通用)<br>
   可用文件名:1.m3u8、index.m3u8、yst.m3u8<br>
   可用IP地址(端口):<br>
+  江西移动:<br>
   117.169.124.36:6610<br>
   117.169.124.37:6610<br>
   117.169.124.39:6610<br>
@@ -101,6 +113,7 @@
   117.169.124.46:6610<br>
   (2)ysten.v6.txt:易视腾IPv6<br>
   可用IP地址(端口):<br>
+  海南移动:<br>
   [2409:8087:5e00:24::1e]:6060<br>
 ## 酒店源(卡顿,不推荐)
 - 点量TV:<br>
@@ -123,7 +136,9 @@
   124.115.205.101:8888<br>
 - 智慧光迅:<br>
   59.44.192.82:65000<br>
+  59.55.35.90:20000
   111.11.98.205:9900<br>
+  117.44.39.232:20000
   183.11.239.36:808<br>
   183.196.25.171:808<br>
   gmxw.7766.org:808<br>
@@ -133,6 +148,13 @@
 - cfss.txt:[长风网络](https://cfss.cc/)<br>
 ## 采集来源<br>
    [博客园](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
+   [恩山无线](https://www.right.com.cn/)<br>
+   [聚玩盒子](https://juwanhezi.com/more/live)<br>
+   Github:<br>
+   - fanmingming: [ipv6](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u) [ipv6Plus](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6Plus.m3u)<br>
+   - Ftindy: [IPTV](https://github.com/Ftindy/IPTV-URL/blob/main/IPTV.m3u)<br>
+   - YanG-1989: [Gather](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)<br>
+   - YueChan: [IPTV](https://github.com/YueChan/Live/blob/main/IPTV.m3u)<br>
    [PotPlayer](https://www.potplay.net/zhiboyuan)<br>
    [Tvzb](https://www.tvzb.com/)<br>
 # 各省英文缩写
