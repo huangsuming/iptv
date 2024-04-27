@@ -63,7 +63,7 @@ http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV央视文化精品" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV央视文化精品.png" group-title="总台",CCTV央视文化精品
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV移动传媒" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV移动传媒.png" group-title="总台",CCTV移动传媒
+#EXTINF:-1 tvg-id="" tvg-name="CCTV移动传媒" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/" group-title="总台",CCTV移动传媒
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBN重温经典" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/" group-title="总台",CBN重温经典
 http://117.162.34.102/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8
@@ -219,12 +219,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" group-title="付费",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-id="" tvg-name="CHC梨园频道" group-title="付费",CHC梨园频道
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="CHC文物宝库" group-title="付费",CHC文物宝库
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-#EXTINF:-1 tvg-id="" tvg-name="CHC武术世界" group-title="付费",CHC武术世界
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV爱情喜剧" group-title="付费",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电视剧" group-title="付费",NewTV超级电视剧
@@ -716,6 +710,12 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41107/
 #EXTINF:-1 tvg-id="" tvg-name="长城铝综合" group-title="河南",长城铝综合
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41130/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="国学频道" group-title="河南",国学频道
+#EXTINF:-1 tvg-id="" tvg-name="梨园频道" group-title="河南",梨园频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="文物宝库" group-title="河南",文物宝库
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+#EXTINF:-1 tvg-id="" tvg-name="武术世界" group-title="河南",武术世界
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 http://59.44.192.82:65000/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="郑州新闻综合" group-title="河南",郑州新闻综合
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
