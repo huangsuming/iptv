@@ -82,7 +82,7 @@
   live.dxhmt.cn:9081<br>
   tvpull.dxhmt.cn<br>
   tvpull.dxhmt.cn:9081<br>
-- sxbctv.txt:[陕西秦岭云](http://www.sxbctv.com/)<br>
+- sxbctv.txt:(卡顿,不推荐)[陕西秦岭云](http://www.sxbctv.com/)<br>
   可用节点:PLTV、TVOD<br>
   可用IP地址:<br>
   43.141.130.33<br>
@@ -148,6 +148,8 @@
 ## 采集来源<br>
    [博客园](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
    [恩山无线](https://www.right.com.cn/)<br>
+   [广播迷](http://www.guangbomi.com/)<br>
+   [好趣网](http://tv.haoqu99.com/)<br>
    [聚玩盒子](https://juwanhezi.com/more/live)<br>
    Github:<br>
    - fanmingming: [ipv6](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u) [ipv6Plus](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6Plus.m3u)<br>

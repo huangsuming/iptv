@@ -65,14 +65,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV移动传媒" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV移动传媒.png" group-title="总台",CCTV移动传媒
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV1汉语文化" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CECTV1汉语文化.jpg" group-title="总台",CECTV1汉语文化
-http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV2国际旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CECTV2国际旅游.jpg" group-title="总台",CECTV2国际旅游
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV3国际教育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CECTV3国际教育.jpg" group-title="总台",CECTV3国际教育
-http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV4国际健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CECTV4国际健康.jpg" group-title="总台",CECTV4国际健康
-http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN重温经典" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/" group-title="总台",CBN重温经典
+http://117.162.34.102/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV1综合教育频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV1.png" group-title="总台",CETV1综合教育频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV2教育教学频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV2.png" group-title="总台",CETV2教育教学频道
@@ -84,7 +78,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV早期教育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV早期教育.png" group-title="总台",CETV早期教育
 http://gmxw.7766.org:808/hls/100/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CIBN书画频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CIBN书画频道.png" group-title="总台",CIBN书画频道
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
+http://211.103.180.178:8233/live_hls/hdmi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHTV百姓健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CHTV百姓健康.png" group-title="总台",CHTV百姓健康
 https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNC新华新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC中文台.png" group-title="总台",CNC新华新闻
@@ -101,8 +95,6 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41137/
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTTV环球旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/GTTV环球旅游.png" group-title="总台",GTTV环球旅游
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/" group-title="总台",重温经典
-http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CWTV-中国气象频道.png" group-title="总台",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中央新影.发现之旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CND-中央新影发现之旅.png" group-title="总台",中央新影.发现之旅
