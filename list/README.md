@@ -12,8 +12,8 @@
 [netlify](https://iptv-huangsuming.netlify.app/list/radio.txt)<br>
 [vercel](https://iptv-huangsuming.vercel.app/list/radio.txt)<br>
 - [托管平台](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
-- NSFW<br>
-  (1)[AdultIPTV](http://adultiptv.net/):<br>  [all](http://adultiptv.net/chs.m3u)<br>  [videos](http://adultiptv.net/videos.m3u8)<br>
+- NSFW:<br>
+  (1)[AdultIPTV](http://adultiptv.net/): [all](http://adultiptv.net/chs.m3u) [videos](http://adultiptv.net/videos.m3u8)<br>
 ## 移动
 - 0795.txt:江西宜春移动<br>
   可用节点:PLTV、TVOD<br>
@@ -73,9 +73,8 @@
   可用IP地址:端口<br>
   39.134.115.163:8080<br>
   [2409:8087:3869:8021:1001::e5]:6610<br>
-- sn.txt:陕西移动(已失效)
 ## 新媒体
-- ysp.txt:央视频(IP已失效)
+- ysp.txt:央视频<br>
 ## 地方传媒
 - dxhmt.txt:[河南大象融媒体](http://dxrm.hnr.cn/)<br>
   可用域名(端口):<br>
@@ -89,6 +88,7 @@
   43.141.130.51<br>
   117.162.34.102<br>
   223.109.210.41<br>
+  183.204.13.237/61.v.smtcdns.net<br>
 - voc.txt:[湖南华声在线](https://www.voc.com.cn/)
 - ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)<br>
   可用节点:PLTV<br>
@@ -97,7 +97,14 @@
   可用IP地址:<br>
   58.42.59.104(贵州贵阳电信)<br>
   183.195.235.162(上海移动)<br>
-- ysten::[易视腾](http://www.ysten.com/)<br>
+- otv:[亦非云](https://www.otvcloud.com/)
+  可用IP地址(端口):<br>
+  117.162.34.102/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com<br>
+  117.162.34.102/1301-tx.otvstream.otvcloud.com<br>
+  223.109.210.41/1301-tx.otvstream.otvcloud.com<br>
+  117.162.34.102/4309-tx.otvstream.otvcloud.com<br>
+  223.109.210.41/4309-tx.otvstream.otvcloud.com<br>
+- ysten:[易视腾](http://www.ysten.com/)<br>
   (1)ysten.v4.txt:易视腾IPv4(ID通用)<br>
   可用文件名:1.m3u8、index.m3u8、yst.m3u8<br>
   可用IP地址(端口):<br>

@@ -1,8 +1,4 @@
 #EXTm3u8
-#EXTINF:-1 ,CCTV4中文国际.美洲
-http://gmxw.7766.org:808/hls/71/index.m3u8
-#EXTINF:-1 ,CCTV4中文国际.欧洲
-http://gmxw.7766.org:808/hls/67/index.m3u8
 #EXTINF:-1 ,CRTV1兰铁TV
 http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 ,CRTV2人民铁道
@@ -131,6 +127,8 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 #EXTINF:-1 ,浙江永嘉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyongjia2/720p.m3u8
+#EXTINF:-1 ,凤凰香港
+http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 ,香港凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 ,香港凤凰资讯
