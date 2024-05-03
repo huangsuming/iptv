@@ -28,6 +28,9 @@
   [2409:8087:5e01:34::22]:6610<br>
   [2409:8087:5e01:34::23]:6610<br>
   [2409:8087:5e01:34::38]:6610<br>
+- hb.txt:湖北中兴平台IPv6<br>
+  可用IP地址:端口<br>
+  [2409:8087:4c0a:22:1::11]:6410<br>
 - hl.txt:黑龙江移动(ID通用)<br>
   可用节点:PLTV、TVOD<br>
   可用域名:<br>
@@ -73,22 +76,12 @@
   可用IP地址:端口<br>
   39.134.115.163:8080<br>
   [2409:8087:3869:8021:1001::e5]:6610<br>
-## 新媒体
-- ysp.txt:央视频<br>
 ## 地方传媒
 - dxhmt.txt:[河南大象融媒体](http://dxrm.hnr.cn/)<br>
   可用域名(端口):<br>
   live.dxhmt.cn:9081<br>
   tvpull.dxhmt.cn<br>
   tvpull.dxhmt.cn:9081<br>
-- sxbctv.txt:(卡顿,不推荐)[陕西秦岭云](http://www.sxbctv.com/)<br>
-  可用节点:PLTV、TVOD<br>
-  可用IP地址:<br>
-  43.141.130.33<br>
-  43.141.130.51<br>
-  117.162.34.102<br>
-  223.109.210.41<br>
-  183.204.13.237/61.v.smtcdns.net<br>
 - voc.txt:[湖南华声在线](https://www.voc.com.cn/)
 - ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)<br>
   可用节点:PLTV<br>
@@ -97,13 +90,6 @@
   可用IP地址:<br>
   58.42.59.104(贵州贵阳电信)<br>
   183.195.235.162(上海移动)<br>
-- otv:[亦非云](https://www.otvcloud.com/)
-  可用IP地址(端口):<br>
-  117.162.34.102/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com<br>
-  117.162.34.102/1301-tx.otvstream.otvcloud.com<br>
-  223.109.210.41/1301-tx.otvstream.otvcloud.com<br>
-  117.162.34.102/4309-tx.otvstream.otvcloud.com<br>
-  223.109.210.41/4309-tx.otvstream.otvcloud.com<br>
 - ysten:[易视腾](http://www.ysten.com/)<br>
   (1)ysten.v4.txt:易视腾IPv4(ID通用)<br>
   可用文件名:1.m3u8、index.m3u8、yst.m3u8<br>
@@ -152,6 +138,23 @@
   laos.txt:老挝<br>
 ## 代理源
 - cfss.txt:[长风网络](https://cfss.cc/)<br>
+- smt.txt:smtcdns<br>
+  (1)otv:[亦非云](https://www.otvcloud.com/)<br>
+  可用IP地址(端口):<br>
+  117.162.34.102/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com<br>
+  117.162.34.102/1301-tx.otvstream.otvcloud.com<br>
+  223.109.210.41/1301-tx.otvstream.otvcloud.com<br>
+  117.162.34.102/4309-tx.otvstream.otvcloud.com<br>
+  223.109.210.41/4309-tx.otvstream.otvcloud.com<br>
+  (2)sn:(卡顿,不推荐)[陕西秦岭云](http://www.sxbctv.com/)<br>
+  可用节点:PLTV、TVOD<br>
+  可用IP地址:<br>
+  43.141.130.33<br>
+  43.141.130.51<br>
+  117.162.34.102<br>
+  223.109.210.41<br>
+  183.204.13.237/61.v.smtcdns.net<br>
+  (3)ysp.txt:央视频<br>
 ## 采集来源<br>
    [博客园](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
    [恩山无线](https://www.right.com.cn/)<br>
