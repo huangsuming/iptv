@@ -136,17 +136,13 @@
   gmxw.7766.org:808<br>
 ## 境外源<br>
   laos.txt:老挝<br>
+## 黑名单
+- 百视通:live.bestvcdn.com.cn<br>
+- 魔百盒:ott.mobaibox.com<br>
 ## 代理源
 - cfss.txt:[长风网络](https://cfss.cc/)<br>
 - smt.txt:smtcdns<br>
-  (1)otv:[亦非云](https://www.otvcloud.com/)<br>
-  可用IP地址(端口):<br>
-  117.162.34.102/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com<br>
-  117.162.34.102/1301-tx.otvstream.otvcloud.com<br>
-  223.109.210.41/1301-tx.otvstream.otvcloud.com<br>
-  117.162.34.102/4309-tx.otvstream.otvcloud.com<br>
-  223.109.210.41/4309-tx.otvstream.otvcloud.com<br>
-  (2)sn:(卡顿,不推荐)[陕西秦岭云](http://www.sxbctv.com/)<br>
+  (1))sn:(卡顿,不推荐)[陕西秦岭云](http://www.sxbctv.com/)<br>
   可用节点:PLTV、TVOD<br>
   可用IP地址:<br>
   43.141.130.33<br>
@@ -154,7 +150,7 @@
   117.162.34.102<br>
   223.109.210.41<br>
   183.204.13.237/61.v.smtcdns.net<br>
-  (3)ysp.txt:央视频<br>
+  (2)ysp.txt:央视频<br>
 ## 采集来源<br>
    [博客园](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
    [恩山无线](https://www.right.com.cn/)<br>

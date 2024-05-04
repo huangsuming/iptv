@@ -131,10 +131,10 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyongjia2/720p.m3u8
 #EXTINF:-1 ,凤凰香港
 http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 ,香港凤凰中文
+#EXTINF:-1 ,凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,香港凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://hikvision.city:880/fhzx.m3u8
 #EXTINF:-1 ,Love Nature 4K(3840x2160)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
