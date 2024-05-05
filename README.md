@@ -12,14 +12,3 @@
 # 未收录(电视)
   [河南-睛彩中原](http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8)<br>
   [河南-移动戏曲](http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8)<br>
-  法治天地<br>
-  ICS外语<br>
-  上海教育<br>
-  金色学堂<br>
-  劲爆体育<br>
-  乐游<br>
-  魅力足球<br>
-  七彩戏剧<br>
-  生活时尚<br>
-  新视觉<br>
-  游戏风云<br>
