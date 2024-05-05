@@ -177,7 +177,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" group-title="付费",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" group-title="付费",CHC高清电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影" group-title="付费",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" group-title="付费",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
@@ -321,12 +321,18 @@ http://wb.jxgztv.com/live/gztv1.m3u8
 http://wb.jxgztv.com/live/gztv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="赣州教育" group-title="江西",赣州教育
 http://wb.jxgztv.com/live/gztv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共" group-title="安徽",安徽公共
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际" group-title="安徽",安徽国际
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" group-title="安徽",安徽经济生活
-http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽农业科教" group-title="安徽",安徽农业科教
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽影视" group-title="安徽",安徽影视
-http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" group-title="安徽",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="池州新闻综合" group-title="安徽",池州新闻综合
 http://wjsp.chiznews.com:8037/live/xwzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="池州文教生活" group-title="安徽",池州文教生活
@@ -484,7 +490,7 @@ https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南宁公共" group-title="广西",南宁公共
 https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南宁文旅生活" group-title="广西",南宁文旅生活
-http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南宁影视娱乐" group-title="广西",南宁影视娱乐
 https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南宁慢直播" group-title="广西",南宁慢直播
@@ -1562,41 +1568,23 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43045/
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" group-title="上海",都市剧场
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43085/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="法治天地" group-title="上海",法治天地
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/fztd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" group-title="上海",哈哈炫动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="欢笑剧场4K" group-title="上海",欢笑剧场4K
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ICS外语" group-title="上海",ICS外语
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/icshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实人文" group-title="上海",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海教育" group-title="上海",上海教育
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/setvhd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="金色学堂" group-title="上海",金色学堂
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/jingsepd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" group-title="上海",劲爆体育
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="乐游" group-title="上海",乐游
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" group-title="上海",魅力足球
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" group-title="上海",七彩戏剧
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="生活时尚" group-title="上海",生活时尚
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/shss8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" group-title="上海",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007
-#EXTINF:-1 tvg-id="" tvg-name="新视觉" group-title="上海",新视觉
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="游戏风云" group-title="上海",游戏风云
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/yxfy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金山" group-title="上海",金山
 http://livejs1.newsjs.net/jspd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="德阳新闻综合" group-title="四川",德阳新闻综合
 http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广安公共" group-title="四川",广安公共
+#EXTINF:-1 tvg-id="" tvg-name="德阳文旅科教" group-title="四川",德阳文旅科教
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广安新闻综合" group-title="四川",广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广安文旅乡村" group-title="四川",广安文旅乡村
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="乐至综合" group-title="四川",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8

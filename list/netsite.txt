@@ -6,8 +6,6 @@ http://tvbox.netsite.cc/proxy/1017241472/1017241472.m3u8
 http://tvbox.netsite.cc/proxy/1048559039/1048559039.m3u8
 #EXTINF:-1 ,镇江新闻综合频道
 http://tvbox.netsite.cc/proxy/1052067340/1052067340.m3u8
-#EXTINF:-1 ,云南卫视
-http://tvbox.netsite.cc/proxy/1057712184/1057712184.m3u8
 #EXTINF:-1 ,湖南经视
 http://tvbox.netsite.cc/proxy/1075467511/1075467511.m3u8
 #EXTINF:-1 ,浙江卫视
@@ -18,8 +16,6 @@ http://tvbox.netsite.cc/proxy/1097047630/1097047630.m3u8
 http://tvbox.netsite.cc/proxy/1114625252/1114625252.m3u8
 #EXTINF:-1 ,湖南都市
 http://tvbox.netsite.cc/proxy/1116439121/1116439121.m3u8
-#EXTINF:-1 ,陕西卫视
-http://tvbox.netsite.cc/proxy/1142191527/1142191527.m3u8
 #EXTINF:-1 ,青海卫视
 http://tvbox.netsite.cc/proxy/1152127449/1152127449.m3u8
 #EXTINF:-1 ,CCTV-12
@@ -118,8 +114,6 @@ http://tvbox.netsite.cc/proxy/1767807342/1767807342.m3u8
 http://tvbox.netsite.cc/proxy/1768394281/1768394281.m3u8
 #EXTINF:-1 ,先锋乒羽
 http://tvbox.netsite.cc/proxy/1789306185/1789306185.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://tvbox.netsite.cc/proxy/1791768022/1791768022.m3u8
 #EXTINF:-1 ,CCTV-7
 http://tvbox.netsite.cc/proxy/1797993240/1797993240.m3u8
 #EXTINF:-1 ,上海新闻综合
