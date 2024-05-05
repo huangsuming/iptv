@@ -347,22 +347,6 @@ http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宿州科教频道" group-title="安徽",宿州科教频道
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="肥西新闻综合" group-title="安徽",肥西新闻综合
-http://stream.ahwanyun.cn/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="霍邱新闻综合" group-title="安徽",霍邱新闻综合
-http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="歙县综合" group-title="安徽",歙县综合
-http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宿松新闻综合" group-title="安徽",宿松新闻综合
-http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="濉溪综合" group-title="安徽",濉溪综合
-http://112.30.194.221:20080/live/7f6926bc79174b03a212fe2aad0b62b6/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="濉溪经济生活" group-title="安徽",濉溪经济生活
-http://112.30.194.221:20080/live/b4bd9bfcda3b467d8f358db687750226/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="屯溪融媒" group-title="安徽",屯溪融媒
-http://112.30.194.221:20080/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="岳西新闻综合" group-title="安徽",岳西新闻综合
-http://stream.ahwanyun.cn/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="固镇综合" group-title="安徽",固镇综合
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="固镇影视" group-title="安徽",固镇影视
@@ -475,6 +459,8 @@ http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
 http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="汕头综合" group-title="广东",汕头综合
 https://sttv-tsl.cutv.com/lKGXIQa/p4sgKgX.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="韶关新闻综合" group-title="广东",韶关新闻综合
+https://livesec.mudu.tv/watch/3h4kba.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" group-title="广东",深圳龙岗
 http://liveplay.sznews.com/66_showto_live/2647.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳众创TV" group-title="广东",深圳众创TV
@@ -1068,6 +1054,8 @@ http://183.204.13.237/61.v.smtcdns.net/4309-tx.otvstream.otvcloud.com/otv/skcc/l
 http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" group-title="湖南",快乐垂钓
 http://tvbox.netsite.cc/proxy/316113716/316113716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="先锋乒羽" group-title="湖南",先锋乒羽
+http://tvbox.netsite.cc/proxy/1789306185/1789306185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="长沙新闻综合" group-title="湖南",长沙新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湘潭新闻综合" group-title="湖南",湘潭新闻综合
@@ -1606,10 +1594,22 @@ http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/xsjhd
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/yxfy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金山" group-title="上海",金山
 http://livejs1.newsjs.net/jspd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="德阳新闻综合" group-title="四川",德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广安公共" group-title="四川",广安公共
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="乐至综合" group-title="四川",乐至综合
+http://175.155.106.72:89/live1/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="眉山综合" group-title="四川",眉山综合
 https://live1.scmstv.cn/gqpd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="蓬安新闻综合" group-title="四川",蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="松潘新闻综合" group-title="四川",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="万源新闻综合" group-title="四川",万源新闻综合
 http://live.wanyuannews.com/wytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="汶川新闻综合" group-title="四川",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宝坻新闻综合" group-title="天津",宝坻新闻综合
 https://player4.juyun.tv/tv/143100176.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津滨海1" group-title="天津",天津滨海1
