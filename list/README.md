@@ -13,7 +13,7 @@
 [vercel](https://iptv-huangsuming.vercel.app/list/radio.txt)<br>
 - [托管平台](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
 - NSFW:<br>
-  (1)[AdultIPTV](http://adultiptv.net/): [all](http://adultiptv.net/chs.m3u) [videos](http://adultiptv.net/videos.m3u8)<br>
+  [AdultIPTV](http://adultiptv.net/): [all](http://adultiptv.net/chs.m3u) [videos](http://adultiptv.net/videos.m3u8)<br>
 ## 移动
 - 0795.txt:江西宜春移动<br>
   可用节点:PLTV、TVOD<br>
@@ -86,10 +86,6 @@
 - ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)<br>
   可用节点:PLTV<br>
 ## 数字电视
-- bestv.txt:[百视通](https://www.bestv.com.cn/)<br>
-  可用IP地址:<br>
-  58.42.59.104(贵州贵阳电信)<br>
-  183.195.235.162(上海移动)<br>
 - ysten:[易视腾](http://www.ysten.com/)<br>
   (1)ysten.v4.txt:易视腾IPv4(ID通用)<br>
   可用文件名:1.m3u8、index.m3u8、yst.m3u8<br>
@@ -140,17 +136,7 @@
 - 百视通:live.bestvcdn.com.cn<br>
 - 魔百盒:ott.mobaibox.com<br>
 ## 代理源
-- cfss.txt:[长风网络](https://cfss.cc/)<br>
 - smt.txt:smtcdns<br>
-  (1))sn:(卡顿,不推荐)[陕西秦岭云](http://www.sxbctv.com/)<br>
-  可用节点:PLTV、TVOD<br>
-  可用IP地址:<br>
-  43.141.130.33<br>
-  43.141.130.51<br>
-  117.162.34.102<br>
-  223.109.210.41<br>
-  183.204.13.237/61.v.smtcdns.net<br>
-  (2)ysp.txt:央视频<br>
 ## 采集来源<br>
    [博客园](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
    [恩山无线](https://www.right.com.cn/)<br>
