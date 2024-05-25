@@ -142,7 +142,7 @@
    [广播迷](http://www.guangbomi.com/)<br>
    [好趣网](http://tv.haoqu99.com/)<br>
    [聚玩盒子](https://juwanhezi.com/more/live)<br>
-   搜索引擎:[tonkiang](http://tonkiang.us/)<br>
+   搜索引擎:[tonkiang](http://tonkiang.us/)[epg.pw(搜索测试频道直播流)](https://epg.pw/)<br>
    Github:<br>
    - fanmingming: [ipv6](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u) [ipv6Plus](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6Plus.m3u)<br>
    - Ftindy: [IPTV](https://github.com/Ftindy/IPTV-URL/blob/main/IPTV.m3u)<br>

@@ -42,29 +42,29 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV17.png" group-title="总台",CCTV17农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV兵器科技.png" group-title="总台",CCTV兵器科技
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226723/index.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV第一剧场.png" group-title="总台",CCTV第一剧场
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV电视指南.png" group-title="总台",CCTV电视指南
 http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云剧场.png" group-title="总台",CCTV风云剧场
 http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 #EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云音乐.png" group-title="总台",CCTV风云音乐
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226713/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云足球.png" group-title="总台",CCTV风云足球
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV高尔夫网球.png" group-title="总台",CCTV高尔夫网球
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV怀旧剧场.png" group-title="总台",CCTV怀旧剧场
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226710/index.m3u8
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV女性时尚.png" group-title="总台",CCTV女性时尚
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV世界地理.png" group-title="总台",CCTV世界地理
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8
 #EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV卫生健康.png" group-title="总台",CCTV卫生健康
 http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV央视台球.png" group-title="总台",CCTV央视台球
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
 #EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV央视文化精品.png" group-title="总台",CCTV央视文化精品
 http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 #EXTINF:-1 tvg-name="CETV1综合教育频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV1.png" group-title="总台",CETV1综合教育频道
@@ -1423,14 +1423,26 @@ https://xatv-yd1.xiancity.cn/live/7/index.m3u8
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005
 #EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
 http://tvbox.netsite.cc/proxy/1946402424/1946402424.m3u8
+#EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090
 #EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013
 #EXTINF:-1 tvg-name="都市" group-title="上海",都市
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012
+#EXTINF:-1 tvg-name="法治天地" group-title="上海",法治天地
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="上海",哈哈炫动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="ICS外语" group-title="上海",ICS外语
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001
 #EXTINF:-1 tvg-name="纪实人文" group-title="上海",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" group-title="上海",劲爆体育
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008
+#EXTINF:-1 tvg-name="乐游" group-title="上海",乐游
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092
+#EXTINF:-1 tvg-name="七彩戏剧" group-title="上海",七彩戏剧
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010
 #EXTINF:-1 tvg-name="五星体育" group-title="上海",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007
 #EXTINF:-1 tvg-name="金山" group-title="上海",金山
