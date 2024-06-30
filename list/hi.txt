@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 ,海南卫视
+https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
+#EXTINF:-1 ,三沙卫视
+https://live3.hnntv.cn/srs/tv/ssws.m3u8
+#EXTINF:-1 ,海南新闻
+https://live3.hnntv.cn/srs/tv/xwpd.m3u8
+#EXTINF:-1 ,海南少儿
+https://live3.hnntv.cn/srs/tv/sepd.m3u8
+#EXTINF:-1 ,海南文旅
+https://live3.hnntv.cn/srs/tv/wlpd.m3u8
+#EXTINF:-1 ,海南公共
+https://live3.hnntv.cn/srs/tv/ggpd.m3u8
+#EXTINF:-1 ,海南自贸
+https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 #EXTINF:-1 ,海南自贸
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
 #EXTINF:-1 ,海南公共
