@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="" group-title="总台",CBN重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="CCTV 4K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV1.png" group-title="总台",CCTV1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV2.png" group-title="总台",CCTV2财经
@@ -299,14 +299,22 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西少儿频道" group-title="江西",江西少儿频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西移动" group-title="江西",江西移动
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?t=t&token=t
 #EXTINF:-1 tvg-name="江西影视旅游" group-title="江西",江西影视旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="陶瓷频道" group-title="江西",陶瓷频道
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?t=t&token=t
+#EXTINF:-1 tvg-name="抚州.广昌综合" group-title="江西",抚州.广昌综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
 #EXTINF:-1 tvg-name="赣州新闻综合" group-title="江西",赣州新闻综合
 http://wb.jxgztv.com/live/gztv1.m3u8
 #EXTINF:-1 tvg-name="赣州公共" group-title="江西",赣州公共
 http://wb.jxgztv.com/live/gztv2.m3u8
 #EXTINF:-1 tvg-name="赣州教育" group-title="江西",赣州教育
 http://wb.jxgztv.com/live/gztv3.m3u8
+#EXTINF:-1 tvg-name="赣州.宁都综合" group-title="江西",赣州.宁都综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
 #EXTINF:-1 tvg-name="吉安.井冈山综合" group-title="江西",吉安.井冈山综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 #EXTINF:-1 tvg-name="九江新闻综合频道" group-title="江西",九江新闻综合频道
@@ -325,12 +333,26 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
 #EXTINF:-1 tvg-name="九江.永修一套" group-title="江西",九江.永修一套
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
+#EXTINF:-1 tvg-name="九江.修水新闻综合" group-title="江西",九江.修水新闻综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8
+#EXTINF:-1 tvg-name="萍乡新闻综合" group-title="江西",萍乡新闻综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+#EXTINF:-1 tvg-name="萍乡公共" group-title="江西",萍乡公共
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 #EXTINF:-1 tvg-name="上饶综合" group-title="江西",上饶综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
 #EXTINF:-1 tvg-name="上饶经济" group-title="江西",上饶经济
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
+#EXTINF:-1 tvg-name="上饶.广丰综合" group-title="江西",上饶.广丰综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangfeng.m3u8
+#EXTINF:-1 tvg-name="上饶.铅山电视台" group-title="江西",上饶.铅山电视台
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yanshan.m3u8
+#EXTINF:-1 tvg-name="上饶.余干综合" group-title="江西",上饶.余干综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 #EXTINF:-1 tvg-name="新余.分宜综合" group-title="江西",新余.分宜综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+#EXTINF:-1 tvg-name="宜春.铜鼓综合" group-title="江西",宜春.铜鼓综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
 #EXTINF:-1 tvg-name="宜春.万载综合" group-title="江西",宜春.万载综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
 #EXTINF:-1 tvg-name="安庆.潜山综合" group-title="安徽",安庆.潜山综合
@@ -407,6 +429,8 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://stream.lyxltv.com/xltv/sd/live.m3u8
 #EXTINF:-1 tvg-name="三明1台" group-title="福建",三明1台
 http://stream.smntv.cn/smtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="漳州.云霄综合" group-title="福建",漳州.云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 #EXTINF:-1 tvg-name="甘肃都市" group-title="甘肃",甘肃都市
 https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-name="甘肃公共应急" group-title="甘肃",甘肃公共应急
