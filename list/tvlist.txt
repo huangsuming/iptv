@@ -40,29 +40,29 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV17.png" group-title="总台",CCTV17农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV兵器科技.png" group-title="总台",CCTV兵器科技
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226723/index.m3u8
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV第一剧场.png" group-title="总台",CCTV第一剧场
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV电视指南.png" group-title="总台",CCTV电视指南
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226717/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078586a829/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云剧场.png" group-title="总台",CCTV风云剧场
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
 #EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云音乐.png" group-title="总台",CCTV风云音乐
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226713/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807810519fb/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云足球.png" group-title="总台",CCTV风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV高尔夫网球.png" group-title="总台",CCTV高尔夫网球
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226742/index.m3u8
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV怀旧剧场.png" group-title="总台",CCTV怀旧剧场
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226710/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380783f9a29a/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV女性时尚.png" group-title="总台",CCTV女性时尚
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226730/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078715ba68/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV世界地理.png" group-title="总台",CCTV世界地理
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
 #EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV卫生健康.png" group-title="总台",CCTV卫生健康
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV央视台球.png" group-title="总台",CCTV央视台球
-http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
 #EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV央视文化精品.png" group-title="总台",CCTV央视文化精品
 http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 #EXTINF:-1 tvg-name="CETV1综合教育频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV1.png" group-title="总台",CETV1综合教育频道
@@ -1537,6 +1537,10 @@ https://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
 http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
 #EXTINF:-1 tvg-name="石河子新闻综合" group-title="新疆",石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-name="伊犁.伊宁一台" group-title="新疆",伊犁.伊宁一台
+http://222.81.52.40:9898/out_1/index.m3u8
+#EXTINF:-1 tvg-name="伊犁.伊宁二台" group-title="新疆",伊犁.伊宁二台
+http://222.81.52.40:9898/out_2/index.m3u8
 #EXTINF:-1 tvg-name="大理.宾川县广播电视台" group-title="云南",大理.宾川县广播电视台
 http://live.bcrmtzx.com/tv01/playlist.m3u8
 #EXTINF:-1 tvg-name="德宏文旅" group-title="云南",德宏文旅
