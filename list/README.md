@@ -124,10 +124,10 @@
   124.115.205.101:8888<br>
 - 智慧光迅:<br>
   59.44.192.82:65000<br>
-  59.55.35.90:20000
+  59.55.35.90:20000<br>
   111.11.98.205:9900<br>
   113.64.145.229:8081<br>
-  117.44.39.232:20000
+  117.44.39.232:20000<br>
   183.11.239.36:808<br>
   183.196.25.171:808<br>
   gmxw.7766.org:808<br>
@@ -142,6 +142,7 @@
    [广播迷](http://www.guangbomi.com/)<br>
    [好趣网](http://tv.haoqu99.com/)<br>
    [聚玩盒子](https://juwanhezi.com/more/live)<br>
+   [Tvzb](https://www.tvzb.com/)<br>
    搜索引擎:[tonkiang](http://tonkiang.us/)<br>
    测试频道直播流:[epg.pw](https://epg.pw/)<br>
    Github:<br>
@@ -150,7 +151,6 @@
    - YanG-1989: [Gather](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)<br>
    - YueChan: [IPTV](https://github.com/YueChan/Live/blob/main/IPTV.m3u)<br>
    [PotPlayer](https://www.potplay.net/zhiboyuan)<br>
-   [Tvzb](https://www.tvzb.com/)<br>
 # 各省英文缩写
    省份		         拼音缩写<br>
    安徽省		 AH<br>
