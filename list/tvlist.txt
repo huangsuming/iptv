@@ -40,31 +40,31 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV17.png" group-title="总台",CCTV17农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV兵器科技.png" group-title="总台",CCTV兵器科技
-http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221226321/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV第一剧场.png" group-title="总台",CCTV第一剧场
-http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221226284/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV电视指南.png" group-title="总台",CCTV电视指南
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078586a829/index.m3u8?m3u8_level=2
+http://39.135.140.104:6610/PLTV/88888888/224/3221226359/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云剧场.png" group-title="总台",CCTV风云剧场
-http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221226315/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云音乐.png" group-title="总台",CCTV风云音乐
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807810519fb/index.m3u8?m3u8_level=2
+http://39.135.140.104:6610/PLTV/88888888/224/3221226287/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV风云足球.png" group-title="总台",CCTV风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
+http://39.135.140.104:6610/PLTV/88888888/224/3221226302/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV高尔夫网球.png" group-title="总台",CCTV高尔夫网球
-http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221226299/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV怀旧剧场.png" group-title="总台",CCTV怀旧剧场
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380783f9a29a/index.m3u8?m3u8_level=2
+http://39.135.140.104:6610/PLTV/88888888/224/3221226318/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV女性时尚.png" group-title="总台",CCTV女性时尚
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078715ba68/index.m3u8?m3u8_level=2
+http://39.135.140.104:6610/PLTV/88888888/224/3221226293/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV世界地理.png" group-title="总台",CCTV世界地理
-http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221226290/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV卫生健康.png" group-title="总台",CCTV卫生健康
-http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
+http://60.221.17.67/outlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV央视台球.png" group-title="总台",CCTV央视台球
-http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221226339/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV央视文化精品.png" group-title="总台",CCTV央视文化精品
-http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221226296/2/index.m3u8
 #EXTINF:-1 tvg-name="CETV1综合教育频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV1.png" group-title="总台",CETV1综合教育频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="CETV2教育教学频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV2.png" group-title="总台",CETV2教育教学频道
@@ -441,6 +441,16 @@ https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-name="甘肃文化影视" group-title="甘肃",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+#EXTINF:-1,tvg-name="定西综合" group-title="甘肃",定西综合
+https://play.kankanlive.com/live/1707969054968992.m3u8
+#EXTINF:-1,tvg-name="定西文旅生活" group-title="甘肃",定西文旅生活
+https://play.kankanlive.com/live/1707482307440963.m3u8
+#EXTINF:-1,tvg-name="陇南综合" group-title="甘肃",陇南综合
+https://play.kankanlive.com/live/1709171819929902.m3u8
+#EXTINF:-1,tvg-name="陇南公共" group-title="甘肃",陇南公共
+https://play.kankanlive.com/live/1709171893138901.m3u8
+#EXTINF:-1,tvg-name="陇南.武都综合" group-title="甘肃",陇南.武都综合
+http://play.kankanlive.com/live/1703747194431958.m3u8
 #EXTINF:-1 tvg-name="GRTN-健康频道" group-title="广东",GRTN-健康频道
 http://glive.grtn.cn/live/health.m3u8
 #EXTINF:-1 tvg-name="GRTN-纪录片" group-title="广东",GRTN-纪录片
@@ -559,6 +569,8 @@ http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 #EXTINF:-1 tvg-name="石家庄娱乐" group-title="河北",石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+#EXTINF:-1,tvg-name="石家庄.高邑综合" group-title="河北",石家庄.高邑综合
+https://jwcdnqx.hebyun.com.cn/live/gaoyiyitao/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="石家庄.鹿泉综合" group-title="河北",石家庄.鹿泉综合
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="石家庄.鹿泉2台" group-title="河北",石家庄.鹿泉2台
@@ -603,6 +615,8 @@ https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北",邯郸科技教育
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1,tvg-name="衡水.饶阳" group-title="河北",衡水.饶阳
+http://hbry.chinashadt.com:1938/live/1004.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="廊坊.霸州新闻" group-title="河北",廊坊.霸州新闻
 http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="秦皇岛.昌黎综合" group-title="河北",秦皇岛.昌黎综合
@@ -1506,11 +1520,9 @@ https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u
 #EXTINF:-1 tvg-name="宝坻新闻综合" group-title="天津",宝坻新闻综合
 https://player4.juyun.tv/tv/143100176.m3u8
 #EXTINF:-1 tvg-name="天津滨海1" group-title="天津",天津滨海1
-http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
+http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-name="天津滨海2" group-title="天津",天津滨海2
-http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="天津滨海3" group-title="天津",天津滨海3
-http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
 #EXTINF:-1 tvg-name="天津武清" group-title="天津",天津武清
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 #EXTINF:-1 tvg-name="天津西青" group-title="天津",天津西青
