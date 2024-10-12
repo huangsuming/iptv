@@ -148,9 +148,9 @@
    Github:<br>
    - fanmingming: [ipv6](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)<br>
    - Ftindy: [IPTV](https://github.com/Ftindy/IPTV-URL/blob/main/IPTV.m3u)<br>
+   - suxuang: [myIPTV](https://github.com/suxuang/myIPTV/blob/main/ipv6.m3u)<br>
    - YanG-1989: [Gather](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)<br>
    - YueChan: [IPTV](https://github.com/YueChan/Live/blob/main/IPTV.m3u)<br>
-   [PotPlayer](https://www.potplay.net/zhiboyuan)<br>
 # 各省英文缩写
    省份		         拼音缩写<br>
    安徽省		 AH<br>
