@@ -1,5 +1,5 @@
 软件资源推荐:<br>
-# MIUITV桌面优化方法:
+# MIUITV
 - ADB<br>
   [Termux](https://termux.dev/cn/)<br>
   (1)更新apt:apt update && apt upgrade<br>
