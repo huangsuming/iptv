@@ -825,6 +825,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5015828848322021526/index.m3u8?
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6306119848317438256/index.m3u8?channel-id=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=3$2M%20SD
 #EXTINF:-1 tvg-name="湖南娱乐" group-title="湖南",湖南娱乐
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3$2M%20SD
+#EXTINF:-1 tvg-name="茶频道" group-title="湖南",茶频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3$FHD
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="湖南",金鹰纪实
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="湖南",金鹰卡通
