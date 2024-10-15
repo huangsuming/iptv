@@ -15,19 +15,6 @@
 - NSFW:<br>
   [AdultIPTV](http://adultiptv.net/): [all](http://adultiptv.net/chs.m3u) [videos](http://adultiptv.net/videos.m3u8)<br>
 ## 移动
-- 0795.txt:江西宜春移动<br>
-  可用节点:PLTV、TVOD<br>
-  可用IP地址:端口<br>
-  39.135.138.59:18890<br>
-- hi.txt:海南移动IPv6(ID通用)<br>
-  可用节点:ZTE_CMS<br>
-  可用IP地址:端口<br>
-  [2409:8087:5e00:24::1f]:6060<br>
-  [2409:8087:5e01:34::20]:6610<br>
-  [2409:8087:5e01:34::21]:6610<br>
-  [2409:8087:5e01:34::22]:6610<br>
-  [2409:8087:5e01:34::23]:6610<br>
-  [2409:8087:5e01:34::38]:6610<br>
 - hl.txt:黑龙江移动(ID通用)<br>
   可用节点:PLTV、TVOD<br>
   可用域名:<br>
@@ -45,27 +32,6 @@
   [2409:8087:1a0b:df::4013]<br>
   [2409:8087:1a0b:df::4017]<br>
   [2409:8087:1a0b:df::4020]<br>
-- hlv4.txt:黑龙江移动IPv4(ID通用)<br>
-  可用节点:PLTV、TVOD<br>
-  可用IP地址:<br>
-  39.134.65.141<br>
-  39.134.65.149<br>
-  39.134.65.164<br>
-  39.134.65.166<br>
-  39.134.65.173<br>
-  39.134.65.175<br>
-  39.134.65.177<br>
-  39.134.65.179<br>
-  39.134.65.181<br>
-  39.134.65.183<br>
-  39.134.65.208<br>
-  39.134.66.110<br>
-  39.134.66.2<br>
-  39.134.66.46<br>
-  39.134.66.48<br>
-  39.134.66.66<br>
-  39.134.67.108<br>
-  39.134.67.226<br>
 - js.txt:江苏移动<br>
   可用IP地址:<br>
   (1)js1:<br>
@@ -87,9 +53,8 @@
   live.dxhmt.cn:9081<br>
   tvpull.dxhmt.cn<br>
   tvpull.dxhmt.cn:9081<br>
+- jxntv.txt:[江西今视频](https://m.yun.jxntv.cn/)
 - voc.txt:[湖南华声在线](https://www.voc.com.cn/)
-- ylrb.txt:[陕西榆林传媒中心](https://ylrb.com/)<br>
-  可用节点:PLTV<br>
 ## 数字电视
 - ysten:[易视腾](http://www.ysten.com/)<br>
   (1)ysten.v4.txt:易视腾IPv4(ID通用)<br>
@@ -136,8 +101,6 @@
   183.11.239.36:808<br>
   183.196.25.171:808<br>
   gmxw.7766.org:808<br>
-## 境外源<br>
-  laos.txt:老挝<br>
 ## 黑名单
 - 百视通:live.bestvcdn.com.cn<br>
 - 魔百盒:ott.mobaibox.com<br>
@@ -152,10 +115,7 @@
    测试频道直播流:[epg.pw](https://epg.pw/)<br>
    Github:<br>
    - fanmingming: [ipv6](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)<br>
-   - Ftindy: [IPTV](https://github.com/Ftindy/IPTV-URL/blob/main/IPTV.m3u)<br>
    - suxuang: [myIPTV](https://github.com/suxuang/myIPTV/blob/main/ipv6.m3u)<br>
-   - YanG-1989: [Gather](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)<br>
-   - YueChan: [IPTV](https://github.com/YueChan/Live/blob/main/IPTV.m3u)<br>
 # 各省英文缩写
    省份		         拼音缩写<br>
    安徽省		 AH<br>

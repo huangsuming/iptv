@@ -91,7 +91,7 @@ http://117.169.124.43:6610/ysten-businessmobile/live/sichuanstv/yst.m3u8
 http://117.169.124.43:6610/ysten-businessmobile/live/xinjiangstv/yst.m3u8
 #EXTINF:-1 ,云南卫视
 http://117.169.124.43:6610/ysten-businessmobile/live/yunnanstv/yst.m3u8
-#EXTINF:-1 ,炫动卡通
+#EXTINF:-1 ,哈哈炫动
 http://117.169.124.43:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
 #EXTINF:-1 ,卡酷少儿
 http://117.169.124.43:6610/ysten-businessmobile/live/kakukaton/yst.m3u8
