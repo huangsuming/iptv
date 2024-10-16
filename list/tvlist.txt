@@ -83,6 +83,10 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
 #EXTINF:-1 tvg-name="CNC新华全球连线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC英文台.png" group-title="总台",CNC新华全球连线
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-name="中央新影.发现之旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CND中央新影发现之旅.png" group-title="总台",中央新影.发现之旅
+http://120.76.248.139/live/bfgd/4200000151.m3u8
+#EXTINF:-1 tvg-name="中央新影.老故事" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CND中央新影老故事.png" group-title="总台",中央新影.老故事
+http://120.76.248.139/live/bfgd/4200000166.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/江西.png" group-title="卫视",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/安徽.png" group-title="卫视",安徽卫视
@@ -169,6 +173,30 @@ http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="付费",CHC家庭影院
 http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="畅享影院" group-title="付费",畅享影院
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226300/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" group-title="付费",哒啵电竞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" group-title="付费",哒啵赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="点掌财经" group-title="付费",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 tvg-name="动画世界" group-title="付费",动画世界
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226272/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" group-title="付费",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" group-title="付费",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" group-title="付费",睛彩竞技
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" group-title="付费",睛彩篮球
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" group-title="付费",睛彩青少
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" group-title="付费",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="追番必看" group-title="付费",追番必看
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" group-title="付费",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级电视剧" group-title="付费",NewTV超级电视剧
@@ -181,10 +209,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" group-title="付费",NewTV潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-name="NewTV哒啵电竞" group-title="付费",NewTV哒啵电竞
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" group-title="付费",NewTV哒啵赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="NewTV东北热剧" group-title="付费",NewTV东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" group-title="付费",NewTV动作电影
@@ -193,10 +217,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-name="NewTV海外剧场" group-title="付费",NewTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-name="NewTV黑莓电影" group-title="付费",NewTV黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="NewTV黑莓动画" group-title="付费",NewTV黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" group-title="付费",NewTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="NewTV家庭剧场" group-title="付费",NewTV家庭剧场
@@ -209,8 +229,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品萌宠" group-title="付费",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品体育" group-title="付费",NewTV精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" group-title="付费",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="NewTV军旅剧场" group-title="付费",NewTV军旅剧场
@@ -223,16 +241,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-name="NewTV武搏世界" group-title="付费",NewTV武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="NewTV炫舞未来" group-title="付费",NewTV炫舞未来
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
 #EXTINF:-1 tvg-name="NewTV怡伴健康" group-title="付费",NewTV怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="NewTV中国功夫" group-title="付费",NewTV中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-name="畅享影院" group-title="付费",畅享影院
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226300/index.m3u8
-#EXTINF:-1 tvg-name="点掌财经" group-title="付费",点掌财经
-https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 tvg-name="动画世界" group-title="付费",动画世界
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226272/index.m3u8
 #EXTINF:-1 tvg-name="华数求索动物" group-title="付费",华数求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-name="华数求索纪录" group-title="付费",华数求索纪录
@@ -241,14 +255,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-name="华数求索生活" group-title="付费",华数求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" group-title="付费",睛彩竞技
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" group-title="付费",睛彩篮球
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" group-title="付费",睛彩青少
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
-#EXTINF:-1 tvg-name="追番必看" group-title="付费",追番必看
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera" group-title="外语",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="Arirang" group-title="外语",Arirang
@@ -333,6 +339,14 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
 #EXTINF:-1 tvg-name="宜春.万载综合" group-title="江西",宜春.万载综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
+#EXTINF:-1 tvg-name="" group-title="安徽",安徽经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+#EXTINF:-1 tvg-name="" group-title="安徽",安徽影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 tvg-name="" group-title="安徽",新闻综合
+http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+#EXTINF:-1 tvg-name="" group-title="安徽",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="安庆.潜山综合" group-title="安徽",安庆.潜山综合
 https://qsxw.gov.cn/rtmp_export/video22.m3u8
 #EXTINF:-1 tvg-name="蚌埠.固镇综合" group-title="安徽",蚌埠.固镇综合
@@ -347,10 +361,14 @@ http://live.cztv.cc:85/live/xwpd.m3u8
 http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-name="滁州科教频道" group-title="安徽",滁州科教频道
 http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-name="毫州" group-title="安徽",毫州
+http://112.30.194.221:20080/live/83c292f300f44da6a403dc86878311b1/hls.m3u8
 #EXTINF:-1 tvg-name="淮南新闻综合" group-title="安徽",淮南新闻综合
 http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 #EXTINF:-1 tvg-name="淮南民生" group-title="安徽",淮南民生
 http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
+#EXTINF:-1 tvg-name="黄山.歙县综合" group-title="安徽",黄山.歙县综合
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 #EXTINF:-1 tvg-name="宿州新闻综合" group-title="安徽",宿州新闻综合
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 tvg-name="宿州公共频道" group-title="安徽",宿州公共频道
@@ -493,8 +511,6 @@ http://live.strmtzx.cn/stxw/playlist.m3u8
 http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
 #EXTINF:-1 tvg-name="黔南2台" group-title="贵州",黔南2台
 http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
-
-
 #EXTINF:-1 tvg-name="海南少儿" group-title="海南",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/1.m3u8
 #EXTINF:-1 tvg-name="" group-title="海南",海南新闻
@@ -505,10 +521,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 #EXTINF:-1 tvg-name="" group-title="海南",海南自贸
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
-
 #EXTINF:-1 tvg-name="" group-title="海南",海南公共
 http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
-
 #EXTINF:-1 tvg-name="沧州新闻综合" group-title="河北",沧州新闻综合
 http://czlive.czgd.tv:8091/live/czyt_czytzm.m3u8
 #EXTINF:-1 tvg-name="沧州公共频道" group-title="河北",沧州公共频道
@@ -1307,8 +1321,6 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="大立电视台" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="东风" group-title="台湾",东风
-http://211.72.65.236:8528/.m3u8
 #EXTINF:-1 tvg-name="东森超视" group-title="台湾",东森超视
 http://211.72.65.236:8525/.m3u8
 #EXTINF:-1 tvg-name="东森戏剧" group-title="台湾",东森戏剧
