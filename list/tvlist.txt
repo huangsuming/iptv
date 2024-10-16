@@ -765,6 +765,12 @@ http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡.江阴新闻综合" group-title="江苏",无锡.江阴新闻综合
 http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1 tvg-name="徐州综合" group-title="江苏",徐州综合
+http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
+#EXTINF:-1 tvg-name="徐州3台" group-title="江苏",徐州3台
+http://stream3.huaihai.tv/xz3t/sd/live.m3u8
+#EXTINF:-1 tvg-name="徐州4台" group-title="江苏",徐州4台
+http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州.沛县新闻综合" group-title="江苏",徐州.沛县新闻综合
 http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
 #EXTINF:-1 tvg-name="徐州.邳州综合" group-title="江苏",徐州.邳州综合
@@ -1085,12 +1091,20 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="AMC电影台" group-title="台湾",AMC电影台
 http://211.72.65.236:8583/.m3u8
+#EXTINF:-1 tvg-name="DW" group-title="台湾",DW
+http://37.27.111.214:8080/live/46/hls.m3u8
 #EXTINF:-1 tvg-name="大爱" group-title="台湾",大爱
 http://211.72.65.236:8507/.m3u8
 #EXTINF:-1 tvg-name="大爱1台" group-title="台湾",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" group-title="台湾",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="博斯无限" group-title="台湾",博斯无限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 tvg-name="博斯运动1" group-title="台湾",博斯运动1
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 tvg-name="CinemaWorld" group-title="台湾",CinemaWorld
+http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="大立电视台" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="东森YOYO" group-title="台湾",东森YOYO
@@ -1099,22 +1113,44 @@ http://211.72.65.236:8515/.m3u8
 http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 tvg-name="番薯111" group-title="台湾",番薯111
 http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
+#EXTINF:-1 tvg-name="GlobalTrekker" group-title="台湾",GlobalTrekker
+http://37.27.111.214:8080/live/53/hls.m3u8
 #EXTINF:-1 tvg-name="公视" group-title="台湾",公视
 http://211.72.65.236:8505/.m3u8
 #EXTINF:-1 tvg-name="韩国娱乐台" group-title="台湾",韩国娱乐台
 http://211.72.65.236:8523/.m3u8
+#EXTINF:-1 tvg-name="HITS" group-title="台湾",HITS
+http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="华藏卫视" group-title="台湾",华藏卫视
 https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="华视新闻" group-title="台湾",华视新闻
+http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" group-title="台湾",寰宇新闻台
 http://211.72.65.236:8547/.m3u8
-#EXTINF:-1 tvg-name="MNEWS 镜新闻" group-title="台湾",MNEWS 镜新闻
-http://211.72.65.236:8578/.m3u8
+#EXTINF:-1 tvg-name="居家.幸福空间" group-title="台湾",居家.幸福空间
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 tvg-name="客家电视台" group-title="台湾",客家电视台
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 tvg-name="龙华电影" group-title="台湾",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-name="梦工厂" group-title="台湾",梦工厂
+http://37.27.111.214:8080/live/57/hls.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="台湾",民视
 http://211.72.65.236:8504/.m3u8
 #EXTINF:-1 tvg-name="民视第一台" group-title="台湾",民视第一台
 http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 tvg-name="民视台湾台" group-title="台湾",民视台湾台
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 tvg-name="MNEWS 镜新闻" group-title="台湾",MNEWS 镜新闻
+http://211.72.65.236:8578/.m3u8
+#EXTINF:-1 tvg-name="MOMO" group-title="台湾",MOMO
+http://37.27.111.214:8080/live/3/hls.m3u8
 #EXTINF:-1 tvg-name="MOMOTV" group-title="台湾",MOMOTV
 http://211.72.65.236:8553/.m3u8
+#EXTINF:-1 tvg-name="MTV" group-title="台湾",MTV
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" group-title="台湾",Nick Jr
+http://37.27.111.214:8080/live/22/hls.m3u8
 #EXTINF:-1 tvg-name="年代MUCH" group-title="台湾",年代MUCH
 http://211.72.65.236:8529/.m3u8
 #EXTINF:-1 tvg-name="年代新闻" group-title="台湾",年代新闻
@@ -1127,8 +1163,14 @@ http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 http://211.72.65.236:8521/.m3u8
 #EXTINF:-1 tvg-name="三立新闻" group-title="台湾",三立新闻
 http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 tvg-name="三立综合台" group-title="台湾",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
 #EXTINF:-1 tvg-name="生命电视" group-title="台湾",生命电视
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-name="TiTV" group-title="台湾",TiTV
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 tvg-name="TVBS" group-title="台湾",TVBS
+http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS 欢乐台" group-title="台湾",TVBS 欢乐台
 http://211.72.65.236:8532/.m3u8
 #EXTINF:-1 tvg-name="TVBS News" group-title="台湾",TVBS News
@@ -1141,9 +1183,16 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="纬来戏剧" group-title="台湾",纬来戏剧
 http://211.72.65.236:8533/.m3u8
+#EXTINF:-1 tvg-name="亚洲旅游台" group-title="台湾",亚洲旅游台
+http://37.27.111.214:8080/live/9/hls.m3u8
 #EXTINF:-1 tvg-name="壹新闻" group-title="台湾",壹新闻
 http://211.72.65.236:8548/.m3u8
+#EXTINF:-1 tvg-name="中视新闻" group-title="台湾",中视新闻
+http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="中天娱乐" group-title="台湾",中天娱乐
 http://211.72.65.236:8527/.m3u8
 #EXTINF:-1 tvg-name="中天综合" group-title="台湾",中天综合
 http://211.72.65.236:8526/.m3u8
+#EXTINF:-1 tvg-name="猪哥亮歌厅秀" group-title="台湾",猪哥亮歌厅秀
+http://37.27.111.214:8080/live/35/hls.m3u8
+
