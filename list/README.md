@@ -118,8 +118,10 @@
    搜索引擎:[tonkiang](http://tonkiang.us/)<br>
    测试频道直播流:[epg.pw](https://epg.pw/)<br>
    Github:<br>
-   - fanmingming: [ipv6](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)<br>
+   - fanmingming: [live](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)<br>
    - suxuang: [myIPTV](https://github.com/suxuang/myIPTV/blob/main/ipv6.m3u)<br>
+   - xxy002: [zhiboyuan](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
+   - YueChan: [Live](https://github.com/YueChan/Live/tree/main)<br>
 # 各省英文缩写
    省份		         拼音缩写<br>
    安徽省		 AH<br>
