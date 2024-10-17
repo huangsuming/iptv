@@ -167,6 +167,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="4KUHD" group-title="付费",4KUHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="付费",CHC动作电影
+http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="付费",CHC影迷电影
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="付费",CHC家庭影院
@@ -253,6 +255,86 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="求索科学" group-title="付费",求索科学
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="1983" group-title="春晚",1983
+http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1984" group-title="春晚",1984
+https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1985" group-title="春晚",1985
+http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1986" group-title="春晚",1986
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1987西游齐天乐" group-title="春晚",1987西游齐天乐
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 tvg-name="1988" group-title="春晚",1988
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 tvg-name="1989" group-title="春晚",1989
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1 tvg-name="1991" group-title="春晚",1991
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1992" group-title="春晚",1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1993" group-title="春晚",1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1994" group-title="春晚",1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1995" group-title="春晚",1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1996" group-title="春晚",1996
+https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1997" group-title="春晚",1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1998" group-title="春晚",1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1999" group-title="春晚",1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2000" group-title="春晚",2000
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2001" group-title="春晚",2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2002" group-title="春晚",2002
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2003" group-title="春晚",2003
+https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2004" group-title="春晚",2004
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2005" group-title="春晚",2005
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2006" group-title="春晚",2006
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2007" group-title="春晚",2007
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2008" group-title="春晚",2008
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2009" group-title="春晚",2009
+https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2010" group-title="春晚",2010
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2011" group-title="春晚",2011
+https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2012" group-title="春晚",2012
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2013" group-title="春晚",2013
+https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2014" group-title="春晚",2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2015" group-title="春晚",2015
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2016" group-title="春晚",2016
+https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2017" group-title="春晚",2017
+https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2018" group-title="春晚",2018
+https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2019" group-title="春晚",2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2020" group-title="春晚",2020
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2021" group-title="春晚",2021
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2022" group-title="春晚",2022
+https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2023" group-title="春晚",2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera" group-title="外语",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="Arirang" group-title="外语",Arirang
@@ -885,6 +967,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/index.m3u8?
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" group-title="上海",金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3$1.2M%20FHD
+#EXTINF:-1 tvg-name="劲爆体育" group-title="上海",劲爆体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="乐游" group-title="上海",乐游
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3$FHD
 #EXTINF:-1 tvg-name="魅力足球" group-title="上海",魅力足球
@@ -1085,32 +1169,20 @@ https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" group-title="澳门",澳门莲花
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-name="AMC电影台" group-title="台湾",AMC电影台
-http://211.72.65.236:8583/.m3u8
-#EXTINF:-1 tvg-name="DW" group-title="台湾",DW
-http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 tvg-name="大爱" group-title="台湾",大爱
-http://211.72.65.236:8507/.m3u8
 #EXTINF:-1 tvg-name="大爱1台" group-title="台湾",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" group-title="台湾",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="博斯无限" group-title="台湾",博斯无限
 http://37.27.111.214:8080/live/15/hls.m3u8
-#EXTINF:-1 tvg-name="博斯运动1" group-title="台湾",博斯运动1
-http://37.27.111.214:8080/live/14/hls.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld" group-title="台湾",CinemaWorld
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="大立电视台" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="东森YOYO" group-title="台湾",东森YOYO
 http://211.72.65.236:8515/.m3u8
-#EXTINF:-1 tvg-name="东森新闻" group-title="台湾",东森新闻
-http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 tvg-name="番薯111" group-title="台湾",番薯111
 http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
-#EXTINF:-1 tvg-name="GlobalTrekker" group-title="台湾",GlobalTrekker
-http://37.27.111.214:8080/live/53/hls.m3u8
 #EXTINF:-1 tvg-name="公视" group-title="台湾",公视
 http://211.72.65.236:8505/.m3u8
 #EXTINF:-1 tvg-name="韩国娱乐台" group-title="台湾",韩国娱乐台
@@ -1141,14 +1213,10 @@ http://37.27.111.214:8080/live/5/hls.m3u8
 http://211.72.65.236:8578/.m3u8
 #EXTINF:-1 tvg-name="MOMO" group-title="台湾",MOMO
 http://37.27.111.214:8080/live/3/hls.m3u8
-#EXTINF:-1 tvg-name="MOMOTV" group-title="台湾",MOMOTV
-http://211.72.65.236:8553/.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="台湾",MTV
 http://37.27.111.214:8080/live/25/hls.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" group-title="台湾",Nick Jr
 http://37.27.111.214:8080/live/22/hls.m3u8
-#EXTINF:-1 tvg-name="年代MUCH" group-title="台湾",年代MUCH
-http://211.72.65.236:8529/.m3u8
 #EXTINF:-1 tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.72.65.236:8539/.m3u8
 #EXTINF:-1 tvg-name="PTSXS 小公视" group-title="台湾",PTSXS 小公视
@@ -1159,8 +1227,6 @@ http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 http://211.72.65.236:8521/.m3u8
 #EXTINF:-1 tvg-name="三立新闻" group-title="台湾",三立新闻
 http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 tvg-name="三立综合台" group-title="台湾",三立综合台
-http://37.27.111.214:8080/live/31/hls.m3u8
 #EXTINF:-1 tvg-name="生命电视" group-title="台湾",生命电视
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 tvg-name="TiTV" group-title="台湾",TiTV
@@ -1177,10 +1243,6 @@ http://211.72.65.236:8574/.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="纬来精采" group-title="台湾",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="纬来戏剧" group-title="台湾",纬来戏剧
-http://211.72.65.236:8533/.m3u8
-#EXTINF:-1 tvg-name="亚洲旅游台" group-title="台湾",亚洲旅游台
-http://37.27.111.214:8080/live/9/hls.m3u8
 #EXTINF:-1 tvg-name="壹新闻" group-title="台湾",壹新闻
 http://211.72.65.236:8548/.m3u8
 #EXTINF:-1 tvg-name="中视新闻" group-title="台湾",中视新闻

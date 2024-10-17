@@ -32,14 +32,6 @@
   [2409:8087:1a0b:df::4013]<br>
   [2409:8087:1a0b:df::4017]<br>
   [2409:8087:1a0b:df::4020]<br>
-- js.txt:江苏移动<br>
-  可用IP地址:<br>
-  (1)js1:<br>
-  223.105.252.39<br>
-  223.105.252.40<br>
-  (2)js2:<br>
-  223.105.252.59<br>
-  223.105.252.60<br>
 - jx.txt:江西移动(ID通用)<br>
   可用节点:PLTV、TVOD<br>
   可用域名:端口<br>
@@ -73,10 +65,6 @@
   可用IP地址(端口):<br>
   海南移动:<br>
   [2409:8087:5e00:24::1e]:6060<br>
-## 境外
-- fi.txt:芬兰<br>
-  可用IP地址(端口):<br>
-  37.27.111.214:8080<br>
 ## 酒店源(卡顿,不推荐)
 - 点量TV:<br>
   60.174.40.117:9901<br>
@@ -120,8 +108,6 @@
    Github:<br>
    - fanmingming: [live](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)<br>
    - suxuang: [myIPTV](https://github.com/suxuang/myIPTV/blob/main/ipv6.m3u)<br>
-   - xxy002: [zhiboyuan](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
-   - YueChan: [Live](https://github.com/YueChan/Live/tree/main)<br>
 # 各省英文缩写
    省份		         拼音缩写<br>
    安徽省		 AH<br>
