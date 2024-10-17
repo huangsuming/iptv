@@ -1,4 +1,6 @@
 本直播源采集自互联网,适用于江西移动网络。
+# 扫一扫,加速更新!
+![icon](/img/wx_reward_qrcode.png)
 # 使用说明
 - 电视直播源:[tvlist](https://huangsuming.github.io/iptv/list/tvlist.txt)
 - 电台直播源:[radio](https://huangsuming.github.io/iptv/list/radio.txt)
