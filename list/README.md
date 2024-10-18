@@ -106,8 +106,12 @@
    搜索引擎:[tonkiang](http://tonkiang.us/)<br>
    测试频道直播流:[epg.pw](https://epg.pw/)<br>
    Github:<br>
-   - fanmingming: [live](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)<br>
-   - suxuang: [myIPTV](https://github.com/suxuang/myIPTV/blob/main/ipv6.m3u)<br>
+	- fanmingming:	[live]	(https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u)<br>
+	- Kimentanm:	[aptv]	(https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u)<br>
+	- suxuang:	[myIPTV](https://raw.githubusercontent.com/suxuang/myIPTV/master/ipv6.m3u)<br>
+	- zzj2678:	[iptv3]	(https://raw.githubusercontent.com/zzj2678/iptv3/master/tv/iptv6.txt)<br>
+	- kilvn:	[IPTV]	(https://raw.githubusercontent.com/kilvn/IPTV/master/iptv+.m3u)<br>
+	- YanG-1989:	[m3u]	(https://raw.githubusercontent.com/YanG-1989/m3u/master/Gather.m3u)<br>
 # 各省英文缩写
    省份		         拼音缩写<br>
    安徽省		 AH<br>
