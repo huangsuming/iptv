@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CBN重温经典.png" group-title="总台",CBN重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="CCTV 4K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
 http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-name="CCTV 8K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV8K.png" group-title="总台",CCTV 8K
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV8K.png" group-title="总台",CCTV 8K
 http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV1.png" group-title="总台",CCTV1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -75,9 +75,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN纪录.png" group-title="总台",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="CIBN书画频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CIBN书画频道.png" group-title="总台",CIBN书画频道
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CIBN书画频道.png" group-title="总台",CIBN书画频道
 http://211.103.180.178:8233/live_hls/hdmi.m3u8
-#EXTINF:-1 tvg-name="CMA中国天气" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CMA中国天气.png" group-title="总台",CMA中国天气
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CMA中国天气.png" group-title="总台",CMA中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="CNC新华新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC中文台.png" group-title="总台",CNC新华新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
@@ -163,13 +163,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/浙江.png" group-title="卫视",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/香港.png" group-title="卫视",香港卫视
+#EXTINF:-1 tvg-name="HKS" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/香港.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="4KUHD" group-title="付费",4KUHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="付费",CHC动作电影
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="付费",CHC影迷电影
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="付费",CHC影迷电影
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="付费",CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
@@ -201,53 +201,53 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="追番必看" group-title="付费",追番必看
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" group-title="付费",NewTV爱情喜剧
+#EXTINF:-1 tvg-name="NEWTV爱情喜剧" group-title="付费",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电视剧" group-title="付费",NewTV超级电视剧
+#EXTINF:-1 tvg-name="NEWTV超级电视剧" group-title="付费",NewTV超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电影" group-title="付费",NewTV超级电影
+#EXTINF:-1 tvg-name="NEWTV超级电影" group-title="付费",NewTV超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级体育" group-title="付费",NewTV超级体育
+#EXTINF:-1 tvg-name="NEWTV超级体育" group-title="付费",NewTV超级体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级综艺" group-title="付费",NewTV超级综艺
+#EXTINF:-1 tvg-name="NEWTV超级综艺" group-title="付费",NewTV超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" group-title="付费",NewTV潮妈辣婆
+#EXTINF:-1 tvg-name="NEWTV潮妈辣婆" group-title="付费",NewTV潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-name="NewTV东北热剧" group-title="付费",NewTV东北热剧
+#EXTINF:-1 tvg-name="NEWTV东北热剧" group-title="付费",NewTV东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" group-title="付费",NewTV动作电影
+#EXTINF:-1 tvg-name="NEWTV动作电影" group-title="付费",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" group-title="付费",NewTV古装剧场
+#EXTINF:-1 tvg-name="NEWTV古装剧场" group-title="付费",NewTV古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-name="NewTV海外剧场" group-title="付费",NewTV海外剧场
+#EXTINF:-1 tvg-name="NEWTV海外剧场" group-title="付费",NewTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" group-title="付费",NewTV欢乐剧场
+#EXTINF:-1 tvg-name="NEWTV欢乐剧场" group-title="付费",NewTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-name="NewTV家庭剧场" group-title="付费",NewTV家庭剧场
+#EXTINF:-1 tvg-name="NEWTV家庭剧场" group-title="付费",NewTV家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="付费",NewTV金牌综艺
+#EXTINF:-1 tvg-name="NEWTV金牌综艺" group-title="付费",NewTV金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" group-title="付费",NewTV精品大剧
+#EXTINF:-1 tvg-name="NEWTV精品大剧" group-title="付费",NewTV精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品纪录" group-title="付费",NewTV精品纪录
+#EXTINF:-1 tvg-name="NEWTV精品纪录" group-title="付费",NewTV精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品萌宠" group-title="付费",NewTV精品萌宠
+#EXTINF:-1 tvg-name="NEWTV精品萌宠" group-title="付费",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" group-title="付费",NewTV惊悚悬疑
+#EXTINF:-1 tvg-name="NEWTV惊悚悬疑" group-title="付费",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" group-title="付费",NewTV军旅剧场
+#EXTINF:-1 tvg-name="NEWTV军旅剧场" group-title="付费",NewTV军旅剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军事评论" group-title="付费",NewTV军事评论
+#EXTINF:-1 tvg-name="NEWTV军事评论" group-title="付费",NewTV军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-name="NewTV明星大片" group-title="付费",NewTV明星大片
+#EXTINF:-1 tvg-name="NEWTV明星大片" group-title="付费",NewTV明星大片
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" group-title="付费",NewTV农业致富
+#EXTINF:-1 tvg-name="NEWTV农业致富" group-title="付费",NewTV农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" group-title="付费",NewTV武搏世界
+#EXTINF:-1 tvg-name="NEWTV武搏世界" group-title="付费",NewTV武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-name="NewTV炫舞未来" group-title="付费",NewTV炫舞未来
+#EXTINF:-1 tvg-name="NEWTV炫舞未来" group-title="付费",NewTV炫舞未来
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 tvg-name="NewTV中国功夫" group-title="付费",NewTV中国功夫
+#EXTINF:-1 tvg-name="NEWTV中国功夫" group-title="付费",NewTV中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" group-title="付费",求索动物
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
@@ -357,7 +357,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-name="Newsmax" group-title="外语",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="NHK World" group-title="外语",NHK World
+#EXTINF:-1 tvg-name="NHKWORLD" group-title="外语",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="Russia Today" group-title="外语",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -485,15 +485,15 @@ http://hls.gstv.com.cn/49048r/10iv1j.m3u8
 http://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-name="甘肃文化影视" group-title="甘肃",甘肃文化影视
 http://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-#EXTINF:-1,tvg-name="定西综合" group-title="甘肃",定西综合
+#EXTINF:-1 tvg-name="定西综合" group-title="甘肃",定西综合
 https://play.kankanlive.com/live/1707969054968992.m3u8
-#EXTINF:-1,tvg-name="定西文旅生活" group-title="甘肃",定西文旅生活
+#EXTINF:-1 tvg-name="定西文旅生活" group-title="甘肃",定西文旅生活
 https://play.kankanlive.com/live/1707482307440963.m3u8
-#EXTINF:-1,tvg-name="陇南综合频道" group-title="甘肃",陇南综合频道
+#EXTINF:-1 tvg-name="陇南综合频道" group-title="甘肃",陇南综合频道
 https://play.kankanlive.com/live/1709171819929902.m3u8
-#EXTINF:-1,tvg-name="陇南公共频道" group-title="甘肃",陇南公共频道
+#EXTINF:-1 tvg-name="陇南公共频道" group-title="甘肃",陇南公共频道
 https://play.kankanlive.com/live/1709171893138901.m3u8
-#EXTINF:-1,tvg-name="陇南.武都综合" group-title="甘肃",陇南.武都综合
+#EXTINF:-1 tvg-name="陇南.武都综合" group-title="甘肃",陇南.武都综合
 http://play.kankanlive.com/live/1703747194431958.m3u8
 #EXTINF:-1 tvg-name="广东民生" group-title="广东",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
@@ -965,7 +965,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/9001547084732463424/index.m3u8?
 http://117.169.124.43:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场4K" group-title="上海",欢笑剧场4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3$3M%20FHD
-#EXTINF:-1 tvg-name="纪实人文" group-title="上海",纪实人文
+#EXTINF:-1 tvg-name="上海纪实人文" group-title="上海",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" group-title="上海",金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3$1.2M%20FHD
@@ -1177,11 +1177,11 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="博斯无限" group-title="台湾",博斯无限
 http://37.27.111.214:8080/live/15/hls.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld" group-title="台湾",CinemaWorld
+#EXTINF:-1 tvg-name="CINEMAWORLD" group-title="台湾",CinemaWorld
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="大立电视台" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="东森YOYO" group-title="台湾",东森YOYO
+#EXTINF:-1 tvg-name="东森幼幼台" group-title="台湾",东森YOYO
 http://211.72.65.236:8515/.m3u8
 #EXTINF:-1 tvg-name="番薯111" group-title="台湾",番薯111
 http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
@@ -1213,11 +1213,11 @@ http://37.27.111.214:8080/live/4/hls.m3u8
 http://37.27.111.214:8080/live/5/hls.m3u8
 #EXTINF:-1 tvg-name="MNEWS 镜新闻" group-title="台湾",MNEWS 镜新闻
 http://211.72.65.236:8578/.m3u8
-#EXTINF:-1 tvg-name="MOMO" group-title="台湾",MOMO
+#EXTINF:-1 tvg-name="MOMO亲子台" group-title="台湾",MOMO亲子台
 http://37.27.111.214:8080/live/3/hls.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="台湾",MTV
 http://37.27.111.214:8080/live/25/hls.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" group-title="台湾",Nick Jr
+#EXTINF:-1 tvg-name="NICKJR." group-title="台湾",Nick Jr.
 http://37.27.111.214:8080/live/22/hls.m3u8
 #EXTINF:-1 tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.72.65.236:8539/.m3u8
@@ -1235,11 +1235,11 @@ http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 http://37.27.111.214:8080/live/2/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="台湾",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS 欢乐台" group-title="台湾",TVBS 欢乐台
+#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾",TVBS 欢乐台
 http://211.72.65.236:8532/.m3u8
 #EXTINF:-1 tvg-name="TVBS News" group-title="台湾",TVBS News
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="TVBS 新闻台" group-title="台湾",TVBS 新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" group-title="台湾",TVBS 新闻台
 http://211.72.65.236:8574/.m3u8
 #EXTINF:-1 tvg-name="唯心电视" group-title="台湾",唯心电视
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
@@ -1249,9 +1249,9 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 http://211.72.65.236:8548/.m3u8
 #EXTINF:-1 tvg-name="中视新闻" group-title="台湾",中视新闻
 http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 tvg-name="中天娱乐" group-title="台湾",中天娱乐
+#EXTINF:-1 tvg-name="中天娱乐台" group-title="台湾",中天娱乐
 http://211.72.65.236:8527/.m3u8
-#EXTINF:-1 tvg-name="中天综合" group-title="台湾",中天综合
+#EXTINF:-1 tvg-name="中天综合台" group-title="台湾",中天综合
 http://211.72.65.236:8526/.m3u8
 #EXTINF:-1 tvg-name="猪哥亮歌厅秀" group-title="台湾",猪哥亮歌厅秀
 http://37.27.111.214:8080/live/35/hls.m3u8
