@@ -1,41 +1,41 @@
 #EXTM3U 
-#EXTINF:-1 ,iHOT爱电竞
+#EXTINF:-1 tvg-name="iHOT爱电竞" group-title="付费",iHOT爱电竞*
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱谍战
+#EXTINF:-1 tvg-name="iHOT爱谍战" group-title="付费",iHOT爱谍战
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱动漫
+#EXTINF:-1 tvg-name="iHOT爱动漫" group-title="付费",iHOT爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱都市
+#EXTINF:-1 tvg-name="iHOT爱都市" group-title="付费",iHOT爱都市*
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱怀旧
+#EXTINF:-1 tvg-name="iHOT爱怀旧" group-title="付费",iHOT爱怀旧*
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱经典
+#EXTINF:-1 tvg-name="iHOT爱经典" group-title="付费",iHOT爱经典*
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱科幻
+#EXTINF:-1 tvg-name="iHOT爱科幻" group-title="付费",iHOT爱科幻
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱科学
+#EXTINF:-1 tvg-name="iHOT爱科学" group-title="付费",iHOT爱科学
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱浪漫
+#EXTINF:-1 tvg-name="iHOT爱浪漫" group-title="付费",iHOT爱浪漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱历史
+#EXTINF:-1 tvg-name="iHOT爱历史" group-title="付费",iHOT爱历史
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱旅行
+#EXTINF:-1 tvg-name="iHOT爱旅行" group-title="付费",iHOT爱旅行
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱奇谈
+#EXTINF:-1 tvg-name="iHOT爱奇谈" group-title="付费",iHOT爱奇谈
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱青春
+#EXTINF:-1 tvg-name="iHOT爱青春" group-title="付费",iHOT爱青春*
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱赛车
+#EXTINF:-1 tvg-name="iHOT爱赛车" group-title="付费",iHOT爱赛车
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱体育
+#EXTINF:-1 tvg-name="iHOT爱体育" group-title="付费",iHOT爱体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱玩具
+#EXTINF:-1 tvg-name="iHOT爱玩具" group-title="付费",iHOT爱玩具
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱喜剧
+#EXTINF:-1 tvg-name="iHOT爱喜剧" group-title="付费",iHOT爱喜剧
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱悬疑
+#EXTINF:-1 tvg-name="iHOT爱悬疑" group-title="付费",iHOT爱悬疑
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱幼教
+#EXTINF:-1 tvg-name="iHOT爱幼教" group-title="付费",iHOT爱幼教
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱院线
+#EXTINF:-1 tvg-name="iHOT爱院线" group-title="付费",iHOT爱院线
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
