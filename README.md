@@ -32,6 +32,8 @@
   山西-黄河卫视<br>
   [上海-新视觉](http://120.76.248.139/live/bfgd/4200000249.m3u8)<br>
   澳门-澳亚卫视<br>
+  省会:广州<br>
+  省级:贵州<br>
 
 # 感谢
 [范明明](https://github.com/fanmingming)<br>

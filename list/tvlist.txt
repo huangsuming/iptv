@@ -569,32 +569,6 @@ http://183.11.239.36:808/hls/18/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-name="广州综合" group-title="广东",广州综合
-http://58.144.154.93/tencentplay.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 tvg-name="广州新闻" group-title="广东",广州新闻
-http://58.144.154.93/tencentplay.gztv.com/live/xinwen.m3u8
-#EXTINF:-1 tvg-name="广州影视" group-title="广东",广州影视
-http://58.144.154.93/tencentplay.gztv.com/live/yingshi.m3u8
-#EXTINF:-1 tvg-name="广州法治" group-title="广东",广州法治
-http://58.144.154.93/tencentplay.gztv.com/live/fazhi.m3u8
-#EXTINF:-1 tvg-name="广州南国都市" group-title="广东",广州南国都市
-http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1 tvg-name="广州竞赛" group-title="广东",广州竞赛
-http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
-#EXTINF:-1 tvg-name="佛山综合" group-title="广东",佛山综合
-http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
-#EXTINF:-1 tvg-name="佛山公共" group-title="广东",佛山公共
-http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20220818165035f3Ym.m3u8
-#EXTINF:-1 tvg-name="佛山影视" group-title="广东",佛山影视
-http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
-#EXTINF:-1 tvg-name="佛山南海" group-title="广东",佛山南海
-http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
-#EXTINF:-1 tvg-name="佛山顺德" group-title="广东",佛山顺德
-http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
-#EXTINF:-1 tvg-name="佛山高明" group-title="广东",佛山高明
-http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
-#EXTINF:-1 tvg-name="佛山三水" group-title="广东",佛山三水
-http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
 #EXTINF:-1 tvg-name="河源综合" group-title="广东",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共" group-title="广东",河源公共
@@ -629,20 +603,6 @@ http://live.gxrb.com.cn/tv/bstv_zh/index.m3u8
 http://live.gxrb.com.cn/gx/beihai/index.m3u8
 #EXTINF:-1 tvg-name="贺州综合" group-title="广西",贺州综合
 http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-#EXTINF:-1 tvg-name="贵州法制" group-title="贵州",贵州法制
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH05_lo.m3u8
-#EXTINF:-1 tvg-name="贵州公共" group-title="贵州",贵州公共
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
-#EXTINF:-1 tvg-name="贵州经济" group-title="贵州",贵州经济
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
-#EXTINF:-1 tvg-name="贵州科教" group-title="贵州",贵州科教
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
-#EXTINF:-1 tvg-name="贵州生活" group-title="贵州",贵州生活
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
-#EXTINF:-1 tvg-name="贵州移动电视" group-title="贵州",贵州移动电视
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
-#EXTINF:-1 tvg-name="贵州影视" group-title="贵州",贵州影视
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
 #EXTINF:-1 tvg-name="黔南1台" group-title="贵州",黔南1台
 http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
 #EXTINF:-1 tvg-name="黔南2台" group-title="贵州",黔南2台
@@ -765,8 +725,6 @@ https://rmplive.hljtv.com/live/huachuan.m3u8
 https://rmplive.hljtv.com/live/tangyuan.m3u8
 #EXTINF:-1 tvg-name="牡丹江.东宁综合频道" group-title="黑龙江",牡丹江.东宁综合频道
 https://rmplive.hljtv.com/live/dongning.m3u8
-#EXTINF:-1 tvg-name="牡丹江.海林综合频道" group-title="黑龙江",牡丹江.海林综合频道
-https://rmplive.hljtv.com/live/hailin.m3u8
 #EXTINF:-1 tvg-name="牡丹江.宁安综合" group-title="黑龙江",牡丹江.宁安综合
 https://rmplive.hljtv.com/live/ningan.m3u8
 #EXTINF:-1 tvg-name="牡丹江.绥芬河综合" group-title="黑龙江",牡丹江.绥芬河综合
@@ -933,8 +891,6 @@ http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州.沛县新闻综合" group-title="江苏",徐州.沛县新闻综合
 http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
-#EXTINF:-1 tvg-name="徐州.邳州综合" group-title="江苏",徐州.邳州综合
-https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州.睢宁综合" group-title="江苏",徐州.睢宁综合
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 #EXTINF:-1 tvg-name="徐州.睢宁三农" group-title="江苏",徐州.睢宁三农
@@ -971,10 +927,6 @@ http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
 http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 #EXTINF:-1 tvg-name="锡林郭勒盟1台" group-title="内蒙古",锡林郭勒盟1台
 http://livecdnpull.xlglrbw.org.cn:80/live/tvzhpd.m3u8
-#EXTINF:-1 tvg-name="石嘴山综合" group-title="宁夏",石嘴山综合
-http://pili-live-hls-jrszs.szsnews.com/jrszs/zhpd.m3u8
-#EXTINF:-1 tvg-name="石嘴山公共" group-title="宁夏",石嘴山公共
-http://pili-live-hls-jrszs.szsnews.com/jrszs/ggpd.m3u8
 #EXTINF:-1 tvg-name="吴忠综合" group-title="宁夏",吴忠综合
 http://live.kanwz.net/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="吴忠公共" group-title="宁夏",吴忠公共
