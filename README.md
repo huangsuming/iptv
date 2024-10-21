@@ -1,5 +1,5 @@
 本直播源采集自互联网,适用于江西移动网络。
-# 扫一扫,加速更新!
+# 赞赏
 ![icon](/img/wx_reward_qrcode.png)
 # 使用说明
 - 电视直播源:[tvlist](https://huangsuming.github.io/iptv/list/tvlist.txt)
@@ -32,6 +32,11 @@
   山西-黄河卫视<br>
   [上海-新视觉](http://120.76.248.139/live/bfgd/4200000249.m3u8)<br>
   澳门-澳亚卫视<br>
+
+# 感谢
+[范明明](https://github.com/fanmingming)<br>
+[suxuang](https://github.com/suxuang)<br>
+[子木](https://github.com/tansuotv)<br>
 
 # 最新动态
 - 2024.10.21: 增加两个频道:CCTV4美洲、CCTV4欧洲。更新CHC电影频道直播源为江西移动IPV6。

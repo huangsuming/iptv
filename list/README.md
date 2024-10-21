@@ -107,8 +107,8 @@
    [恩山无线](https://www.right.com.cn/)<br>
    [广播迷](http://www.guangbomi.com/)<br>
    [好趣网](http://tv.haoqu99.com/)<br>
+   [IPTV论坛](https://www.iptv.cc/)<br>
    [聚玩盒子](https://juwanhezi.com/more/live)<br>
-   [Tvzb](https://www.tvzb.com/)<br>
    搜索引擎:[tonkiang](http://tonkiang.us/)<br>
    测试频道直播流:[epg.pw](https://epg.pw/)<br>
    Github:<br>
