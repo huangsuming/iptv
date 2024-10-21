@@ -13,7 +13,14 @@
 [vercel](https://iptv-huangsuming.vercel.app/list/radio.txt)<br>
 - [托管平台](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
 - NSFW:<br>
-  [AdultIPTV](http://adultiptv.net/): [all](http://adultiptv.net/chs.m3u) [videos](http://adultiptv.net/videos.m3u8)<br>
+  [AdultIPTV](http://adultiptv.net/):<br>
+    (1)M3U:[Adult](http://adultiptv.net/chs.m3u) [MyCamTV](http://adultiptv.net/videos.m3u8)<br>
+    (2)Xtream Codes<br>
+	用户名:adultiptv<br>
+	密码:adultiptv<br>
+	服务器地址:https://xc.adultiptv.net<br>
+  [RedTraffic](http://redtraffic.net/all.m3u8)<br>
+
 ## 移动
 - hl.txt:黑龙江移动(ID通用)<br>
   可用节点:PLTV、TVOD<br>
@@ -45,7 +52,6 @@
   live.dxhmt.cn:9081<br>
   tvpull.dxhmt.cn<br>
   tvpull.dxhmt.cn:9081<br>
-- jxntv.txt:[江西今视频](https://m.yun.jxntv.cn/)
 - voc.txt:[湖南华声在线](https://www.voc.com.cn/)
 ## 数字电视
 - ysten:[易视腾](http://www.ysten.com/)<br>
@@ -106,10 +112,9 @@
    搜索引擎:[tonkiang](http://tonkiang.us/)<br>
    测试频道直播流:[epg.pw](https://epg.pw/)<br>
    Github:<br>
-	- fanmingming:	[live]	(https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u)<br>
-	- Kimentanm:	[aptv]	(https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u)<br>
+	- fanmingming:	[live](https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u)<br>
 	- suxuang:	[myIPTV](https://raw.githubusercontent.com/suxuang/myIPTV/master/ipv6.m3u)<br>
-	- vbskycn:	[iptv](https://github.com/vbskycn/iptv/tree/master/tv)<br>
+	- tansuotv:	[IPTVindex](https://raw.githubusercontent.com/tansuotv/IPTVindex/master/tv.txt)<br>
 	
 # 各省英文缩写
    省份		         拼音缩写<br>
