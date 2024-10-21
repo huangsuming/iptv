@@ -102,6 +102,7 @@
 ## 黑名单
 - 百视通:live.bestvcdn.com.cn<br>
 - 魔百盒:ott.mobaibox.com<br>
+- 境外:amagi.tv cloudfront.net tubi.io tubi.video<br>
 ## 采集来源<br>
    [博客园](https://www.cnblogs.com/xxy002/p/17858312.html)<br>
    [恩山无线](https://www.right.com.cn/)<br>

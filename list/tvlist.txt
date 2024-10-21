@@ -388,7 +388,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="AmazonSat" group-title="外语",AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-name="Arirang" group-title="外语",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC America" group-title="外语",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-name="CNN" group-title="外语",CNN
@@ -399,14 +399,6 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KBS World" group-title="外语",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-name="Love Nature" group-title="外语",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
-#EXTINF:-1 tvg-name="MovieSphere" group-title="外语",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="NASA TV Media" group-title="外语",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-name="NASA TV Public" group-title="外语",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-name="Newsmax" group-title="外语",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="NHKWORLD" group-title="外语",NHK World
@@ -415,12 +407,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="TBS" group-title="外语",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-name="The Young Turks" group-title="外语",The Young Turks
-https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="VOA" group-title="外语",VOA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-name="WildEarth" group-title="外语",WildEarth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="World" group-title="外语",World
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="江西新闻" group-title="江西",江西新闻
