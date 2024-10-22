@@ -203,6 +203,14 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 #EXTINF:-1 tvg-name="NEWTV精品体育" group-title="付费",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="求索动物" group-title="付费",求索动物
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索纪录" group-title="付费",求索纪录
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索科学" group-title="付费",求索科学
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索生活" group-title="付费",求索生活
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="NEWTV怡伴健康" group-title="付费",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="追番必看" group-title="付费",追番必看
@@ -293,14 +301,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
 #EXTINF:-1 tvg-name="NEWTV中国功夫" group-title="付费",NewTV中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-name="求索动物" group-title="付费",求索动物
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索纪录" group-title="付费",求索纪录
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索科学" group-title="付费",求索科学
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索生活" group-title="付费",求索生活
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="1983" group-title="春晚",1983
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
 #EXTINF:-1 tvg-name="1984" group-title="春晚",1984
@@ -1207,22 +1207,14 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" group-title="台湾",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="博斯无限" group-title="台湾",博斯无限
-http://37.27.111.214:8080/live/15/hls.m3u8
-#EXTINF:-1 tvg-name="CINEMAWORLD" group-title="台湾",CinemaWorld
-http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="大立电视台" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="东森幼幼台" group-title="台湾",东森YOYO
 http://211.72.65.236:8515/.m3u8
 #EXTINF:-1 tvg-name="番薯111" group-title="台湾",番薯111
 http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
-#EXTINF:-1 tvg-name="公视" group-title="台湾",公视
-http://211.72.65.236:8505/.m3u8
 #EXTINF:-1 tvg-name="韩国娱乐台" group-title="台湾",韩国娱乐台
 http://211.72.65.236:8523/.m3u8
-#EXTINF:-1 tvg-name="HITS" group-title="台湾",HITS
-http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="华藏卫视" group-title="台湾",华藏卫视
 https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 tvg-name="华视新闻" group-title="台湾",华视新闻
