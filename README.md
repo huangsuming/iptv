@@ -12,8 +12,11 @@
 - 代码托管:[Git](https://www.cnblogs.com/jetsung/p/git-service.html)
 
 # 待优化(电视)
+  CCTV8K<br>
   CCTV卫生健康<br>
   CHTV百姓健康<br>
+  CETV3-北京地面<br>
+  CETV-早期教育<br>
   [CRI环球奇观](http://111.61.236.247:9081/hls/63/index.m3u8)<br>
   iHOT爱电竞<br>
   iHOT爱都市<br>
@@ -31,14 +34,21 @@
   山东-收藏天下<br>
   山西-黄河卫视<br>
   [上海-新视觉](http://120.76.248.139/live/bfgd/4200000249.m3u8)<br>
+  四川-峨眉电影<br>
   澳门-澳亚卫视<br>
+  台湾-东森YOYO<br>
+  华视新闻<br>
+  梦工厂<br>
+  MNEWS镜新闻<br>
+  TVBS新闻台<br>
+  中视新闻<br>
+  中天娱乐<br>
+  中天综合<br>
   省会:广州<br>
-  省级:贵州<br>
+  省级:贵州 青海<br>
 
 # 感谢
 [范明明](https://github.com/fanmingming)<br>
-[suxuang](https://github.com/suxuang)<br>
-[子木](https://github.com/tansuotv)<br>
 
 # 最新动态
 - 2024.10.21: 增加两个频道:CCTV4美洲、CCTV4欧洲。更新CHC电影频道直播源为江西移动IPV6。

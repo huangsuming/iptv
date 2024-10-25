@@ -87,10 +87,6 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
 #EXTINF:-1 tvg-name="CNC新华全球连线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC英文台.png" group-title="总台",CNC新华全球连线
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-name="中央新影.发现之旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CND中央新影发现之旅.png" group-title="总台",中央新影.发现之旅
-http://120.76.248.139/live/bfgd/4200000151.m3u8
-#EXTINF:-1 tvg-name="中央新影.老故事" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CND中央新影老故事.png" group-title="总台",中央新影.老故事
-http://120.76.248.139/live/bfgd/4200000166.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/江西.png" group-title="卫视",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/安徽.png" group-title="卫视",安徽卫视
@@ -401,8 +397,10 @@ https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-name="Newsmax" group-title="外语",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="NHKWORLD" group-title="外语",NHK World
+#EXTINF:-1 tvg-name="NHK World Japan" group-title="外语",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-name="NHK World Premium" group-title="外语",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-name="Russia Today" group-title="外语",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="TBS" group-title="外语",TBS
@@ -811,8 +809,10 @@ http://stream5.jlntv.cn/df/sd/live.m3u8
 http://stream5.jlntv.cn/hn/sd/live.m3u8
 #EXTINF:-1 tvg-name="通化.通化县综合" group-title="吉林",通化.通化县综合
 http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1 tvg-name="延边1台" group-title="吉林",延边1台
+https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
 #EXTINF:-1 tvg-name="延边2台" group-title="吉林",延边2台
-http://live.ybtvyun.com/video/s10006-b2a0645a8070/index.m3u8
+https://live.ybtvyun.com/video/s10006-b2a0645a8070/index.m3u8
 #EXTINF:-1 tvg-name="延边.珲春" group-title="吉林",延边.珲春
 http://stream8.jlntv.cn/hctv/sd/live.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" group-title="江苏",优漫卡通
@@ -947,6 +947,10 @@ http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
 http://zzbb.1545ts.com:8068/live/tatv222.m3u8
 #EXTINF:-1 tvg-name="威海新闻综合" group-title="山东", 威海新闻综合
 http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+#EXTINF:-1 tvg-name="威海都市生活" group-title="山东", 威海都市生活
+http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+#EXTINF:-1 tvg-name="威海海洋" group-title="山东", 威海海洋
+http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-name="潍坊县市区.奎文频道" group-title="山东",潍坊县市区.奎文频道
 https://wfrtv-live-tz.wfcmw.cn:81/live/52-xsq-wfkuiwen.m3u8
 #EXTINF:-1 tvg-name="枣庄新闻综合" group-title="山东",枣庄新闻综合
@@ -1181,6 +1185,8 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1 tvg-name="OneTV" group-title="香港",OneTV
 http://play2.one-tv.com/live/onetv.m3u8
+#EXTINF:-1 tvg-name="创世电视" group-title="香港",创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="香港",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="香港",凤凰中文
@@ -1209,16 +1215,12 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="大立电视台" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="东森幼幼台" group-title="台湾",东森YOYO
-http://211.72.65.236:8515/.m3u8
 #EXTINF:-1 tvg-name="番薯111" group-title="台湾",番薯111
 http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国娱乐台" group-title="台湾",韩国娱乐台
 http://211.72.65.236:8523/.m3u8
 #EXTINF:-1 tvg-name="华藏卫视" group-title="台湾",华藏卫视
 https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 tvg-name="华视新闻" group-title="台湾",华视新闻
-http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" group-title="台湾",寰宇新闻台
 http://211.72.65.236:8547/.m3u8
 #EXTINF:-1 tvg-name="居家.幸福空间" group-title="台湾",居家.幸福空间
@@ -1227,16 +1229,12 @@ http://37.27.111.214:8080/live/26/hls.m3u8
 http://37.27.111.214:8080/live/1/hls.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="台湾",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 tvg-name="梦工厂" group-title="台湾",梦工厂
-http://37.27.111.214:8080/live/57/hls.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="台湾",民视
 http://211.72.65.236:8504/.m3u8
 #EXTINF:-1 tvg-name="民视第一台" group-title="台湾",民视第一台
 http://37.27.111.214:8080/live/4/hls.m3u8
 #EXTINF:-1 tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://37.27.111.214:8080/live/5/hls.m3u8
-#EXTINF:-1 tvg-name="MNEWS 镜新闻" group-title="台湾",MNEWS 镜新闻
-http://211.72.65.236:8578/.m3u8
 #EXTINF:-1 tvg-name="MOMO亲子台" group-title="台湾",MOMO亲子台
 http://37.27.111.214:8080/live/3/hls.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="台湾",MTV
@@ -1263,20 +1261,12 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 http://211.72.65.236:8532/.m3u8
 #EXTINF:-1 tvg-name="TVBS News" group-title="台湾",TVBS News
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" group-title="台湾",TVBS 新闻台
-http://211.72.65.236:8574/.m3u8
 #EXTINF:-1 tvg-name="唯心电视" group-title="台湾",唯心电视
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="纬来精采" group-title="台湾",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="壹新闻" group-title="台湾",壹新闻
 http://211.72.65.236:8548/.m3u8
-#EXTINF:-1 tvg-name="中视新闻" group-title="台湾",中视新闻
-http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 tvg-name="中天娱乐台" group-title="台湾",中天娱乐
-http://211.72.65.236:8527/.m3u8
-#EXTINF:-1 tvg-name="中天综合台" group-title="台湾",中天综合
-http://211.72.65.236:8526/.m3u8
 #EXTINF:-1 tvg-name="猪哥亮歌厅秀" group-title="台湾",猪哥亮歌厅秀
 http://37.27.111.214:8080/live/35/hls.m3u8
 
