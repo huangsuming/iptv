@@ -14,10 +14,12 @@
 # 待优化(电视)
   CCTV8K<br>
   CCTV卫生健康<br>
-  CHTV百姓健康<br>
   CETV3-北京地面<br>
   CETV-早期教育<br>
+  CHTV百姓健康<br>
   [CRI环球奇观](http://111.61.236.247:9081/hls/63/index.m3u8)<br>
+  [CRTV1](http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8)<br>
+  [CRTV2人民铁道频道](http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8)<br>
   iHOT爱电竞<br>
   iHOT爱都市<br>
   iHOT爱怀旧<br>
@@ -49,6 +51,8 @@
 
 # 感谢
 [范明明](https://github.com/fanmingming)<br>
+[zhumeng11](https://github.com/zhumeng11)<br>
+[AKTV](https://aktv.top)<br>
 
 # 最新动态
 - 2024.10.21: 增加两个频道:CCTV4美洲、CCTV4欧洲。更新CHC电影频道直播源为江西移动IPV6。
