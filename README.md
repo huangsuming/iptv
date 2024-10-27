@@ -27,7 +27,7 @@
   iHOT爱青春<br>
   [中央新影.发现之旅](http://120.76.248.139/live/bfgd/4200000151.m3u8)<br>
   [中央新影.老故事](http://120.76.248.139/live/bfgd/4200000166.m3u8)<br>
-  中央新影-中学生<br>
+  [中央新影-中学生](http://gmxw.7766.org:808/hls/24/index.m3u8)<br>
   [河南-睛彩中原](http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8)<br>
   [河南-移动戏曲](http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8)<br>
   福建-海峡卫视<br>
@@ -39,13 +39,22 @@
   四川-峨眉电影<br>
   澳门-澳亚卫视<br>
   台湾-东森YOYO<br>
-  华视新闻<br>
-  梦工厂<br>
-  MNEWS镜新闻<br>
-  TVBS新闻台<br>
-  中视新闻<br>
-  中天娱乐<br>
-  中天综合<br>
+  台湾-华视新闻<br>
+  台湾-HakkaTV客家电视台<br>
+  台湾-梦工厂<br>
+  台湾-民视第一台<br>
+  台湾-民视台湾台<br>
+  台湾-MOMO亲子台<br>
+  台湾-MTV<br>
+  台湾-Nick Jr.<br>
+  台湾-TiTV<br>
+  台湾-TVBS<br>
+  台湾-MNEWS镜新闻<br>
+  台湾-TVBS新闻台<br>
+  台湾-中视新闻<br>
+  台湾-中天娱乐<br>
+  台湾-中天综合<br>
+  台湾-猪哥亮歌厅秀<br>
   省会:广州<br>
   省级:贵州 青海<br>
 
