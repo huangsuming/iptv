@@ -1184,37 +1184,37 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="舟山.嵊泗新闻综合" group-title="浙江",舟山.嵊泗新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1 tvg-name="28AI" group-title="香港",28AI
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-name="Hoy 78" group-title="香港",Hoy 78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1 tvg-name="myTV SUPER" group-title="香港",myTV SUPER
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="myTV SUPER 18" group-title="香港",myTV SUPER 18
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="OneTV" group-title="香港",OneTV
 http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 tvg-name="PopC" group-title="香港",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" group-title="香港",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB DRAMA" group-title="香港",TVB DRAMA
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBJ1" group-title="香港",TVBJ1
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Pearl" group-title="香港",TVB Pearl
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Pearl DRAMA" group-title="香港",TVB Pearl DRAMA
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" group-title="香港",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB翡翠台" group-title="香港",TVB翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB无线新闻台" group-title="香港",TVB无线新闻台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB无线新闻台(北美)" group-title="香港",TVB无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" group-title="香港",TVB娱乐新闻台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="创世电视" group-title="香港",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="香港",凤凰香港
@@ -1228,7 +1228,7 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="美亚C+" group-title="香港",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="美亚电影台" group-title="香港",美亚电影台
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="面包台" group-title="香港",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="香港佛陀" group-title="香港",香港佛陀
@@ -1252,17 +1252,17 @@ http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国娱乐台" group-title="台湾",韩国娱乐台
 http://211.72.65.236:8523/.m3u8
 #EXTINF:-1 tvg-name="华视" group-title="台湾",华视
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-name="华藏卫视" group-title="台湾",华藏卫视
 https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" group-title="台湾",寰宇新闻台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" group-title="台湾",靖天电影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="台湾",龙华电影
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" group-title="台湾",龙华日韩
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="台湾",民视
 http://211.72.65.236:8504/.m3u8
 #EXTINF:-1 tvg-name="年代新闻" group-title="台湾",年代新闻
@@ -1272,25 +1272,25 @@ https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
 #EXTINF:-1 tvg-name="人间卫视" group-title="台湾",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="三立iNEWS" group-title="台湾",三立iNEWS
-http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 #EXTINF:-1 tvg-name="三立台湾台" group-title="台湾",三立台湾台
 http://211.72.65.236:8521/.m3u8
 #EXTINF:-1 tvg-name="三立新闻" group-title="台湾",三立新闻
 http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-name="三立综合台" group-title="台湾",三立综合台
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-name="生命电视" group-title="台湾",生命电视
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="台湾",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾",TVBS 欢乐台
 http://211.72.65.236:8532/.m3u8
 #EXTINF:-1 tvg-name="TVBS News" group-title="台湾",TVBS News
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN" group-title="台湾",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="唯心电视" group-title="台湾",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="纬来精采" group-title="台湾",纬来精采
@@ -1298,9 +1298,9 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="壹新闻" group-title="台湾",壹新闻
 http://211.72.65.236:8548/.m3u8
 #EXTINF:-1 tvg-name="中视" group-title="台湾",中视
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻" group-title="台湾",中天新闻
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天亚洲台" group-title="台湾",中天亚洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
