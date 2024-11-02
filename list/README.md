@@ -114,7 +114,7 @@
    测试频道直播流:[epg.pw](https://epg.pw/)<br>
    Github:<br>
 	- fanmingming:	[live](https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u)<br>
-	- zhumeng11:	[IPTV](https://raw.githubusercontent.com/zhumeng11/IPTV/master/IPTV.m3u)<br>
+	- aktv:		[aktv](https://aktv.top/live.txt)<br>
 
 # 各省英文缩写
    省份		         拼音缩写<br>

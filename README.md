@@ -60,7 +60,6 @@
 
 # 感谢
 [范明明](https://github.com/fanmingming)<br>
-[zhumeng11](https://github.com/zhumeng11)<br>
 [AKTV](https://aktv.top)<br>
 
 # 最新动态
