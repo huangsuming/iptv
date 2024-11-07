@@ -9,10 +9,10 @@
 - Andriod:[Televizo](https://televizo.net/)
 - Apple:[APTV](https://apps.apple.com/cn/app/id1630403500)
 - Windows:[MPC](https://github.com/clsid2/mpc-hc/releases)
-- 代码托管:[Git](https://www.cnblogs.com/jetsung/p/git-service.html)
+- 代码托管:[Git](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
+  推荐:codeberg github(被墙) netlify vercel(被墙)<br>
 
 # 待优化(电视)
-  CCTV8K<br>
   CCTV卫生健康<br>
   CETV3-北京地面<br>
   CETV-早期教育<br>
