@@ -685,6 +685,18 @@ http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 tvg-name="闻喜综合" group-title="山西",闻喜综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+#EXTINF:-1 tvg-name="陕西新闻资讯" group-title="陕西",陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
+#EXTINF:-1 tvg-name="陕西都市青春" group-title="陕西",陕西都市青春
+http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1 tvg-name="陕西秦腔" group-title="陕西",陕西秦腔
+http://gxlive.snrtv.com/sx5-SD.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲" group-title="陕西",陕西体育休闲
+http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 tvg-name="陕西西部电影" group-title="陕西",陕西西部电影
+http://gxlive.snrtv.com/sx8-SD.m3u8
+#EXTINF:-1 tvg-name="陕西银龄" group-title="陕西",陕西银龄
+http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1 tvg-name="中心医院" group-title="四川",中心医院
 http://111.9.163.109:8080/live/test.m3u8
 #EXTINF:-1 tvg-name="阿坝.松潘" group-title="四川",阿坝.松潘
