@@ -1,392 +1,149 @@
-#EXTM3U
-#EXTINF:-1 ,CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 ,CCTV11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 ,CCTV15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 ,CGTN纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-#EXTINF:-1 ,CCTV5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 ,CGTN
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 ,CETV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 ,卡酷少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 ,优漫卡通
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 ,哈哈炫动
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 ,安多卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 ,康巴卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 ,动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 ,古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,明星大片
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,怡伴健康
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,哒啵赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 ,军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,风尚购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 ,武搏世界
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,家有购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 ,农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 ,潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,风尚购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 ,超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,优购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 ,北京纪实科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 ,CCTV10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 ,CCTV12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 ,CCTV14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 ,CCTV7
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 ,CCTV9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 ,纪实人文
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 ,东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 ,优购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 ,CCTV17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 ,CETV4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 ,CCTV4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 ,CCTV8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 ,CCTV6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 ,CCTV13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 ,CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 ,CCTV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 ,CCTV3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 ,家有购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226065/index.m3u8
-#EXTINF:-1 ,央广购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226068/index.m3u8
-#EXTINF:-1 ,CCTV中视购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226091/index.m3u8
-#EXTINF:-1 ,优购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226094/index.m3u8
-#EXTINF:-1 ,CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 ,优购物
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226123/index.m3u8
-#EXTINF:-1 ,睛彩竞技
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 ,睛彩篮球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 ,黑龙江文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 ,黑龙江农业.科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
-#EXTINF:-1 ,黑龙江影视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 ,黑龙江都市
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 ,黑龙江少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 ,黑龙江影视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 ,黑龙江少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 ,咪咕视频
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 ,鸡西新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-#EXTINF:-1 ,齐齐哈尔新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
-#EXTINF:-1 ,伊春新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-#EXTINF:-1 ,Unknown
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
-#EXTINF:-1 ,黑龙江文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-#EXTINF:-1 ,CETV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 ,黑龙江都市
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
-#EXTINF:-1 ,CCTV4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
-#EXTINF:-1 ,CGTN西班牙语
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 ,哈尔滨新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 ,Unknown
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-#EXTINF:-1 ,兵团卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1 ,大湾区卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 ,佳木斯新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
-#EXTINF:-1 ,CCTV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 ,睛彩广场舞
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 ,CCTV10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 ,CCTV15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 ,鸡西安全.生活
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
-#EXTINF:-1 ,大庆新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-#EXTINF:-1 ,黑龙江农业.科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
-#EXTINF:-1 ,齐齐哈尔经济法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
-#EXTINF:-1 ,Unknown
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
-#EXTINF:-1 ,大兴安岭新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
-#EXTINF:-1 ,双鸭山新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
-#EXTINF:-1 ,精品萌宠
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
-#EXTINF:-1 ,睛彩青少
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
-#EXTINF:-1 ,CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
-#EXTINF:-1 ,延边卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 ,CGTN阿拉伯语
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
-#EXTINF:-1 ,CGTN法语
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
-#EXTINF:-1 ,Unknown
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-#EXTINF:-1 ,哈尔滨生活
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 ,双鸭山新闻综合HD
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-#EXTINF:-1 ,鹤岗新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="黑龙江",哈尔滨新闻综合
+https://rmplive.hljtv.com/live/haerbin.m3u8
+#EXTINF:-1 tvg-name="宾县综合" group-title="黑龙江",宾县综合
+https://rmplive.hljtv.com/live/binxian.m3u8
+#EXTINF:-1 tvg-name="巴彦电视台" group-title="黑龙江",巴彦电视台
+https://rmplive.hljtv.com/live/bayan.m3u8
+#EXTINF:-1 tvg-name="方正综合" group-title="黑龙江",方正综合
+https://rmplive.hljtv.com/live/fangzheng.m3u8
+#EXTINF:-1 tvg-name="呼兰综合" group-title="黑龙江",呼兰综合
+https://rmplive.hljtv.com/live/hulan.m3u8
+#EXTINF:-1 tvg-name="尚志新闻综合" group-title="黑龙江",尚志新闻综合
+https://rmplive.hljtv.com/live/shangzhi.m3u8
+#EXTINF:-1 tvg-name="通河新闻" group-title="黑龙江",通河新闻
+https://rmplive.hljtv.com/live/tonghe.m3u8
+#EXTINF:-1 tvg-name="五常综合" group-title="黑龙江",五常综合
+https://rmplive.hljtv.com/live/wuchang.m3u8
+#EXTINF:-1 tvg-name="依兰新闻综合" group-title="黑龙江",依兰新闻综合
+https://rmplive.hljtv.com/live/yilan.m3u8
+#EXTINF:-1 tvg-name="延寿综合" group-title="黑龙江",延寿综合
+https://rmplive.hljtv.com/live/yanshou.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" group-title="黑龙江",齐齐哈尔新闻综合
+https://rmplive.hljtv.com/live/qiqihaer.m3u8
+#EXTINF:-1 tvg-name="拜泉综合" group-title="黑龙江",拜泉综合
+https://rmplive.hljtv.com/live/baiquan.m3u8
+#EXTINF:-1 tvg-name="富裕综合" group-title="黑龙江",富裕综合
+https://rmplive.hljtv.com/live/fuyu.m3u8
+#EXTINF:-1 tvg-name="甘南县综合" group-title="黑龙江",甘南县综合
+https://rmplive.hljtv.com/live/gannan.m3u8
+#EXTINF:-1 tvg-name="克东综合" group-title="黑龙江",克东综合
+https://rmplive.hljtv.com/live/kedong.m3u8
+#EXTINF:-1 tvg-name="克山综合" group-title="黑龙江",克山综合
+https://rmplive.hljtv.com/live/keshan.m3u8
+#EXTINF:-1 tvg-name="龙江综合" group-title="黑龙江",龙江综合
+https://rmplive.hljtv.com/live/longjiang.m3u8
+#EXTINF:-1 tvg-name="讷河综合" group-title="黑龙江",讷河综合
+https://rmplive.hljtv.com/live/nehe.m3u8
+#EXTINF:-1 tvg-name="泰来综合" group-title="黑龙江",泰来综合
+https://rmplive.hljtv.com/live/tailai.m3u8
+#EXTINF:-1 tvg-name="依安综合" group-title="黑龙江",依安综合
+https://rmplive.hljtv.com/live/yian.m3u8
+#EXTINF:-1 tvg-name="东宁综合" group-title="黑龙江",东宁综合
+https://rmplive.hljtv.com/live/dongning.m3u8
+#EXTINF:-1 tvg-name="海林综合" group-title="黑龙江",海林综合
+https://rmplive.hljtv.com/live/hailin.m3u8
+#EXTINF:-1 tvg-name="林口综合" group-title="黑龙江",林口综合
+https://rmplive.hljtv.com/live/linkou.m3u8
+#EXTINF:-1 tvg-name="穆棱综合" group-title="黑龙江",穆棱综合
+https://rmplive.hljtv.com/live/muleng.m3u8
+#EXTINF:-1 tvg-name="宁安综合" group-title="黑龙江",宁安综合
+https://rmplive.hljtv.com/live/ningan.m3u8
+#EXTINF:-1 tvg-name="绥芬河综合" group-title="黑龙江",绥芬河综合
+https://rmplive.hljtv.com/live/suifenhe.m3u8
+#EXTINF:-1 tvg-name="佳木斯市新闻综合" group-title="黑龙江",佳木斯市新闻综合
+https://rmplive.hljtv.com/live/jiamusi.m3u8
+#EXTINF:-1 tvg-name="富锦电视台" group-title="黑龙江",富锦电视台
+https://rmplive.hljtv.com/live/fujin.m3u8
+#EXTINF:-1 tvg-name="抚远电视台" group-title="黑龙江",抚远电视台
+https://rmplive.hljtv.com/live/fuyuan.m3u8
+#EXTINF:-1 tvg-name="桦川新闻综合" group-title="黑龙江",桦川新闻综合
+https://rmplive.hljtv.com/live/huachuan.m3u8
+#EXTINF:-1 tvg-name="桦南综合" group-title="黑龙江",桦南综合
+https://rmplive.hljtv.com/live/huanan.m3u8
+#EXTINF:-1 tvg-name="同江电视台" group-title="黑龙江",同江电视台
+https://rmplive.hljtv.com/live/tongjiang.m3u8
+#EXTINF:-1 tvg-name="汤原综合" group-title="黑龙江",汤原综合
+https://rmplive.hljtv.com/live/tangyuan.m3u8
+#EXTINF:-1 tvg-name="大庆市新闻综合" group-title="黑龙江",大庆市新闻综合
+https://rmplive.hljtv.com/live/daqing.m3u8
+#EXTINF:-1 tvg-name="杜尔伯特综合" group-title="黑龙江",杜尔伯特综合
+https://rmplive.hljtv.com/live/duerbote.m3u8 x
+#EXTINF:-1 tvg-name="林甸综合" group-title="黑龙江",林甸综合
+https://rmplive.hljtv.com/live/lindian.m3u8
+#EXTINF:-1 tvg-name="肇源综合" group-title="黑龙江",肇源综合
+https://rmplive.hljtv.com/live/zhaoyuan.m3u8
+#EXTINF:-1 tvg-name="肇州综合" group-title="黑龙江",肇州综合
+https://rmplive.hljtv.com/live/zhaozhou.m3u8
+#EXTINF:-1 tvg-name="鸡西市新闻综合" group-title="黑龙江",鸡西市新闻综合
+https://rmplive.hljtv.com/live/jixi.m3u8
+#EXTINF:-1 tvg-name="虎林综合" group-title="黑龙江",虎林综合
+https://rmplive.hljtv.com/live/hulin.m3u8
+#EXTINF:-1 tvg-name="鸡东综合" group-title="黑龙江",鸡东综合
+http://rmplive.hljtv.com/live/jidong.m3u8
+#EXTINF:-1 tvg-name="密山综合" group-title="黑龙江",密山综合
+https://rmplive.hljtv.com/live/mishan.m3u8
+#EXTINF:-1 tvg-name="双鸭山.宝清综合" group-title="黑龙江",双鸭山.宝清综合
+https://rmplive.hljtv.com/live/baoqing.m3u8
+#EXTINF:-1 tvg-name="集贤综合" group-title="黑龙江",集贤综合
+https://rmplive.hljtv.com/live/jixian.m3u8
+#EXTINF:-1 tvg-name="饶河综合" group-title="黑龙江",饶河综合
+https://rmplive.hljtv.com/live/raohe.m3u8
+#EXTINF:-1 tvg-name="友谊综合" group-title="黑龙江",友谊综合
+https://rmplive.hljtv.com/live/youyi.m3u8
+#EXTINF:-1 tvg-name="伊春综合" group-title="黑龙江",伊春综合
+https://rmplive.hljtv.com/live/yichun.m3u8
+#EXTINF:-1 tvg-name="嘉荫综合" group-title="黑龙江",嘉荫综合
+https://rmplive.hljtv.com/live/jiayin.m3u8
+#EXTINF:-1 tvg-name="铁力综合" group-title="黑龙江",铁力综合
+https://rmplive.hljtv.com/live/tieli.m3u8
+#EXTINF:-1 tvg-name="七台河新闻综合" group-title="黑龙江",七台河新闻综合
+https://rmplive.hljtv.com/live/qitaihe.m3u8
+#EXTINF:-1 tvg-name="勃利综合" group-title="黑龙江",勃利综合
+https://rmplive.hljtv.com/live/boli.m3u8
+#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="黑龙江",鹤岗新闻综合
+https://rmplive.hljtv.com/live/hegang.m3u8
+#EXTINF:-1 tvg-name="萝北综合" group-title="黑龙江",萝北综合
+https://rmplive.hljtv.com/live/luobei.m3u8
+#EXTINF:-1 tvg-name="绥滨综合" group-title="黑龙江",绥滨综合
+https://rmplive.hljtv.com/live/suibin.m3u8
+#EXTINF:-1 tvg-name="绥化新闻综合" group-title="黑龙江",绥化新闻综合
+https://rmplive.hljtv.com/live/suihua.m3u8
+#EXTINF:-1 tvg-name="安达综合" group-title="黑龙江",安达综合
+https://rmplive.hljtv.com/live/anda.m3u8
+#EXTINF:-1 tvg-name="海伦综合" group-title="黑龙江",海伦综合
+https://rmplive.hljtv.com/live/hailun.m3u8
+#EXTINF:-1 tvg-name="兰西综合" group-title="黑龙江",兰西综合
+https://rmplive.hljtv.com/live/lanxi.m3u8
+#EXTINF:-1 tvg-name="明水综合" group-title="黑龙江",明水综合
+https://rmplive.hljtv.com/live/mingshui.m3u8
+#EXTINF:-1 tvg-name="庆安综合" group-title="黑龙江",庆安综合
+https://rmplive.hljtv.com/live/qingan.m3u8
+#EXTINF:-1 tvg-name="青冈综合" group-title="黑龙江",青冈综合
+https://rmplive.hljtv.com/live/qinggang.m3u8
+#EXTINF:-1 tvg-name="绥棱综合" group-title="黑龙江",绥棱综合
+https://rmplive.hljtv.com/live/suileng.m3u8
+#EXTINF:-1 tvg-name="望奎综合" group-title="黑龙江",望奎综合
+https://rmplive.hljtv.com/live/wangkui.m3u8
+#EXTINF:-1 tvg-name="肇东综合" group-title="黑龙江",肇东综合
+https://rmplive.hljtv.com/live/zhaodong.m3u8
+#EXTINF:-1 tvg-name="黑河新闻综合" group-title="黑龙江",黑河新闻综合
+https://rmplive.hljtv.com/live/heihe.m3u8
+#EXTINF:-1 tvg-name="北安综合" group-title="黑龙江",北安综合
+https://rmplive.hljtv.com/live/beian.m3u8
+#EXTINF:-1 tvg-name="嫩江综合" group-title="黑龙江",嫩江综合
+https://rmplive.hljtv.com/live/nenjiang.m3u8
+#EXTINF:-1 tvg-name="孙吴综合" group-title="黑龙江",孙吴综合
+https://rmplive.hljtv.com/live/sunwu.m3u8
+#EXTINF:-1 tvg-name="五大连池综合" group-title="黑龙江",五大连池综合
+https://rmplive.hljtv.com/live/wudalianchi.m3u8
+#EXTINF:-1 tvg-name="逊克综合" group-title="黑龙江",逊克综合
+https://rmplive.hljtv.com/live/xunke.m3u8
+#EXTINF:-1 tvg-name="大兴安岭新闻综合" group-title="黑龙江",大兴安岭新闻综合
+https://rmplive.hljtv.com/live/daxinganling.m3u8
+#EXTINF:-1 tvg-name="呼玛综合" group-title="黑龙江",呼玛综合
+https://rmplive.hljtv.com/live/huma.m3u8
+#EXTINF:-1 tvg-name="塔河综合" group-title="黑龙江",塔河综合
+https://rmplive.hljtv.com/live/tahe.m3u8
+#EXTINF:-1 tvg-name="漠河综合" group-title="黑龙江",漠河综合
+https://rmplive.hljtv.com/live/mohe.m3u8

@@ -449,46 +449,104 @@ http://stream.hrbtv.net/xwzh/sd/live.m3u8
 http://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨影视" group-title="黑龙江",哈尔滨影视
 http://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 tvg-name="哈尔滨.巴彦电视台" group-title="黑龙江",哈尔滨.巴彦电视台
+https://rmplive.hljtv.com/live/bayan.m3u8
+#EXTINF:-1 tvg-name="哈尔滨.宾县综合" group-title="黑龙江",哈尔滨.宾县综合
+https://rmplive.hljtv.com/live/binxian.m3u8
 #EXTINF:-1 tvg-name="哈尔滨.方正综合" group-title="黑龙江",哈尔滨.方正综合
 https://rmplive.hljtv.com/live/fangzheng.m3u8
+#EXTINF:-1 tvg-name="哈尔滨.呼兰综合" group-title="黑龙江",哈尔滨.呼兰综合
+https://rmplive.hljtv.com/live/hulan.m3u8
 #EXTINF:-1 tvg-name="哈尔滨.尚志综合" group-title="黑龙江",哈尔滨.尚志综合
 https://rmplive.hljtv.com/live/shangzhi.m3u8
 #EXTINF:-1 tvg-name="哈尔滨.通河县综合频道" group-title="黑龙江",哈尔滨.通河县综合频道
 https://rmplive.hljtv.com/live/tonghe.m3u8
+#EXTINF:-1 tvg-name="哈尔滨.五常综合" group-title="黑龙江",哈尔滨.五常综合
+https://rmplive.hljtv.com/live/wuchang.m3u8
+#EXTINF:-1 tvg-name="哈尔滨.延寿综合" group-title="黑龙江",哈尔滨.延寿综合
+https://rmplive.hljtv.com/live/yanshou.m3u8
 #EXTINF:-1 tvg-name="哈尔滨.依兰综合" group-title="黑龙江",哈尔滨.依兰综合
 https://rmplive.hljtv.com/live/yilan.m3u8
+#EXTINF:-1 tvg-name="大庆市新闻综合" group-title="黑龙江",大庆市新闻综合
+https://rmplive.hljtv.com/live/daqing.m3u8
 #EXTINF:-1 tvg-name="大庆.林甸综合频道" group-title="黑龙江",大庆.林甸综合频道
 https://rmplive.hljtv.com/live/lindian.m3u8
 #EXTINF:-1 tvg-name="大庆.肇源综合频道" group-title="黑龙江",大庆.肇源综合频道
 https://rmplive.hljtv.com/live/zhaoyuan.m3u8
+#EXTINF:-1 tvg-name="大庆.肇州综合" group-title="黑龙江",大庆.肇州综合
+https://rmplive.hljtv.com/live/zhaozhou.m3u8
+#EXTINF:-1 tvg-name="大兴安岭新闻综合" group-title="黑龙江",大兴安岭新闻综合
+https://rmplive.hljtv.com/live/daxinganling.m3u8
 #EXTINF:-1 tvg-name="大兴安岭.呼玛综合" group-title="黑龙江",大兴安岭.呼玛综合
 https://rmplive.hljtv.com/live/huma.m3u8
 #EXTINF:-1 tvg-name="大兴安岭.漠河综合频道" group-title="黑龙江",大兴安岭.漠河综合频道
 https://rmplive.hljtv.com/live/mohe.m3u8
 #EXTINF:-1 tvg-name="大兴安岭.塔河综合频道" group-title="黑龙江",大兴安岭.塔河综合频道
 https://rmplive.hljtv.com/live/tahe.m3u8
+#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="黑龙江",鹤岗新闻综合
+https://rmplive.hljtv.com/live/hegang.m3u8
+#EXTINF:-1 tvg-name="鹤岗.萝北综合" group-title="黑龙江",鹤岗.萝北综合
+https://rmplive.hljtv.com/live/luobei.m3u8
+#EXTINF:-1 tvg-name="鹤岗.绥滨综合" group-title="黑龙江",鹤岗.绥滨综合
+https://rmplive.hljtv.com/live/suibin.m3u8
 #EXTINF:-1 tvg-name="黑河新闻综合" group-title="黑龙江",黑河新闻综合
 https://rmplive.hljtv.com/live/heihe.m3u8
+#EXTINF:-1 tvg-name="黑河.北安综合" group-title="黑龙江",黑河.北安综合
+https://rmplive.hljtv.com/live/beian.m3u8
 #EXTINF:-1 tvg-name="黑河.嫩江综合" group-title="黑龙江",黑河.嫩江综合
 https://rmplive.hljtv.com/live/nenjiang.m3u8
 #EXTINF:-1 tvg-name="黑河.孙吴综合" group-title="黑龙江",黑河.孙吴综合
 https://rmplive.hljtv.com/live/sunwu.m3u8
+#EXTINF:-1 tvg-name="黑河.五大连池综合" group-title="黑龙江",黑河.五大连池综合
+https://rmplive.hljtv.com/live/wudalianchi.m3u8
+#EXTINF:-1 tvg-name="黑河.逊克综合" group-title="黑龙江",黑河.逊克综合
+https://rmplive.hljtv.com/live/xunke.m3u8
+#EXTINF:-1 tvg-name="鸡西市新闻综合" group-title="黑龙江",鸡西市新闻综合
+https://rmplive.hljtv.com/live/jixi.m3u8
 #EXTINF:-1 tvg-name="鸡西.虎林综合频道" group-title="黑龙江",鸡西.虎林综合频道
 https://rmplive.hljtv.com/live/hulin.m3u8
+#EXTINF:-1 tvg-name="鸡西.鸡东综合" group-title="黑龙江",鸡西.鸡东综合
+http://rmplive.hljtv.com/live/jidong.m3u8
 #EXTINF:-1 tvg-name="鸡西.密山综合" group-title="黑龙江",鸡西.密山综合
 https://rmplive.hljtv.com/live/mishan.m3u8
+#EXTINF:-1 tvg-name="佳木斯市新闻综合" group-title="黑龙江",佳木斯市新闻综合
+https://rmplive.hljtv.com/live/jiamusi.m3u8
 #EXTINF:-1 tvg-name="佳木斯.抚远综合" group-title="黑龙江",佳木斯.抚远综合
 https://rmplive.hljtv.com/live/fuyuan.m3u8
+#EXTINF:-1 tvg-name="佳木斯.富锦电视台" group-title="黑龙江",佳木斯.富锦电视台
+https://rmplive.hljtv.com/live/fujin.m3u8
+#EXTINF:-1 tvg-name="佳木斯.桦川新闻综合" group-title="黑龙江",佳木斯.桦川新闻综合
+https://rmplive.hljtv.com/live/huachuan.m3u8
+#EXTINF:-1 tvg-name="佳木斯.桦南综合" group-title="黑龙江",佳木斯.桦南综合
+https://rmplive.hljtv.com/live/huanan.m3u8
 #EXTINF:-1 tvg-name="佳木斯.汤原综合" group-title="黑龙江",佳木斯.汤原综合
 https://rmplive.hljtv.com/live/tangyuan.m3u8
+#EXTINF:-1 tvg-name="佳木斯.同江电视台" group-title="黑龙江",佳木斯.同江电视台
+https://rmplive.hljtv.com/live/tongjiang.m3u8
 #EXTINF:-1 tvg-name="牡丹江.东宁综合频道" group-title="黑龙江",牡丹江.东宁综合频道
 https://rmplive.hljtv.com/live/dongning.m3u8
+#EXTINF:-1 tvg-name="牡丹江.海林综合" group-title="黑龙江",牡丹江.海林综合
+https://rmplive.hljtv.com/live/hailin.m3u8
+#EXTINF:-1 tvg-name="牡丹江.林口综合" group-title="黑龙江",牡丹江.林口综合
+https://rmplive.hljtv.com/live/linkou.m3u8
+#EXTINF:-1 tvg-name="牡丹江.穆棱综合" group-title="黑龙江",牡丹江.穆棱综合
+https://rmplive.hljtv.com/live/muleng.m3u8
 #EXTINF:-1 tvg-name="牡丹江.宁安综合" group-title="黑龙江",牡丹江.宁安综合
 https://rmplive.hljtv.com/live/ningan.m3u8
 #EXTINF:-1 tvg-name="牡丹江.绥芬河综合" group-title="黑龙江",牡丹江.绥芬河综合
 https://rmplive.hljtv.com/live/suifenhe.m3u8
+#EXTINF:-1 tvg-name="七台河新闻综合" group-title="黑龙江",七台河新闻综合
+https://rmplive.hljtv.com/live/qitaihe.m3u8
+#EXTINF:-1 tvg-name="七台河.勃利综合" group-title="黑龙江",七台河.勃利综合
+https://rmplive.hljtv.com/live/boli.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" group-title="黑龙江",齐齐哈尔新闻综合
+https://rmplive.hljtv.com/live/qiqihaer.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔.拜泉综合" group-title="黑龙江",齐齐哈尔.拜泉综合
 https://rmplive.hljtv.com/live/baiquan.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔.富裕综合" group-title="黑龙江",齐齐哈尔.富裕综合
+https://rmplive.hljtv.com/live/fuyu.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔.甘南县综合" group-title="黑龙江",齐齐哈尔.甘南县综合
+https://rmplive.hljtv.com/live/gannan.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔.克东综合" group-title="黑龙江",齐齐哈尔.克东综合
 https://rmplive.hljtv.com/live/kedong.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔.克山综合" group-title="黑龙江",齐齐哈尔.克山综合
@@ -499,20 +557,40 @@ https://rmplive.hljtv.com/live/longjiang.m3u8
 https://rmplive.hljtv.com/live/nehe.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔.泰来综合" group-title="黑龙江",齐齐哈尔.泰来综合
 https://rmplive.hljtv.com/live/tailai.m3u8
-#EXTINF:-1 tvg-name="七台河新闻综合" group-title="黑龙江",七台河新闻综合
-https://rmplive.hljtv.com/live/qitaihe.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔.依安综合" group-title="黑龙江",齐齐哈尔.依安综合
+https://rmplive.hljtv.com/live/yian.m3u8
+#EXTINF:-1 tvg-name="双鸭山.宝清综合" group-title="黑龙江",双鸭山.宝清综合
+https://rmplive.hljtv.com/live/baoqing.m3u8
+#EXTINF:-1 tvg-name="双鸭山.集贤综合" group-title="黑龙江",双鸭山.集贤综合
+https://rmplive.hljtv.com/live/jixian.m3u8
+#EXTINF:-1 tvg-name="双鸭山.饶河综合" group-title="黑龙江",双鸭山.饶河综合
+https://rmplive.hljtv.com/live/raohe.m3u8
+#EXTINF:-1 tvg-name="双鸭山.友谊综合" group-title="黑龙江",双鸭山.友谊综合
+https://rmplive.hljtv.com/live/youyi.m3u8
 #EXTINF:-1 tvg-name="绥化新闻综合" group-title="黑龙江",绥化新闻综合
 https://rmplive.hljtv.com/live/suihua.m3u8
+#EXTINF:-1 tvg-name="绥化.安达综合" group-title="黑龙江",绥化.安达综合
+https://rmplive.hljtv.com/live/anda.m3u8
 #EXTINF:-1 tvg-name="绥化.海伦市综合频道" group-title="黑龙江",绥化.海伦市综合频道
 https://rmplive.hljtv.com/live/hailun.m3u8
 #EXTINF:-1 tvg-name="绥化.兰西综合频道" group-title="黑龙江",绥化.兰西综合频道
 https://rmplive.hljtv.com/live/lanxi.m3u8
+#EXTINF:-1 tvg-name="绥化.明水综合" group-title="黑龙江",绥化.明水综合
+https://rmplive.hljtv.com/live/mingshui.m3u8
 #EXTINF:-1 tvg-name="绥化.青冈综合" group-title="黑龙江",绥化.青冈综合
 https://rmplive.hljtv.com/live/qinggang.m3u8
 #EXTINF:-1 tvg-name="绥化.庆安县综合频道" group-title="黑龙江",绥化.庆安县综合频道
 https://rmplive.hljtv.com/live/qingan.m3u8
 #EXTINF:-1 tvg-name="绥化.绥棱综合" group-title="黑龙江",绥化.绥棱综合
 https://rmplive.hljtv.com/live/suileng.m3u8
+#EXTINF:-1 tvg-name="绥化.望奎综合" group-title="黑龙江",绥化.望奎综合
+https://rmplive.hljtv.com/live/wangkui.m3u8
+#EXTINF:-1 tvg-name="绥化.肇东综合" group-title="黑龙江",绥化.肇东综合
+https://rmplive.hljtv.com/live/zhaodong.m3u8
+#EXTINF:-1 tvg-name="伊春综合" group-title="黑龙江",伊春综合
+https://rmplive.hljtv.com/live/yichun.m3u8
+#EXTINF:-1 tvg-name="伊春.嘉荫综合" group-title="黑龙江",伊春.嘉荫综合
+https://rmplive.hljtv.com/live/jiayin.m3u8
 #EXTINF:-1 tvg-name="伊春.铁力综合" group-title="黑龙江",伊春.铁力综合
 https://rmplive.hljtv.com/live/tieli.m3u8
 #EXTINF:-1 tvg-name="武汉教育" group-title="湖北",武汉教育
