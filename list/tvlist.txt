@@ -79,11 +79,13 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CGTN纪录.png" group-title="总台",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="书画" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CIBN书画频道.png" group-title="总台",CIBN书画频道
+#EXTINF:-1 tvg-name="CIBN书画频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CIBN书画频道.png" group-title="总台",书画频道
 http://211.103.180.178:8233/live_hls/hdmi.m3u8
-#EXTINF:-1 tvg-name="CNC新华社" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC中文台.png" group-title="总台",CNC新华新闻
+#EXTINF:-1 tvg-name="CMA中国天气" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CMA中国天气.png" group-title="总台",中国天气
+http://zcj.work.gd/ZhongGuoTianQi.m3u8
+#EXTINF:-1 tvg-name="CNC新华社" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC中文台.png" group-title="总台",新华新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
-#EXTINF:-1 tvg-name="CNC新华全球连线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC英文台.png" group-title="总台",CNC新华全球连线
+#EXTINF:-1 tvg-name="CNC新华全球连线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CNC英文台.png" group-title="总台",新华全球连线
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/江西.png" group-title="卫视",江西卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
