@@ -4,11 +4,11 @@
 - 电视直播<br>
 [github](https://huangsuming.github.io/iptv/list/tvlist.txt)<br>
 [codeberg](https://huangsuming.codeberg.page/list/tvlist.txt)<br>
-[netlify](https://iptv-huangsuming.netlify.app/list/tvlist.txt)<br>
+[netlify](https://iptvhsm.netlify.app/list/tvlist.txt)<br>
 - 电台直播<br>
 [github](https://huangsuming.github.io/iptv/list/radio.txt)<br>
 [codeberg](https://huangsuming.codeberg.page/list/radio.txt)<br>
-[netlify](https://iptv-huangsuming.netlify.app/list/radio.txt)<br>
+[netlify](https://iptvhsm.netlify.app/list/radio.txt)<br>
 - [托管平台](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
 - NSFW:<br>
   [AdultIPTV](http://adultiptv.net/):<br>
