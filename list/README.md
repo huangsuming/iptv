@@ -9,21 +9,20 @@
 [netlify](https://iptvhsm.netlify.app/list/radio.txt)<br>
 - [托管平台](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
 - NSFW:<br>
+  [RedTraffic](http://redtraffic.net/all.m3u8)<br>
   [AdultIPTV](http://adultiptv.net/):<br>
     (1)M3U:[Adult](http://adultiptv.net/chs.m3u) [MyCamTV](http://adultiptv.net/videos.m3u8)<br>
     (2)Xtream Codes<br>
+	服务器地址:https://xc.adultiptv.net<br>
 	用户名:adultiptv<br>
 	密码:adultiptv<br>
-	服务器地址:https://xc.adultiptv.net<br>
-  [RedTraffic](http://redtraffic.net/all.m3u8)<br>
-
 
 ## 采集来源<br>
-   [聚玩盒子](https://juwanhezi.com/more/live)<br>
+   聚玩盒子:[直播源](https://juwanhezi.com/more/live)<br>
    搜索引擎:[tonkiang](http://tonkiang.us/)<br>
    电视节目列表:[epg.pw](https://epg.pw/)<br>
    Github:<br>
-	- fanmingming:	[live](https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u)<br>
+	- fanmingming: [live](https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u)<br>
 
 ## 各省英文缩写
    省份			 拼音缩写<br>
