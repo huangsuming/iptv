@@ -18,11 +18,18 @@
 	密  码:adultiptv<br>
 
 ## 采集来源<br>
-   聚玩盒子:[直播源](https://juwanhezi.com/more/live)<br>
    搜索引擎:[tonkiang](http://tonkiang.us/)<br>
+   恩山无线:[iptv资源](https://www.right.com.cn/forum/forum-182-1.html)<br>
+   KanIPTV:[iptv资源](http://kaniptv.com/forum.php?mod=forumdisplay&fid=2)<br>
+   FreeIPTV:[中文频道](https://www.iptv-free.com/)<br>
    电视节目列表:[epg.pw](https://epg.pw/)<br>
-   Github:[fanmingming](https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u)<br>
-
+## 直播源列表<br>
+   https://iptvindex.com/tv.txt<br>
+   https://live.zbds.top/tv/iptv4.txt
+   https://live.hacks.tools/tv/iptv4.txt<br>
+   https://live.hacks.tools/tv/iptv6.txt<br>
+   https://live.hacks.tools/radio/m3u/index.m3u<br>
+   https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u<br>
 ## 各省英文缩写
    省份			 拼音缩写<br>
    安徽省		 AH<br>

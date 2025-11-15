@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CBN重温经典.png" group-title="总台",CBN重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
-http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
+http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV8K.png" group-title="总台",CCTV 8K
 http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV1.png" group-title="总台",CCTV1综合
@@ -80,9 +80,9 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CGTN纪录.png" group-title="总台",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CIBN书画频道" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CIBN书画频道.png" group-title="总台",书画频道
-http://211.103.180.178:8233/live_hls/hdmi.m3u8
+http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/sh_4000.m3u8
 #EXTINF:-1 tvg-name="CMA中国天气" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CMA中国天气.png" group-title="总台",中国天气
-http://zcj.work.gd/ZhongGuoTianQi.m3u8
+http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 #EXTINF:-1 tvg-name="CNC新华社" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CNC中文台.png" group-title="总台",新华新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
 #EXTINF:-1 tvg-name="CNC新华全球连线" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CNC英文台.png" group-title="总台",新华全球连线
@@ -162,7 +162,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/浙江.png" group-title="卫视",浙江卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-name="HKS" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/香港.png" group-title="卫视",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="纯享4K" group-title="付费",4KUHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="付费",CHC动作电影
@@ -193,100 +193,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 #EXTINF:-1 tvg-name="追番必看" group-title="付费",追番必看
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
-#EXTINF:-1 tvg-name="1983" group-title="春晚",1983
-http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1984" group-title="春晚",1984
-https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1985" group-title="春晚",1985
-http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1986" group-title="春晚",1986
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1987" group-title="春晚",1987
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-name="1988" group-title="春晚",1988
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-name="1989" group-title="春晚",1989
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-name="1990" group-title="春晚",1990
-https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="1991" group-title="春晚",1991
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1992" group-title="春晚",1992
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1993" group-title="春晚",1993
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1994" group-title="春晚",1994
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1995" group-title="春晚",1995
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1996" group-title="春晚",1996
-https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1997" group-title="春晚",1997
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1998" group-title="春晚",1998
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1999" group-title="春晚",1999
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2000" group-title="春晚",2000
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2001" group-title="春晚",2001
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2002" group-title="春晚",2002
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2003" group-title="春晚",2003
-https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2004" group-title="春晚",2004
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2005" group-title="春晚",2005
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2006" group-title="春晚",2006
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2007" group-title="春晚",2007
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2008" group-title="春晚",2008
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2009" group-title="春晚",2009
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2010" group-title="春晚",2010
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2011" group-title="春晚",2011
-https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2012" group-title="春晚",2012
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2013" group-title="春晚",2013
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2014" group-title="春晚",2014
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2015" group-title="春晚",2015
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2016" group-title="春晚",2016
-https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2017" group-title="春晚",2017
-https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2018" group-title="春晚",2018
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2019" group-title="春晚",2019
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2020" group-title="春晚",2020
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2021" group-title="春晚",2021
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2022" group-title="春晚",2022
-https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2023" group-title="春晚",2023
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 tvg-name="Arirang" group-title="外语",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN" group-title="外语",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="KBS World" group-title="外语",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-name="Russia Today" group-title="外语",Russia Today
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-name="TBS" group-title="外语",TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-name="VOA" group-title="外语",VOA
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-name="江西新闻" group-title="江西",江西新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西都市" group-title="江西",江西都市
@@ -303,8 +209,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="陶瓷" group-title="江西",陶瓷
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226304/2/index.m3u8
-#EXTINF:-1 tvg-name="移动电视" group-title="江西",移动电视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226285/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西IPTV1" group-title="江西",江西IPTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
 #EXTINF:-1 tvg-name="江西IPTV2" group-title="江西",江西IPTV2
@@ -315,50 +219,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 #EXTINF:-1 tvg-name="南昌资讯" group-title="江西",南昌资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
-#EXTINF:-1 tvg-name="安徽公共" group-title="安徽",安徽公共
-http://43.129.81.169/live.ahsx.ahtv.cn/live/ggtv.m3u8
-#EXTINF:-1 tvg-name="安徽国际" group-title="安徽",安徽国际
-http://43.129.81.169/live.ahsx.ahtv.cn/live/gjtv.m3u8
-#EXTINF:-1 tvg-name="安徽经济生活" group-title="安徽",安徽经济生活
-http://43.129.81.169/live.ahsx.ahtv.cn/live/jjshtv.m3u8
-#EXTINF:-1 tvg-name="安徽农业科教" group-title="安徽",安徽农业科教
-http://43.129.81.169/live.ahsx.ahtv.cn/live/nykjtv.m3u8
-#EXTINF:-1 tvg-name="安徽影视" group-title="安徽",安徽影视
-http://43.129.81.169/live.ahsx.ahtv.cn/live/ystv.m3u8
-#EXTINF:-1 tvg-name="安徽综艺体育" group-title="安徽",安徽综艺体育
-http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8
-#EXTINF:-1 tvg-name="安庆综合" group-title="安徽",安庆综合
-http://43.129.81.169/nrtapush.ahsx.ahtv.cn/live/aqpd.m3u8
-#EXTINF:-1 tvg-name="安庆.潜山综合" group-title="安徽",安庆.潜山综合
-https://qsxw.gov.cn/rtmp_export/video22.m3u8
-#EXTINF:-1 tvg-name="蚌埠综合" group-title="安徽",蚌埠综合
-http://43.129.81.169/live.ahsx.ahtv.cn/live/bbtv.m3u8
-#EXTINF:-1 tvg-name="滁州新闻综合" group-title="安徽",滁州新闻综合
-http://live.cztv.cc:85/live/xwpd.m3u8
-#EXTINF:-1 tvg-name="滁州公共频道" group-title="安徽",滁州公共频道
-http://live.cztv.cc:85/live/ggpd.m3u8
-#EXTINF:-1 tvg-name="滁州科教频道" group-title="安徽",滁州科教频道
-http://live.cztv.cc:85/live/sjpd.m3u8
-#EXTINF:-1 tvg-name="毫州" group-title="安徽",毫州
-http://112.30.194.221:20080/live/83c292f300f44da6a403dc86878311b1/hls.m3u8
-#EXTINF:-1 tvg-name="毫州农村频道" group-title="安徽",毫州农村频道
-http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 tvg-name="淮北新闻综合" group-title="安徽",淮北新闻综合
-http://43.129.81.169/live.ahsx.ahtv.cn/live/hbds.m3u8
-#EXTINF:-1 tvg-name="淮南新闻综合" group-title="安徽",淮南新闻综合
-http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
-#EXTINF:-1 tvg-name="淮南民生" group-title="安徽",淮南民生
-http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
-#EXTINF:-1 tvg-name="黄山新闻综合" group-title="安徽",黄山新闻综合
-http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
-#EXTINF:-1 tvg-name="黄山文旅频道" group-title="安徽",黄山文旅频道
-http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
-#EXTINF:-1 tvg-name="六安综合" group-title="安徽",六安综合
-http://43.129.81.169/live.ahsx.ahtv.cn/live/latv.m3u8
-#EXTINF:-1 tvg-name="芜湖新闻综合" group-title="安徽",芜湖新闻综合
-http://43.129.81.169/live.ahsx.ahtv.cn/live/whpd.m3u8
-#EXTINF:-1 tvg-name="宣城综合" group-title="安徽",宣城综合
-http://43.129.81.169/live.ahsx.ahtv.cn/live/xctv.m3u8
 #EXTINF:-1 tvg-name="纪实科教" group-title="北京",纪实科教
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="KAKU少儿" group-title="北京",KAKU少儿
@@ -369,22 +229,14 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=
 http://183.64.174.171:40123/ch1.m3u8
 #EXTINF:-1 tvg-name="潼南综合" group-title="重庆",潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 tvg-name="广东民生" group-title="广东",广东民生
-http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-name="河源综合" group-title="广东",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共" group-title="广东",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 tvg-name="阳江1" group-title="广东",阳江1
-https://live.yjtvw.com:8081/live/yjtv1.m3u8
-#EXTINF:-1 tvg-name="阳江2" group-title="广东",阳江2
-https://live.yjtvw.com:8081/live/yjtv2.m3u8
-#EXTINF:-1 tvg-name="云浮综合" group-title="广东",云浮综合
-http://livestream.oeeee.com/slive/17806.m3u8
 #EXTINF:-1 tvg-name="云浮文旅" group-title="广东",云浮文旅
-http://livestream.oeeee.com/slive/17807.m3u8
+https://livestream.oeeee.com/slive/28284.m3u8
 #EXTINF:-1 tvg-name="南宁新闻综合" group-title="广西",南宁新闻综合
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 tvg-name="南宁公共" group-title="广西",南宁公共
@@ -395,18 +247,10 @@ https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-name="南宁慢直播" group-title="广西",南宁慢直播
 https://hls.nntv.cn/nnlive/LYL1_24.m3u8
-#EXTINF:-1 tvg-name="贺州综合" group-title="广西",贺州综合
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 #EXTINF:-1 tvg-name="黔南1台" group-title="贵州",黔南1台
 http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
 #EXTINF:-1 tvg-name="黔南2台" group-title="贵州",黔南2台
 http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
-#EXTINF:-1 tvg-name="海口1台" group-title="海南",海口1台
-http://183.255.46.4:16080/live/tv01qnuu8lxfc0rj.m3u8
-#EXTINF:-1 tvg-name="海口2台" group-title="海南",海口2台
-http://183.255.46.4:16080/live/tv02bueim7p8prw4.m3u8
-#EXTINF:-1 tvg-name="海口3台" group-title="海南",海口3台
-http://183.255.46.4:16080/live/tv03fu70esbaw9si.m3u8
 #EXTINF:-1 tvg-name="张家口1台" group-title="河北",张家口1台
 http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 #EXTINF:-1 tvg-name="张家口2台" group-title="河北",张家口2台
