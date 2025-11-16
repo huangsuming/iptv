@@ -79,10 +79,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CGTN纪录.png" group-title="总台",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="CIBN书画频道" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CIBN书画频道.png" group-title="总台",书画频道
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226370/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CMA气象频道" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CMA气象频道.png" group-title="总台",气象频道
-http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 #EXTINF:-1 tvg-name="CNC新华社" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CNC中文台.png" group-title="总台",新华新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
 #EXTINF:-1 tvg-name="CNC新华全球连线" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CNC英文台.png" group-title="总台",新华全球连线
@@ -91,8 +87,34 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226378/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="GTTV环球旅游" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/GTTV环球旅游.png" group-title="总台",GTTV环球旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226313/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="少儿",嘉佳卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-name="江西少儿" group-title="少儿",江西少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿",金鹰卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8
+#EXTINF:-1 tvg-name="KAKU少儿" group-title="少儿",KAKU少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="优优宝贝" group-title="少儿",优优宝贝
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226312/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江少儿" group-title="少儿",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="国学频道" group-title="NewTV",国学频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226338/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="国学苑" group-title="NewTV",国学苑
 http://117.169.120.98:8080/ysten-businessmobile/live/HD-4000k-1080P-guoxueyuan/1.m3u8
+#EXTINF:-1 tvg-name="书画频道" group-title="NewTV",书画频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226370/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="NewTV",四海钓鱼
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226330/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="中国天气" group-title="NewTV",中国天气
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226334/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="东北热剧" group-title="NewTV",东北热剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/01.m3u8
+#EXTINF:-1 tvg-name="中国功夫" group-title="NewTV",中国功夫
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/01.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/江西.png" group-title="卫视",江西卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/安徽.png" group-title="卫视",安徽卫视
@@ -123,6 +145,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/海南.png" group-title="卫视",海南卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/index.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/三沙.png" group-title="卫视",三沙卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226356/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/河北.png" group-title="卫视",河北卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/河南.png" group-title="卫视",河南卫视
@@ -209,8 +233,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西经济生活" group-title="江西",江西经济生活
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿" group-title="江西",江西少儿
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西影视旅游" group-title="江西",江西影视旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="陶瓷" group-title="江西",陶瓷
@@ -225,18 +247,20 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 #EXTINF:-1 tvg-name="南昌资讯" group-title="江西",南昌资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
+#EXTINF:-1 ,tvg-name="九江公共频道" group-title="江西",九江公共频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226420/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,tvg-name="九江教育频道" group-title="江西",九江教育频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,tvg-name="九江新闻综合频道" group-title="江西",九江新闻综合频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="纪实科教" group-title="北京",纪实科教
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-name="KAKU少儿" group-title="北京",KAKU少儿
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="重庆汽摩" group-title="重庆",重庆汽摩
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="铜梁综合" group-title="重庆",铜梁综合
 http://183.64.174.171:40123/ch1.m3u8
 #EXTINF:-1 tvg-name="潼南综合" group-title="重庆",潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-name="河源综合" group-title="广东",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共" group-title="广东",河源公共
@@ -365,8 +389,8 @@ http://59.175.226.142:280/gb28181/xwzh.m3u8
 http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="湖南",金鹰纪实
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="湖南",金鹰卡通
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8
+#EXTINF:-1 tvg-name="先锋乒羽" group-title="湖南",先锋乒羽
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226311/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="长春.德惠综合" group-title="吉林",长春.德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="长春.九台综合" group-title="吉林",长春.九台综合
@@ -389,8 +413,6 @@ http://stream5.jlntv.cn/hn/sd/live.m3u8
 http://stream5.jlntv.cn/thx/sd/live.m3u8
 #EXTINF:-1 tvg-name="延边.珲春" group-title="吉林",延边.珲春
 http://stream8.jlntv.cn/hctv/sd/live.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" group-title="江苏",优漫卡通
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="南京.江宁综合" group-title="江苏",南京.江宁综合
 http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 tvg-name="常州.金坛新闻" group-title="江苏",常州.金坛新闻
@@ -503,8 +525,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" group-title="浙江",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" group-title="浙江",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江影视娱乐" group-title="浙江",浙江影视娱乐
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" group-title="浙江",钱江都市
