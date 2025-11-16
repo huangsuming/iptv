@@ -201,6 +201,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
 #EXTINF:-1 tvg-name="动画世界" group-title="少儿",动画世界
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226272/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
+http://[2409:8087:1e02:20::1a]/000000001000/5000000011000031123/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" group-title="少儿",黑莓动画
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="少儿",嘉佳卡通
@@ -517,6 +519,16 @@ http://xatv-yt.xiancity.cn/live/5/index.m3u8
 http://xatv-yt.xiancity.cn/live/4/index.m3u8
 #EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安移动电视
 http://xatv-yt.xiancity.cn/live/7/index.m3u8
+#EXTINF:-1 tvg-name="都市剧场" group-title="上海",都市剧场
+http://[2409:8087:1e02:20::1a]/000000001000/5000000002000004412/index.m3u8
+#EXTINF:-1 tvg-name="法治天地" group-title="上海",法治天地
+http://[2409:8087:1e02:20::1a]/000000001000/9001547084732463424/index.m3u8
+#EXTINF:-1 tvg-name="金色学堂" group-title="上海",金色学堂
+http://[2409:8087:1e02:20::1a]/000000001000/5000000010000026105/index.m3u8
+#EXTINF:-1 tvg-name="乐游" group-title="上海",乐游
+http://[2409:8087:1e02:20::1a]/000000001000/5000000011000031112/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云" group-title="上海",游戏风云
+http://[2409:8087:1e02:20::1a]/000000001000/5000000002000027005/index.m3u8
 #EXTINF:-1 tvg-name="阿坝.松潘" group-title="四川",阿坝.松潘
 http://live.spccmc.com:90/live/spxwzh.m3u8
 #EXTINF:-1 tvg-name="乐山新闻综合" group-title="四川",乐山新闻综合
