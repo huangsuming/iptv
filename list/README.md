@@ -24,5 +24,5 @@
    电视节目列表:[epg.pw](https://epg.pw/)<br>
 ## 直播源列表<br>
    https://iptvindex.com/tv.txt<br>
-
+   https://freetv.fun/test_channels_all_original_new.txt<br>
 
