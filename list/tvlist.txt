@@ -75,6 +75,12 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV4.png" group-title="总台",CETV4职业教育频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="中央新影.发现之旅" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CND中央新影发现之旅.png" group-title="总台",中央新影.发现之旅
+http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
+#EXTINF:-1 tvg-name="中央新影.老故事" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CND中央新影老故事.png" group-title="总台",中央新影.老故事
+http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
+#EXTINF:-1 tvg-name="中央新影.中学生" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CND中央新影中学生.png" group-title="总台",中央新影.中学生
+http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHONGXUESHENG/G_ZHONGXUESHENG.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CGTN.png" group-title="总台",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CGTN纪录.png" group-title="总台",CGTN纪录
