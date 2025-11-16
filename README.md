@@ -39,7 +39,7 @@
 [范明明](https://github.com/fanmingming)<br>
 
 # 留言
-- [WebNote](https://webnote.cc/suxiaoming)<br>
+- [WebNote](https://webnote.cc/suxiaoming){target="_blank"}<br>
   留言格式:日期(YYYYMMDD)-频道名称-问题描述(只接受江西移动网络环境下的问题反馈<br>
   
 # 最新动态
