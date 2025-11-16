@@ -164,7 +164,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/新疆.png" group-title="卫视",新疆卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/延边.png" group-title="卫视",延边卫视
-https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/云南.png" group-title="卫视",云南卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/浙江.png" group-title="卫视",浙江卫视
