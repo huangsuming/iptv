@@ -87,6 +87,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226378/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="GTTV环球旅游" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/GTTV环球旅游.png" group-title="总台",GTTV环球旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226313/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="动画世界" group-title="少儿",动画世界
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226272/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" group-title="少儿",黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="少儿",嘉佳卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-name="江西少儿" group-title="少儿",江西少儿
@@ -95,6 +99,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8
 #EXTINF:-1 tvg-name="KAKU少儿" group-title="少儿",KAKU少儿
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="新动漫" group-title="少儿",新动漫
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226322/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="优优宝贝" group-title="少儿",优优宝贝
@@ -111,10 +117,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226370/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226330/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="中国天气" group-title="NewTV",中国天气
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226334/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="东北热剧" group-title="NewTV",东北热剧
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/01.m3u8
-#EXTINF:-1 tvg-name="中国功夫" group-title="NewTV",中国功夫
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/01.m3u8
+#EXTINF:-1 tvg-name="精品体育" group-title="NewTV",精品体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/01.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/江西.png" group-title="卫视",江西卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/安徽.png" group-title="卫视",安徽卫视
@@ -209,12 +213,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-name="点掌财经" group-title="付费",点掌财经
 https://volcanopull.aniu.tv/live/aniu2/index.m3u8
-#EXTINF:-1 tvg-name="动画世界" group-title="付费",动画世界
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226272/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" group-title="付费",黑莓电影
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" group-title="付费",黑莓动画
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" group-title="付费",睛彩广场舞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226391/01.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" group-title="付费",睛彩竞技
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" group-title="付费",睛彩篮球
@@ -236,17 +238,19 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=
 #EXTINF:-1 tvg-name="江西影视旅游" group-title="江西",江西影视旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="陶瓷" group-title="江西",陶瓷
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226304/2/index.m3u8
-#EXTINF:-1 tvg-name="江西IPTV1" group-title="江西",江西IPTV1
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
-#EXTINF:-1 tvg-name="江西IPTV2" group-title="江西",江西IPTV2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226381/2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226304/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="南昌新闻综合" group-title="江西",南昌新闻综合
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="南昌都市" group-title="江西",南昌都市
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="南昌资讯" group-title="江西",南昌资讯
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="赣州新闻综合" group-title="江西",赣州新闻综合
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226408/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="赣州公共" group-title="江西",赣州公共
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226412/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="赣州教育" group-title="江西",赣州教育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226411/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,tvg-name="九江公共频道" group-title="江西",九江公共频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226420/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,tvg-name="九江教育频道" group-title="江西",九江教育频道
@@ -255,7 +259,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="纪实科教" group-title="北京",纪实科教
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-name="重庆汽摩" group-title="重庆",重庆汽摩
+#EXTINF:-1 tvg-name="汽摩" group-title="重庆",汽摩
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="铜梁综合" group-title="重庆",铜梁综合
 http://183.64.174.171:40123/ch1.m3u8
@@ -282,7 +286,7 @@ http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
 #EXTINF:-1 tvg-name="梨园频道" group-title="河南",梨园频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="文物宝库" group-title="河南",文物宝库
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226328/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="武术世界" group-title="河南",武术世界
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="黑龙江",哈尔滨新闻综合
@@ -387,8 +391,12 @@ https://rmplive.hljtv.com/live/tieli.m3u8
 http://59.175.226.142:280/gb28181/xwzh.m3u8
 #EXTINF:-1 tvg-name="十堰经济旅游" group-title="湖北",十堰经济旅游
 http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+#EXTINF:-1 tvg-name="茶频道" group-title="湖南",茶频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="湖南",金鹰纪实
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="湖南",快乐垂钓
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="先锋乒羽" group-title="湖南",先锋乒羽
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226311/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="长春.德惠综合" group-title="吉林",长春.德惠综合
@@ -413,6 +421,8 @@ http://stream5.jlntv.cn/hn/sd/live.m3u8
 http://stream5.jlntv.cn/thx/sd/live.m3u8
 #EXTINF:-1 tvg-name="延边.珲春" group-title="吉林",延边.珲春
 http://stream8.jlntv.cn/hctv/sd/live.m3u8
+#EXTINF:-1 tvg-name="财富天下" group-title="江苏",财富天下
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226336/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="南京.江宁综合" group-title="江苏",南京.江宁综合
 http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 tvg-name="常州.金坛新闻" group-title="江苏",常州.金坛新闻
@@ -431,6 +441,14 @@ http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 #EXTINF:-1 tvg-name="宿迁.泗阳资讯" group-title="江苏",宿迁.泗阳资讯
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1 tvg-name="无锡新闻综合" group-title="江苏",无锡新闻综合
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡都市资讯" group-title="江苏",无锡都市资讯
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡生活" group-title="江苏",无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡娱乐" group-title="江苏",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-name="徐州.沛县新闻综合" group-title="江苏",徐州.沛县新闻综合
 http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
 #EXTINF:-1 tvg-name="徐州.睢宁综合" group-title="江苏",徐州.睢宁综合
