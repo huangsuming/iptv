@@ -533,16 +533,26 @@ http://xatv-yt.xiancity.cn/live/5/index.m3u8
 http://xatv-yt.xiancity.cn/live/4/index.m3u8
 #EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安移动电视
 http://xatv-yt.xiancity.cn/live/7/index.m3u8
+#EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
+http://[2409:8087:1e02:20::1a]/000000001000/5000000010000027146/index.m3u8
+#EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
+http://[2409:8087:1e02:20::1a]/000000001000/5000000007000010003/index.m3u8
+#EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
+http://[2409:8087:1e02:20::1a]/000000001000/5000000010000032212/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" group-title="上海",都市剧场
 http://[2409:8087:1e02:20::1a]/000000001000/5000000002000004412/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" group-title="上海",法治天地
 http://[2409:8087:1e02:20::1a]/000000001000/9001547084732463424/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="上海",欢笑剧场
+#EXTINF:-1 tvg-name="欢笑剧场4K" group-title="上海",欢笑剧场4K
 http://[2409:8087:1e02:20::1a]/000000001000/5000000002000009455/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" group-title="上海",金色学堂
 http://[2409:8087:1e02:20::1a]/000000001000/5000000010000026105/index.m3u8
 #EXTINF:-1 tvg-name="乐游" group-title="上海",乐游
 http://[2409:8087:1e02:20::1a]/000000001000/5000000011000031112/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚" group-title="上海",生活时尚
+http://[2409:8087:1e02:20::1a]/000000001000/5000000002000019634/index.m3u8
+#EXTINF:-1 tvg-name="五星体育" group-title="上海",五星体育
+http://[2409:8087:1e02:20::1a]/000000001000/5000000010000017540/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" group-title="上海",游戏风云
 http://[2409:8087:1e02:20::1a]/000000001000/5000000002000027005/index.m3u8
 #EXTINF:-1 tvg-name="阿坝.松潘" group-title="四川",阿坝.松潘
@@ -693,3 +703,4 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="纬来精采" group-title="台湾",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
+
