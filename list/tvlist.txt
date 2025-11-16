@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CBN重温经典.png" group-title="总台",CBN重温经典
-http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
+http://120.76.248.139/live/bfgd/4200000635.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
 http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV8K.png" group-title="总台",CCTV 8K
@@ -80,8 +80,8 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CGTN纪录.png" group-title="总台",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CIBN书画频道" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CIBN书画频道.png" group-title="总台",书画频道
-http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/sh_4000.m3u8
-#EXTINF:-1 tvg-name="CMA中国天气" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CMA中国天气.png" group-title="总台",中国天气
+http://211.103.180.178:8233/live_hls/hdmi.m3u8
+#EXTINF:-1 tvg-name="CMA气象频道" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CMA气象频道.png" group-title="总台",气象频道
 http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 #EXTINF:-1 tvg-name="CNC新华社" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CNC中文台.png" group-title="总台",新华新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
