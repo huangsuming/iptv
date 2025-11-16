@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CBN重温经典.png" group-title="总台",CBN重温经典
 http://120.76.248.139/live/bfgd/4200000635.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
-http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
+https://stream1.freetv.fun/cctv4k-1.ctv
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV8K.png" group-title="总台",CCTV 8K
 http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV1.png" group-title="总台",CCTV1综合
