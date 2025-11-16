@@ -10,7 +10,7 @@
 - Apple:[APTV](https://apps.apple.com/cn/app/id1630403500)
 - Windows:[MPC](https://github.com/clsid2/mpc-hc/releases)
 - 代码托管:[Git](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
-  推荐:codeberg github(被墙) netlify vercel(被墙)<br>
+  推荐:[netlify](https://www.netlify.com/)<br>
 
 # 待补充(电视)
   [CRTV1](http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8)<br>
