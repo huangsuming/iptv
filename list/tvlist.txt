@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CBN重温经典.png" group-title="总台",CBN重温经典
-http://120.76.248.139/live/bfgd/4200000635.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
 https://stream1.freetv.fun/cctv4k-1.ctv
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV8K.png" group-title="总台",CCTV 8K
@@ -69,30 +67,36 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221226290/2/index.m3u8
 http://39.135.140.104:6610/PLTV/88888888/224/3221226339/2/index.m3u8
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CCTV央视文化精品.png" group-title="总台",CCTV央视文化精品
 http://39.135.140.104:6610/PLTV/88888888/224/3221226296/2/index.m3u8
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV1.png" group-title="总台",CETV1综合教育频道
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV1.png" group-title="总台",CETV1综合教育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV2.png" group-title="总台",CETV2教育教学频道
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV2.png" group-title="总台",CETV2教育教学
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV4.png" group-title="总台",CETV4职业教育频道
+#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV3.png" group-title="总台",CETV3北京地面
+http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV4.png" group-title="总台",CETV4职业教育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="中国教育早期教育" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CETV早期教育.png" group-title="总台",CETV早期教育
+http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ.m3u8
 #EXTINF:-1 tvg-name="中央新影.发现之旅" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CND中央新影发现之旅.png" group-title="总台",中央新影.发现之旅
 http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
 #EXTINF:-1 tvg-name="中央新影.老故事" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CND中央新影老故事.png" group-title="总台",中央新影.老故事
 http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
 #EXTINF:-1 tvg-name="中央新影.中学生" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CND中央新影中学生.png" group-title="总台",中央新影.中学生
 http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHONGXUESHENG/G_ZHONGXUESHENG.m3u8
+#EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CBN重温经典.png" group-title="总台",CBN重温经典
+http://120.76.248.139/live/bfgd/4200000635.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CGTN.png" group-title="总台",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CGTN纪录.png" group-title="总台",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-name="CMG环球奇观" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CMG环球奇观.png" group-title="总台",CMG环球奇观
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226378/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="GTTV环球旅游" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/GTTV环球旅游.png" group-title="总台",GTTV环球旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226313/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CNC新华社" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CNC中文台.png" group-title="总台",新华新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
 #EXTINF:-1 tvg-name="CNC新华全球连线" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CNC英文台.png" group-title="总台",新华全球连线
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-name="CRI环球奇观" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/CRI环球奇观.png" group-title="总台",CRI环球奇观
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226378/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="GTTV环球旅游" tvg-logo="https://iptvhsm.netlify.app/logo/tv/central/GTTV环球旅游.png" group-title="总台",GTTV环球旅游
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226313/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/江西.png" group-title="卫视",江西卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/安徽.png" group-title="卫视",安徽卫视
@@ -199,10 +203,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" group-title="付费",睛彩青少
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
-#EXTINF:-1 tvg-name="追番必看" group-title="付费",追番必看
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
-#EXTINF:-1 tvg-name="动画世界" group-title="少儿",动画世界
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226272/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://[2409:8087:1e02:20::1a]/000000001000/5000000011000031123/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" group-title="少儿",黑莓动画
@@ -237,8 +237,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226330/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226334/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="精品体育" group-title="NewTV",精品体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/01.m3u8
-#EXTINF:-1 ,tvg-name="Unknown" group-title="NewTV",Unknown
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
 #EXTINF:-1 tvg-name="Windows" group-title="NewTV",Windows
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="江西新闻" group-title="江西",江西新闻
