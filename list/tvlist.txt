@@ -119,8 +119,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/广东.png" group-title="卫视",广东卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/大湾区.png" group-title="卫视",大湾区卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/深圳.png" group-title="卫视",深圳卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://iptvhsm.netlify.app/logo/tv/satellite/广西.png" group-title="卫视",广西卫视
