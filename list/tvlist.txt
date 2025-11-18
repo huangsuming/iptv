@@ -215,8 +215,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8
 #EXTINF:-1 tvg-name="KAKU少儿" group-title="少儿",KAKU少儿
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="淘BABY" group-title="少儿",淘BABY
-http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
 #EXTINF:-1 tvg-name="新动漫" group-title="少儿",新动漫
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226322/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
@@ -271,20 +269,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226420/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="九江新闻综合频道" group-title="江西",九江新闻综合频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="重温经典" group-title="北京",重温经典
-http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 #EXTINF:-1 tvg-name="纪实科教" group-title="北京",纪实科教
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="4K超高清" group-title="北京",4K超高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/index.m3u8
-#EXTINF:-1 tvg-name="萌宠TV" group-title="北京",萌宠TV
-http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
-#EXTINF:-1 tvg-name="淘电影" group-title="北京",淘电影
-http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-name="淘剧场" group-title="北京",淘剧场
-http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 tvg-name="淘娱乐" group-title="北京",淘娱乐
-http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 #EXTINF:-1 tvg-name="汽摩" group-title="重庆",汽摩
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="铜梁综合" group-title="重庆",铜梁综合
