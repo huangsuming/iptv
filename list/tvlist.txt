@@ -233,6 +233,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西经济生活" group-title="江西",江西经济生活
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西移动电视" group-title="江西",移动电视
+http://39.135.140.104:6610/PLTV/88888888/224/3221226427/2/index.m3u8
 #EXTINF:-1 tvg-name="陶瓷" group-title="江西",陶瓷
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226304/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="南昌新闻综合" group-title="江西",南昌新闻综合
@@ -253,10 +255,12 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226420/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="九江新闻综合频道" group-title="江西",九江新闻综合频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="纪实科教" group-title="北京",纪实科教
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="4K超高清" group-title="北京",4K超高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/index.m3u8
+#EXTINF:-1 tvg-name="纪实科教" group-title="北京",纪实科教
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="EETV生态环境" group-title="北京",生态环境
+http://39.135.140.104:6610/PLTV/88888888/224/3221226325/2/index.m3u8
 #EXTINF:-1 tvg-name="汽摩" group-title="重庆",汽摩
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="铜梁综合" group-title="重庆",铜梁综合
