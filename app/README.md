@@ -2,17 +2,18 @@
 # MIUITV
 - ADB<br>
   [Termux](https://termux.dev/cn/)<br>
-  (1)安装Vim:pkg install tsu && apt install vim
-  (2)更新apt:apt update && apt upgrade<br>
-  (3)安装adb:apt install android-tools<br>
-  (4)获取存储权限:termux-setup-storage<br>
-  (5)打开ADB调试:<br>
+  (1)安装Termux-api软件包:pkg install termux-api
+  (2)安装Vim:pkg install tsu && apt install vim
+  (3)更新apt:apt update && apt upgrade<br>
+  (4)安装adb:apt install android-tools<br>
+  (5)获取存储权限:termux-setup-storage<br>
+  (6)打开ADB调试:<br>
   TCL:系统信息-快速按下↑ ↓ ← →<br>
-  (6)连接电视终端(提前打开ADB调试):adb connect 192.168.1.108<br>
-  (7)TCL打开第三方应用安装权限<br>
+  (7)连接电视终端(提前打开ADB调试):adb connect 192.168.1.108<br>
+  (8)TCL打开第三方应用安装权限<br>
   adb shell setprop persist.tcl.debug.installapk 1<br>
   adb shell setprop persist.tcl.installapk.enable 1<br>
-  (8)安装软件:<br>
+  (9)安装软件:<br>
   cd /storage/emulated/0/Download/quark<br>
   adb install xxx.apk<br>
 - 桌面<br>
