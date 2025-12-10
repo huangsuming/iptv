@@ -55,4 +55,3 @@ jobs:
         git add list/fmm.m3u list/zbds.txt list/iptv.txt
         git commit -m "${{ steps.date.outputs.date }}"
         git push origin main
-		
