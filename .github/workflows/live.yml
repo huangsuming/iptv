@@ -50,11 +50,11 @@ jobs:
         sed -i 's/tvg-logo="" //g' iptv.txt
 		rm fmm.txt index.txt zbds.txt
         wget https://freetv.fun/test_channels_all_original_new.txt --no-check-certificate -O freetv.txt
-        mv iptv.txt freetv.txt list
+        
     - name: Push
       run: |
         git config --local user.name "huangsuming"
         git config --local user.email "huangsuming@users.noreply.github.com"
-        git add list/iptv.txt list/freetv.txt
+        git add freetv.txt iptv.txt
         git commit -m "${{ steps.date.outputs.date }}"
         git push origin main
