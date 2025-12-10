@@ -51,7 +51,7 @@ jobs:
         sed -i 's/tvg-logo="" //g' iptv.txt
         rm fmm.txt index.txt zbds.txt
         mv freetv.txt iptv.txt list
-		
+
     - name: Push
       run: |
         git config --local user.name "huangsuming"
@@ -59,4 +59,3 @@ jobs:
         git add list/freetv.txt list/iptv.txt
         git commit -m "${{ steps.date.outputs.date }}"
         git push origin main
-		
