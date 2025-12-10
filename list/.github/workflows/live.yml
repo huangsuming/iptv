@@ -51,8 +51,8 @@ jobs:
 		
     - name: Push
       run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "huangsuming"
+        git config --local user.email "huangsuming@users.noreply.github.com"
         git add iptv.txt freetv.txt
         git commit -m "${{ steps.date.outputs.date }}"
         git push -f origin github
