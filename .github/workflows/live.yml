@@ -35,7 +35,6 @@ jobs:
       
     - name: Update
       run: |
-        wget https://freetv.fun/test_channels_all_original_new.txt --no-check-certificate -O freetv.txt
         wget https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u --no-check-certificate -O fmm.txt
         wget https://iptvindex.com/tv.txt --no-check-certificate -O index.txt
         wget https://live.zbds.top/tv/iptv4.txt --no-check-certificate -O zbds.txt
@@ -50,12 +49,12 @@ jobs:
         grep m3u zbds.txt >> iptv.txt
         sed -i 's/tvg-logo="" //g' iptv.txt
         rm fmm.txt index.txt zbds.txt
-        mv freetv.txt iptv.txt list
+        mv iptv.txt list
 
     - name: Push
       run: |
         git config --local user.name "huangsuming"
         git config --local user.email "huangsuming@users.noreply.github.com"
-        git add list/freetv.txt list/iptv.txt
+        git add list/iptv.txt
         git commit -m "${{ steps.date.outputs.date }}"
         git push origin main
