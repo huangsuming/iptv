@@ -1,4 +1,4 @@
-#update on 2025-12-31 21:55:32
+#update on 2025-12-31 22:34:49
 #clone from fanmingming
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
