@@ -243,6 +243,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="南昌资讯" group-title="江西",南昌资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="抚州综合" group-title="江西",抚州综合
+http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
+#EXTINF:-1 tvg-name="抚州公共" group-title="江西",抚州公共
+http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 #EXTINF:-1 tvg-name="赣州新闻综合" group-title="江西",赣州新闻综合
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226408/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="赣州公共" group-title="江西",赣州公共
@@ -519,6 +523,8 @@ http://[2409:8087:1e02:20::1a]/000000001000/5000000010000027146/index.m3u8
 http://[2409:8087:1e02:20::1a]/000000001000/5000000007000010003/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
 http://[2409:8087:1e02:20::1a]/000000001000/5000000010000032212/index.m3u8
+#EXTINF:-1 tvg-name="都市" group-title="上海",都市
+http://111.56.90.5/000000000000/5000000010000018926/1.m3u8
 #EXTINF:-1 tvg-name="都市剧场" group-title="上海",都市剧场
 http://[2409:8087:1e02:20::1a]/000000001000/5000000002000004412/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" group-title="上海",法治天地
