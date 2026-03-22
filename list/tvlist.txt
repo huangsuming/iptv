@@ -243,10 +243,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="南昌资讯" group-title="江西",南昌资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="抚州综合" group-title="江西",抚州综合
-http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
-#EXTINF:-1 tvg-name="抚州公共" group-title="江西",抚州公共
-http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 #EXTINF:-1 tvg-name="赣州新闻综合" group-title="江西",赣州新闻综合
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226408/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="赣州公共" group-title="江西",赣州公共
