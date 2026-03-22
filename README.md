@@ -6,11 +6,11 @@
 - 电台直播源:[radio](https://huangsuming.github.io/iptv/list/radio.txt)
 
 # 软件推荐
-- Andriod:[Televizo](https://televizo.net/)
+- Andriod:[Televizo](https://televizo.net)
 - Apple:[APTV](https://apps.apple.com/cn/app/id1630403500)
 - Windows:[MPC](https://github.com/clsid2/mpc-hc/releases)
 - 代码托管:[Git](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
-  推荐:[netlify](https://www.netlify.com/)<br>
+  推荐:[netlify](https://www.netlify.com) [vercel](https://vercel.com)<br>
 
 # 待补充(电视)
   CCTV8K<br>
