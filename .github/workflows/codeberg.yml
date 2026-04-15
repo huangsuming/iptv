@@ -1,4 +1,4 @@
-name: 'Mirror to Codeberg'
+name: Sync to Codeberg
 
 on:
   push:
@@ -8,20 +8,18 @@ on:
 
 jobs:
   mirror:
-    name: 'Mirror'
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: 'Checkout'
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  
+          fetch-depth: 0
 
-      - name: 'Mirror to Codeberg'
+      - name: Mirror to Codeberg
         uses: cssnr/mirror-repository-action@v1
         with:
           host: https://codeberg.org
+          owner: suxiaoming
           username: suxiaoming
           password: ${{ secrets.CODEBERG }}
-          
+          create: true
