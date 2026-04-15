@@ -1,4 +1,4 @@
-name: Sync to Codeberg
+name: Codeberg
 
 on:
   push:
@@ -15,11 +15,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Mirror to Codeberg
+      - name: Sync to Codeberg
         uses: cssnr/mirror-repository-action@v1
         with:
           host: https://codeberg.org
           owner: suxiaoming
           username: suxiaoming
           password: ${{ secrets.CODEBERG }}
-          create: true
+          
