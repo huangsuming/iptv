@@ -3,10 +3,10 @@
 ## 播放列表
 - 电视直播<br>
 	[github](https://huangsuming.github.io/iptv/list/tvlist.txt)<br>
-	[netlify](https://iptvhsm.netlify.app/list/tvlist.txt)<br>
+	[codeberg](https://suxiaoming.codeberg.page/iptv/list/tvlist.txt)<br>
 - 电台直播<br>
 	[github](https://huangsuming.github.io/iptv/list/radio.txt)<br>
-	[netlify](https://iptvhsm.netlify.app/list/radio.txt)<br>
+	[codeberg](https://suxiaoming.codeberg.page/iptv/list/radio.txt)<br>
 - [托管平台](https://www.cnblogs.com/jetsung/p/git-service.html)<br>
 - NSFW:<br>
 	[RedTraffic](http://redtraffic.net/all.m3u8)<br>
@@ -21,6 +21,8 @@
    [zbds](https://live.zbds.top)<br>
    [zhi35](https://live.zhi35.com)<br>
    [IPTVindex](https://iptvindex.com)<br>
+   [范明明](https://live.fanmingming.com/)</br>
+   [mytv](https://github.com/mytv-android/China-TV-Live-M3U8)
    论坛:<br>
    [KanIPTV](http://kaniptv.com)<br>
    搜索:<br>
@@ -28,8 +30,7 @@
    在线:<br>
    [*FreeTV](https://freetv.fun)<br>
    [FreeIPTV](https://www.iptv-free.com/zh)<br>
-   [PotPlayer](https://www.potplayer-cn.com/m3u)<br>
-   AbroadRadio:[广播](https://www.abroadradio.net/online/cn) [直播源](https://www.abroadradio.net/bbs/forum-3.htm)<br>
+   [AbroadRadio](https://www.abroadradio.net/bbs/forum-3.htm)<br>
 ## 直播源列表<br>
    TV:<br>
    https://live.zbds.top/tv/iptv4.txt
