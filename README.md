@@ -5,6 +5,10 @@
 - 电视直播源:[tvlist](https://huangsuming.github.io/iptv/list/tvlist.txt)
 - 电台直播源:[radio](https://huangsuming.github.io/iptv/list/radio.txt)
 
+# 反馈
+- 移步至Discussions<br>
+  留言格式:日期(YYYYMMDD)-频道名称-问题描述或建议(只接受江西移动网络环境下的问题反馈)<br>
+  
 # 软件推荐
 - Andriod:[Televizo](https://televizo.net)
 - Apple:[APTV](https://apps.apple.com/cn/app/id1630403500)
@@ -34,10 +38,4 @@
 
 # 感谢
 [范明明](https://github.com/fanmingming)<br>
-
-# 留言
-- [WebNote](https://webnote.cc/suxiaoming)<br>
-  留言格式:日期(YYYYMMDD)-频道名称-问题描述(只接受江西移动网络环境下的问题反馈)<br>
-  
-
 
