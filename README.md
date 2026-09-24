@@ -1,14 +1,15 @@
 本直播源采集自互联网,适用于江西移动网络。
 # 赞赏
 ![icon](/img/wx_reward_qrcode.png)
-# 使用说明
-- 电视直播源:[tvlist](https://huangsuming.github.io/iptv/list/tvlist.txt)
-- 电台直播源:[radio](https://huangsuming.github.io/iptv/list/radio.txt)
 
 # 反馈
 - 移步至Discussions<br>
   留言格式:日期(YYYYMMDD)-频道名称-问题描述或建议(只接受江西移动网络环境下的问题反馈)<br>
   
+# 使用说明
+- 电视直播源:[tvlist](https://huangsuming.github.io/iptv/list/tvlist.txt)
+- 电台直播源:[radio](https://huangsuming.github.io/iptv/list/radio.txt)
+
 # 软件推荐
 - Andriod:[Televizo](https://televizo.net)
 - Apple:[APTV](https://apps.apple.com/cn/app/id1630403500)
